@@ -1,115 +1,115 @@
-IceReflector.DisplayName: Ice Reflector
-ElectricGuitarProj.DisplayName: Electric Guitar
-ElectricGuitarProjPlayer.DisplayName: Lightning Zap
-GranitechDrone.DisplayName: Granitech Drone
-Moonlight_Sack_Lightning.DisplayName: Moonlight Lightning
-RuneHeart.DisplayName: Rune Heart
-Sea_Snail_Poison_Projectile.DisplayName: Sea Snail's Poison
-InterstellarShield.DisplayName: Interstellar Shield
-UkeleleProj.DisplayName: Ukulele
-UkeleleProjTwo.DisplayName: Ukelele
-UmbillicalEyeballProj.DisplayName: Umbillical Eyeball
-Unstable_Tesla_Coil_Projectile.DisplayName: Lightning Zap
-RipperSlugProj.DisplayName: Ripper Slug
-ManajinxStar.DisplayName: Starlight Energy
-AtlasPetProjectile.DisplayName: Atlas Jr.
-AvianHookProjectile.DisplayName: ${ProjectileName.GemHookAmethyst}
-AvianPet.DisplayName: Ancient Hatchling
-TalonPiercerProj.DisplayName: Talon's Fury
-DuskingPetProjectile.DisplayName: Minor Shadowflame
-InfernonPetProjectile.DisplayName: Inferno
-MJWPetProjectile.DisplayName: Moon Jelly Lightbulb
-OccultistPetProjectile.DisplayName: Lil' Occultist
-AdornedBowProj.DisplayName: Adorned Bow Proj
-ScarabArrow.DisplayName: Scarab Arrow
-KhopeshSlash.DisplayName: Royal Khopesh
-LocustBig.DisplayName: Locust
-LocustSmall.DisplayName: Baby Locust
-RadiantCane.DisplayName: Radiant Orb
-ScarabPetProjectile.DisplayName: Lil' Scarab
-LivewireProj.DisplayName: Livewire
-StargloveChargeOrange.DisplayName: Starfall
-StargloveChargePurple.DisplayName: Starfall
-StargloveOrbiterOrange.DisplayName: Starfall
-StargloveOrbiterPurple.DisplayName: Starfall
-StarplateGloveProj.DisplayName: Hundred-Crack Fist
-StarplatePetProjectile.DisplayName: Starplate Miniature
-OrangeBeam.DisplayName: Orange Beam
-StarplateDrone.DisplayName: Starplate Fighter Drone
-ThornArrow.DisplayName: Thorn Arrow
-VinewrathPetProjectile.DisplayName: Wrathful Seedling
-StarPowderProj.DisplayName: Star Powder Proj
-VolleyballProjectile.DisplayName: Volleyball Projectile
-BlizzardProjectile.DisplayName: Blizzard
-KelpHookProj.DisplayName: Kelp Hook
-MagnetHookProj.DisplayName: ${ProjectileName.GemHookAmethyst}
-Zipline.DisplayName: Zipline
-CosmicRattlerPet.DisplayName: Starachnid
-CrystalFlowerProjectile.DisplayName: Crystal Flower
-HeadsplitterProj.DisplayName: Headsplitter
-FlayedArrow.DisplayName: Flayed Bolt
-HeartstrikeProj.DisplayName: Heartstrike
-CarrionCrowArrow.DisplayName: Carrion Crow
-Amethyst_Arrow.DisplayName: Amethyst Arrow
-Diamond_Arrow.DisplayName: Diamond Arrow
-Emerald_Arrow.DisplayName: Emerald Arrow
-Ruby_Arrow.DisplayName: Ruby Arrow
-Sapphire_Arrow.DisplayName: Sapphire Arrow
-Topaz_Arrow.DisplayName: Topaz Arrow
-Ornament_Arrow.DisplayName: Ornament Arrow
-ThornHookProj.DisplayName: Bramble Hook
-StabberShortsword.DisplayName: Example Shortsword
-Basking_Shark_Projectile.DisplayName: Basking Shark
-BubbleMineBubble.DisplayName: Bubble
-BubbleMineProj.DisplayName: Bubble Mine
-Coral_Catcher_Hook.DisplayName: Bobber
-Reef_Wrath_Projectile_1.DisplayName: Coral Reef
-CoilHookProj.DisplayName: Coil Hook
-CryoSwordProj.DisplayName: Rimehowl
-IceWall.DisplayName: Cryo Pillar
-IceWave.DisplayName: Cryo Pillar
-GastricAcid.DisplayName: Gastric Acid
+IceReflector.DisplayName: Ледяной отражатель
+ElectricGuitarProj.DisplayName: Электрогитара
+ElectricGuitarProjPlayer.DisplayName: Разряд молнии
+GranitechDrone.DisplayName: Дрон G-TEK
+Moonlight_Sack_Lightning.DisplayName: Луносветная молния
+RuneHeart.DisplayName: Руническое сердце
+Sea_Snail_Poison_Projectile.DisplayName: Яд морской улитки
+InterstellarShield.DisplayName: Межзвёздный щит
+UkeleleProj.DisplayName: Цепная молния укулеле
+UkeleleProjTwo.DisplayName: Цепная молния укулеле
+UmbillicalEyeballProj.DisplayName: Пуповинный глаз
+Unstable_Tesla_Coil_Projectile.DisplayName: Электрический разряд
+RipperSlugProj.DisplayName: Патрон-потрошитель
+ManajinxStar.DisplayName: Энергия звёздного света
+AtlasPetProjectile.DisplayName: Атлант-младший
+AvianHookProjectile.DisplayName: Птичий крюк
+AvianPet.DisplayName: Древний невылуплёныш
+TalonPiercerProj.DisplayName: Ярость когтя
+DuskingPetProjectile.DisplayName: Маленькое теневое пламя
+InfernonPetProjectile.DisplayName: Маленькое инферно
+MJWPetProjectile.DisplayName: Лунная медуза-лампочка
+OccultistPetProjectile.DisplayName: Крошка-оккультист
+AdornedBowProj.DisplayName: Украшенный лук
+ScarabArrow.DisplayName: Украшенная стрела
+KhopeshSlash.DisplayName: Королевский хопеш
+LocustBig.DisplayName: Саранча
+LocustSmall.DisplayName: Маленькая саранча
+RadiantCane.DisplayName: Миниатюрное солнце
+ScarabPetProjectile.DisplayName: Крошка-скарабея
+LivewireProj.DisplayName: Проводной крюк
+StargloveChargeOrange.DisplayName: Cокрушающий удар
+StargloveChargePurple.DisplayName: Cокрушающий удар
+StargloveOrbiterOrange.DisplayName: Падающая звезда
+StargloveOrbiterPurple.DisplayName: Падающая звезда
+StarplateGloveProj.DisplayName: Кулак стократных сокрушающих ударов
+StarplatePetProjectile.DisplayName: Миниатюрный звёздопанцирник
+OrangeBeam.DisplayName: Оранжевый луч
+StarplateDrone.DisplayName: Звёздопанцирный боевой дрон
+ThornArrow.DisplayName: Стрела колючкострела
+VinewrathPetProjectile.DisplayName: Злой проросток
+StarPowderProj.DisplayName: Звёздный порошок
+VolleyballProjectile.DisplayName: Мяч
+BlizzardProjectile.DisplayName: Метель
+KelpHookProj.DisplayName: Крюк из ламинарии
+MagnetHookProj.DisplayName: Магнитный крюк
+Zipline.DisplayName: Трос
+CosmicRattlerPet.DisplayName: Дракотоп
+CrystalFlowerProjectile.DisplayName: Кристалльный цветок
+HeadsplitterProj.DisplayName: Раскольник
+FlayedArrow.DisplayName: Осквернённая стрела
+HeartstrikeProj.DisplayName: Удар в сердце
+CarrionCrowArrow.DisplayName: Ворон-падальщик
+Amethyst_Arrow.DisplayName: Аметистовая стрела
+Diamond_Arrow.DisplayName: Алмазная стрела
+Emerald_Arrow.DisplayName: Изумрудная стрела
+Ruby_Arrow.DisplayName: Рубиновая стрела
+Sapphire_Arrow.DisplayName: Сапфировая стрела
+Topaz_Arrow.DisplayName: Топазная стрела
+Ornament_Arrow.DisplayName: Драгоценная стрела
+ThornHookProj.DisplayName: Плющевой крюк
+StabberShortsword.DisplayName: Священный закалыватель
+Basking_Shark_Projectile.DisplayName: Ошмёток требухи
+BubbleMineBubble.DisplayName: Пузырь
+BubbleMineProj.DisplayName: Пузырьковая мина
+Coral_Catcher_Hook.DisplayName: Поплавок
+Reef_Wrath_Projectile_1.DisplayName: Коралловое копьё
+CoilHookProj.DisplayName: Проводной крюк
+CryoSwordProj.DisplayName: Морозный вой
+IceWall.DisplayName: Крио-волна
+IceWave.DisplayName: Крио-волна
+GastricAcid.DisplayName: Желудочный сок
 GastricGusherProjectile.DisplayName: Gastric Gusher
-BismiteGrenadeProj.DisplayName: Bismite Grenade
-HealingSplash.DisplayName: Healing Splash
-ClatterMaceProj.DisplayName: Clatter Mace Proj
-JadeDaoProj.DisplayName: Jade Daos
-FloranReacherProj.DisplayName: Bobber
-FrostbiteProj.DisplayName: Blizzard
-GoldChestTop.DisplayName: Gold Chest
-GranitechGunBullet.DisplayName: Granitech Bullet
-EnergyShockwave.DisplayName: Energy Stomp
-EnergyStomp.DisplayName: Energy Stomp
-EnergyStomp_Explosion.DisplayName: Energy Stomp
-GraniteFragment.DisplayName: Granite Fragment
+BismiteGrenadeProj.DisplayName: Бисмитовая граната
+HealingSplash.DisplayName: Лечащий взрыв
+ClatterMaceProj.DisplayName: Грохочущая булава
+JadeDaoProj.DisplayName: Нефритовые дао
+FloranReacherProj.DisplayName: Поплавок
+FrostbiteProj.DisplayName: Метель
+GoldChestTop.DisplayName: Золотой сундук
+GranitechGunBullet.DisplayName: Пуля G-TEK
+EnergyShockwave.DisplayName: Ударная волна
+EnergyStomp.DisplayName: Ударная волна
+EnergyStomp_Explosion.DisplayName: Ударная волна
+GraniteFragment.DisplayName: Деталь G-TEK
 GraniteMaceProj.DisplayName: Granite Mace
 HeliosDash.DisplayName: Helios
 HeliosPhantomProj.DisplayName: Helios
 RagingSunbladeProj.DisplayName: Helios
-BlasterProj.DisplayName: Blaster
-GoldBlasterProj.DisplayName: Blaster
-Bauble.DisplayName: Bauble
-BoomerangBlaster.DisplayName: Boomerang Blaster
-EnergyBeam.DisplayName: Energy Beam
-EnergyBurst.DisplayName: Energy Burst
-GoldBullet.DisplayName: Gold Bullet
-HoloShot.DisplayName: Star Shot
-LongRocket.DisplayName: Rocket
-MiniRocket.DisplayName: Mini Rocket
-PhaseBlast.DisplayName: Phase Blast
-PiercingBeam.DisplayName: Energy Beam
-Starshot.DisplayName: Starshot
-SwiftShot.DisplayName: Energy Beam
-StarplateHologram.DisplayName: Blaster
-HeavenFleetProj.DisplayName: Heaven Fleet
-HeavenfleetStar.DisplayName: Heaven Fleet
+BlasterProj.DisplayName: Бластер
+GoldBlasterProj.DisplayName: Бластер
+Bauble.DisplayName: Безделушка
+BoomerangBlaster.DisplayName: Бластер-бумеранг
+EnergyBeam.DisplayName: Луч энергии
+EnergyBurst.DisplayName: Залп энергии
+GoldBullet.DisplayName: Золотая пуля
+HoloShot.DisplayName: Звёздный выстрел
+LongRocket.DisplayName: Ракета
+MiniRocket.DisplayName: Маленькая ракета
+PhaseBlast.DisplayName: Фазовый выстрел
+PiercingBeam.DisplayName: Луч энергии
+Starshot.DisplayName: Звёздный выстрел
+SwiftShot.DisplayName: Луч энергии
+StarplateHologram.DisplayName: Бластер
+HeavenFleetProj.DisplayName: Звёздный флот
+HeavenfleetStar.DisplayName: Выстрел звёздного флота
 KineticRailgunProj.DisplayName: Tesla Cannon
-VortexExplosion.DisplayName: Vortex Explosion
-LadyLuckProj.DisplayName: Lucky Coin
+VortexExplosion.DisplayName: Взрыв вихря
+LadyLuckProj.DisplayName: Монетка госпожи удачи
 Meteorite_Spew.DisplayName: Meteorite Spew
 NightBullet.DisplayName: Night Bullet
-IronBomberProj.DisplayName: Pulse Grenade
-LibertyProjHeld.DisplayName: Liberty
+IronBomberProj.DisplayName: Импульсная граната
+LibertyProjHeld.DisplayName: Cвобода
 SharkbonesProjHeld.DisplayName: Sharkbones
 SharkbonesRocket.DisplayName: Super Mega Death Rocket
 ArcLashProj.DisplayName: Arc Lash
