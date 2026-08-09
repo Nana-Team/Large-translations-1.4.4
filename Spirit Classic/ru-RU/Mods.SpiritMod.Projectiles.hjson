@@ -28,8 +28,8 @@ LocustSmall.DisplayName: Маленькая саранча
 RadiantCane.DisplayName: Миниатюрное солнце
 ScarabPetProjectile.DisplayName: Крошка-скарабея
 LivewireProj.DisplayName: Проводной крюк
-StargloveChargeOrange.DisplayName: Cокрушающий удар
-StargloveChargePurple.DisplayName: Cокрушающий удар
+StargloveChargeOrange.DisplayName: Сокрушающий удар
+StargloveChargePurple.DisplayName: Сокрушающий удар
 StargloveOrbiterOrange.DisplayName: Падающая звезда
 StargloveOrbiterPurple.DisplayName: Падающая звезда
 StarplateGloveProj.DisplayName: Кулак стократных сокрушающих ударов
@@ -55,7 +55,7 @@ Diamond_Arrow.DisplayName: Алмазная стрела
 Emerald_Arrow.DisplayName: Изумрудная стрела
 Ruby_Arrow.DisplayName: Рубиновая стрела
 Sapphire_Arrow.DisplayName: Сапфировая стрела
-Topaz_Arrow.DisplayName: Топазная стрела
+Topaz_Arrow.DisplayName: Топазовая стрела
 Ornament_Arrow.DisplayName: Драгоценная стрела
 ThornHookProj.DisplayName: Плющевой крюк
 StabberShortsword.DisplayName: Священный закалыватель
@@ -109,7 +109,7 @@ LadyLuckProj.DisplayName: Монетка госпожи удачи
 Meteorite_Spew.DisplayName: Meteorite Spew
 NightBullet.DisplayName: Night Bullet
 IronBomberProj.DisplayName: Импульсная граната
-LibertyProjHeld.DisplayName: Cвобода
+LibertyProjHeld.DisplayName: Свобода
 SharkbonesProjHeld.DisplayName: Sharkbones
 SharkbonesRocket.DisplayName: Super Mega Death Rocket
 ArcLashProj.DisplayName: Arc Lash

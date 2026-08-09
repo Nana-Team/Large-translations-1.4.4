@@ -1236,7 +1236,7 @@ DiseasedSlimeBanner: {
 }
 
 DraugrBanner: {
-	DisplayName: Знамя драуга
+	DisplayName: Знамя драугра
 	Tooltip: ""
 }
 
@@ -5739,136 +5739,6 @@ EyeOfTheSorcererItem: {
 		'''
 }
 
-ChandelierPile: {
-	DisplayName: Broken Chandelier
-	Tooltip: ""
-}
-
-ChestPile: {
-	DisplayName: Abandoned Chest
-	Tooltip: ""
-}
-
-DirtPile: {
-	DisplayName: Pile of Dirt
-	Tooltip: ""
-}
-
-GranitePile: {
-	DisplayName: Granite Rubble
-	Tooltip: ""
-}
-
-GrassStonePile: {
-	DisplayName: Grassy Stone Rubble
-	Tooltip: ""
-}
-
-HellstonePile: {
-	DisplayName: Hellstone Rubble
-	Tooltip: ""
-}
-
-IcePile: {
-	DisplayName: Frozen Rubble
-	Tooltip: ""
-}
-
-LihzahrdPile: {
-	DisplayName: Lihzahrd Brick Rubble
-	Tooltip: ""
-}
-
-MahoganyCage: {
-	DisplayName: Mahogany Cage
-	Tooltip: ""
-}
-
-MahoganyCageFull: {
-	DisplayName: Mahogany Cage (Full)
-	Tooltip: ""
-}
-
-MarblePile: {
-	DisplayName: Marble Rubble
-	Tooltip: ""
-}
-
-MossMudPile: {
-	DisplayName: Mossy Mud Rubble
-	Tooltip: ""
-}
-
-MossStonePile: {
-	DisplayName: Mossy Stone Rubble
-	Tooltip: ""
-}
-
-MushroomPile: {
-	DisplayName: Glowing Mushroom Rubble
-	Tooltip: ""
-}
-
-OldTent: {
-	DisplayName: Old Tent
-	Tooltip: ""
-}
-
-OldWell: {
-	DisplayName: Old Well
-	Tooltip: ""
-}
-
-OldWheelbarrow: {
-	DisplayName: Old Wheelbarrow
-	Tooltip: ""
-}
-
-RustyMinecart: {
-	DisplayName: Rusty Minecart
-	Tooltip: ""
-}
-
-SandPile: {
-	DisplayName: Sandstone Rubble
-	Tooltip: ""
-}
-
-SkeletonPile: {
-	DisplayName: Skeleton Pile
-	Tooltip: ""
-}
-
-StonePile: {
-	DisplayName: Stone Rubble
-	Tooltip: ""
-}
-
-StonePileHelmet: {
-	DisplayName: Helmet Rubble
-	Tooltip: ""
-}
-
-StonePilePickaxe: {
-	DisplayName: Mining Rubble
-	Tooltip: ""
-}
-
-StonePileSword: {
-	DisplayName: Abandoned Sword Rubble
-	Tooltip: ""
-}
-
-WebPile: {
-	DisplayName: Webbed Rubble
-	Tooltip: ""
-}
-
-WoodRuinPile: {
-	DisplayName: Ruined Furniture
-	Tooltip: ""
-}
-
 DefenseCodex: {
 	DisplayName: Магический гримуар: Зона укрепления
 	Tooltip:
@@ -8876,7 +8746,7 @@ ScrapItem6: {
 }
 
 CursedArmorItem: {
-	DisplayName: Статуя драуга
+	DisplayName: Статуя драугра
 	Tooltip: «Будьте осторожны...»
 }
 
