@@ -511,12 +511,12 @@ MocoNoseBooger: {
 }
 
 OrroboroEmbryo: {
-	DisplayName: Undying Embryo
+	DisplayName: Неупокоенный эмбрион
 	Tooltip:
 		'''
-		Upon death you will be revived and given high life regeneration and defense for a short time
-		This revive ability has a 5 minute cooldown before it can activate again
-		During the cooldown, you gain 8% increased damage and critical strike chance
+		Возрождает вас после смерти и даёт большой, но кратковременный бонус к защите и регенерации здоровья
+		Возможность возрождения перезаряжается 10 минут
+		Увеличивает ваш урон и шанс критического удара на 8% во время перезарядки
 		'''
 }
 
@@ -555,7 +555,7 @@ BossBagOldHunter: {
 }
 
 BossBagOrroboro: {
-	DisplayName: Treasure Bag (Orro & Boro)
+	DisplayName: Мешок с сокровищами (Урро и Боро)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -598,12 +598,12 @@ Brick: {
 }
 
 Concoction: {
-	DisplayName: Acidic Concoction
+	DisplayName: Кислотный отвар
 	Tooltip:
 		'''
-		Not consumable
-		A very corrosive substance, made from the most vile ingredients
-		Pour on the giant egg in the valley of eyes to corrode it
+		Не расходуется
+		Крайне едкая жидкость, изготовленная из самых мерзких ингредиентов
+		Вылейте на огромное яйцо из глазастой долины, чтобы растворить его барьер
 		'''
 }
 
@@ -669,8 +669,8 @@ SporeEventStarter: {
 }
 
 StrangeCyst: {
-	DisplayName: Strange Cyst
-	Tooltip: Use nearby the giant egg in the valley of eyes to begin the egg incursion
+	DisplayName: Странная киста
+	Tooltip: Используйте рядом с огромным яйцом в глазастой долине, чтобы начать Яичное нашествие
 }
 
 FlowerBody: {
@@ -1268,7 +1268,7 @@ BigBoneMask: {
 }
 
 BoroMask: {
-	DisplayName: Boro Mask
+	DisplayName: Маска Боро
 	Tooltip: ""
 }
 
@@ -1358,7 +1358,7 @@ OldHunterHat: {
 }
 
 OrroMask: {
-	DisplayName: Orro Mask
+	DisplayName: Маска Урро
 	Tooltip: ""
 }
 
@@ -1574,12 +1574,12 @@ EyeChocolate: {
 }
 
 EyeFruit: {
-	DisplayName: Eye Fruit
+	DisplayName: Глазное яблоко
 	Tooltip:
 		'''
-		Can grant you night vision or dangersense when eaten
-		However, it may sometimes poison you
-		'No, it does not taste good'
+		Дарует эффект ночного зрения или чувства опасности
+		Однако оно может и отравить вас
+		«И нет, оно не вкусное»
 		'''
 }
 
@@ -2297,11 +2297,11 @@ TrapdoorSpiderSaddle: {
 }
 
 OrroboroRing: {
-	DisplayName: Orroboro Ring
+	DisplayName: Кольцо Урроборо
 	Tooltip:
 		'''
-		Summons an orro-boro ring
-		'Very hypnotic'
+		Призывает закольцованных Урро и Боро
+		«Очень залипательно»
 		'''
 }
 
@@ -3524,63 +3524,63 @@ WarlockJesterBoots: {
 }
 
 EyeBody: {
-	DisplayName: Living Flesh Chestmail
-	Tooltip: Increases your max number of minions and sentries by 1
+	DisplayName: Нагрудник из ожившей плоти
+	Tooltip: Увеличивает максимальное количество миньонов и стражей на 1
 }
 
 EyeHead: {
-	DisplayName: Living Flesh Mask
-	Tooltip: 8% increased summon damage
+	DisplayName: Маска из ожившей плоти
+	Tooltip: Увеличивает урон призывателя на 8%
 }
 
 EyeLegs: {
-	DisplayName: Living Flesh Leggings
+	DisplayName: Поножи из ожившей плоти
 	Tooltip:
 		'''
-		6% increased summon damage 
-		12% increased movement speed
+		Увеличивает урон призывателя на 6%
+		Увеличивает скорость передвижения на 12%
 		'''
 }
 
 GoreBody: {
-	DisplayName: Gore Chestplate
+	DisplayName: Нагрудник запёкшейся крови
 	Tooltip:
 		'''
-		10% increased damage
-		12% increased critical strike chance
-		Enemies are more likely to target you
+		Увеличивает урон на 10%
+		Увеличивает шанс критического удара на 12%
+		Враги будут чаще выбирать вас в качестве цели
 		'''
 }
 
 GoreHoodEye: {
-	DisplayName: Gore Mask
+	DisplayName: Маска запёкшейся крови
 	Tooltip:
 		'''
-		20% increased magic and summon damage
-		10% reduced mana cost 
-		Increases your max minions by 2
-		Enemies are more likely to target you
+		Увеличивает магический урон и урон призывателя на 20%
+		Снижает расход маны на 10%
+		Увеличивает максимальное количество миньонов на 2
+		Враги будут чаще выбирать вас в качестве цели
 		'''
 }
 
 GoreHoodMouth: {
-	DisplayName: Gore Hood
+	DisplayName: Капюшон запёкшейся крови
 	Tooltip:
 		'''
-		20% increased melee and ranged damage
-		12% increased melee speed 
-		10% chance to save ammo
-		Enemies are more likely to target you
+		Увеличивает урон ближнего боя и стрелковый урон на 20%
+		Увеличивает скорость ближнего боя на 12%
+		Даёт 10% шанс не потратить боеприпасы
+		Враги будут чаще выбирать вас в качестве цели
 		'''
 }
 
 GoreLegs: {
-	DisplayName: Gore Robe
+	DisplayName: Мантия запёкшейся крови
 	Tooltip:
 		'''
-		20% increased movement speed
-		5% increased critical strike chance
-		Enemies are more likely to target you
+		Увеличивает скорость передвижения на 20%
+		Увеличивает шанс критического удара на 5%
+		Враги будут чаще выбирать вас в качестве цели
 		'''
 }
 
@@ -3594,98 +3594,97 @@ BileGlob: {
 }
 
 Biojets: {
-	DisplayName: Bio-Thrusters
+	DisplayName: Биоускоритель
 	Tooltip:
 		'''
-		Allows flight and slow fall
-		Hold Down to hover
-		'May create an unpleasant mess'
+		{$CommonItemTooltip.FlightAndSlowfall}
+		Удерживайте ВНИЗ, чтобы парить
+		«Может оставить за собой немного грязи»
 		'''
 }
 
 GiantEar: {
-	DisplayName: Symbiotic Ear
+	DisplayName: Симбиотическое ухо
 	Tooltip:
 		'''
-		Summons an ear companion that shoots out damaging sound blasts while you attack
-		The damage and frequency of the blasts scales based on the weapon you are currently using
+		Призывает ухо-компаньона, выпускающего наносящие урон звуковые волны, когда вы атакуете
+		Урон и частота волн зависит от урона и скорости оружия, которое вы используете
 		'''
 }
 
 GooChompers: {
-	DisplayName: Corroding Chompers
+	DisplayName: Кариесные кусаки
 	Tooltip:
 		'''
-		Increases critical strike chance by 10%
-		Hitting enemies may attach a set of goo jaws to deal additional damage
-		The goo jaws deal the same amount of damage as the hit that spawned it
+		Увеличивает шанс критического удара на 10%
+		Попадания по врагам могут прилепить к ним склизкие челюсти
+		Урон челюстей зависит от урона атаки, призвавшей их
 		'''
 }
 
 PeptoStomach: {
-	DisplayName: Peptobyssmal
+	DisplayName: Пепто-бездонный желудок
 	Tooltip:
 		'''
-		Hitting enemies will sometimes give them a stomach ache which weakens them
-		Enemies that have this debuff will explode into damaging pink bubbles on death
-		These pink bubbles can also sometimes inflict stomach ache onto enemies
+		Попадания по врагам иногда будут вызывать у них боль в животе, ослабляющую их
+		Враги с болью в животе при смерти взрываются розовыми пузырями, наносящими урон
+		Розовые пузыри также могут вызвать боль в животе у поражённых врагов
 		'''
 }
 
 SmokerLung: {
-	DisplayName: Smoker's Lungs
+	DisplayName: Лёгкие курильщика
 	Tooltip:
 		'''
-		Press the Accessory Hotkey to cough up a lingering cloud of smoke
-		Enemies caught in the smoke may also cough out smoke clouds randomly for a short time
-		You cannot create another smoke cloud for a minute
+		Нажмите клавишу «Навык аксессуара», чтобы выпустить большое облако дыма
+		Враги, попавшие в облако дыма, также начнут выкашливать подобные облака в течение короткого времени
+		Перезаряжается 1 минуту
 		'''
 }
 
 StonedKidney: {
-	DisplayName: Stoned Kidney
+	DisplayName: Каменная почка
 	Tooltip:
 		'''
-		While not using weapons you will charge up the stoned kidney
-		At full charge, attacking will launch a spread of high damage kidney rocks
-		You will also gain 15% increased damage while at full charge
+		Накапливает почечную шкалу, пока вы не используете оружие
+		Полная почечная шкала увеличивает ваш урон на 15% и вызывает шквал камней при использовании оружия
 		'''
 }
 
 VeinChain: {
-	DisplayName: Two-Way Blood-Way
+	DisplayName: Двустороннее кровообращение
 	Tooltip:
 		'''
-		Chance on hitting nearby enemies to attach a life-stealing vein on them
-		The chains will remain attached to enemies as long as you are close enough to that enemy
-		You can have up to 3 chains on different enemies, and this amount will lower if your health is lower
+		При попадании по врагу вы иногда будите цепляться за него высасывающей здоровье веной
+		Вены будут прикреплены до тех пор, пока вы достаточно близко к зацепленным врагам
+		Максимум можно зацепиться за 3 врагов, но это число будет уменьшаться по мере снижения вашего здоровья
 		'''
 }
 
 TotalOrganPackage: {
-	DisplayName: Total Organ Package
+	DisplayName: Полный пакет органов
 	Tooltip:
 		'''
-		Grants the abilities of all organ accessories
-		10% increased critical strike chance
-		Hitting enemies may attach a set of goo jaws to them to deal additional damage
-		Chance on hitting nearby enemies to attach a life-stealing vein that damages them and heals you
-		Hitting enemies will sometimes give them a stomach ache, on death they will explode pink bubbles
-		While not using items you will charge up a kidney rock, at full charge attacking will launch stones
-		Press the Accessory Hotkey to cough up a lingering cloud of smoke
-		Enemies caught in the smoke will also cough smoke clouds randomly for a short time
-		Summons an ear companion that shoots out damaging sound blasts while you attack
+		Объединяет эффекты от всех аксессуаров-органов
+		Увеличивает шанс критического удара на 10%
+		Попадания по врагам могут прилепить к ним склизкие челюсти, наносящие дополнительный урон
+		При попадании по врагу вы иногда будите цепляться за него высасывающей здоровье веной
+		Попадания по врагам также иногда будут вызывать у них боль в животе, из-за чего они будут взрываться розовыми пузырями при смерти
+		Накапливает почечную шкалу, пока вы не используете оружие, вызывающую шквал камней при полном заряде
+		Нажмите клавишу «Навык аксессуара», чтобы выпустить большое облако дыма
+		Враги, попавшие в облако дыма, также начнут выкашливать подобные облака в течение короткого времени
+		Призывает ухо-компаньона, выпускающего наносящие урон звуковые волны, когда вы атакуете
 		'''
 }
 
 ArteryPiece: {
-	DisplayName: Living Artery
-	Tooltip: Filled with strange blood
+	DisplayName: Ожившая артерия
+	Tooltip: «Наполнена странной кровью»
 }
 
 CreepyChunk: {
-	DisplayName: Monster Meat
-	Tooltip: "'Looks almost edible!'"
+	DisplayName: Мясо монстра
+	Tooltip: «Выглядит почти съедобно!»
 }
 
 EyeValleyCompass: {
@@ -3694,7 +3693,7 @@ EyeValleyCompass: {
 }
 
 LeechWhipGore: {
-	DisplayName: Gore Food
+	DisplayName: Съедобная плоть
 	Tooltip: ""
 }
 
@@ -3713,16 +3712,16 @@ SnotGlob: {
 }
 
 SpookyHellKey: {
-	DisplayName: Eye Valley Key
-	Tooltip: Unlocks an eye chest in the catacombs
+	DisplayName: Глазастый ключ
+	Tooltip: Отпирает глазастый сундук в Катакомбах
 }
 
 SpookyHellSolution: {
-	DisplayName: Red & Purple Solution
+	DisplayName: Красно-фиолетовый раствор
 	Tooltip:
 		'''
-		Used by the Clentaminator
-		Spreads the Eye Valley onto underworld blocks
+		Используется очистителем
+		Распространяет глазастую долину на блоках преисподней
 		'''
 }
 
@@ -3737,30 +3736,30 @@ SentientBeeGun: {
 }
 
 SentientBladeTongue: {
-	DisplayName: Tongueblade
+	DisplayName: Языкоострый
 	Tooltip:
 		'''
-		Hitting enemies with the tongue may confuse them
-		Hold down right click to belch out clouds of ichor
-		'Which came first, the tongue or the creature?'
+		Атаки клинком могут наложить на врагов дебафф «{$BuffName.Confused}»
+		Удерживайте ПКМ, чтобы выпустить облака ихора
+		«Что появилось раньше — язык или существо?»
 		'''
 }
 
 SentientBloodRainBow: {
-	DisplayName: Uncanine
+	DisplayName: Безклыкий
 	Tooltip:
 		'''
-		Shoots teeth that fly upward and then fall back down towards your cursor
-		'It looks severely brain damaged'
+		Выпускает окровавленные клыки в небо, которые затем быстро падают в сторону вашего курсора
+		«Выглядит как-то отшиблено»
 		'''
 }
 
 SentientCap: {
-	DisplayName: Capsworth
+	DisplayName: Достойная кепка
 	Tooltip:
 		'''
-		Will sometimes talk to you and make horrible noises while worn
-		'You better not be capping'
+		Иногда разговаривает и издаёт ужасные звуки при ношении
+		«Ну ты и шляпа»
 		'''
 }
 
@@ -3776,41 +3775,41 @@ SentientChainKnife: {
 }
 
 SentientChik: {
-	DisplayName: Pendeloque
+	DisplayName: Пенделок
 	Tooltip:
 		'''
-		Cries out crystal tears
-		'Hope it isn't actually sad'
+		Плачет кристальными слезами
+		«Надеюсь, ему на самом деле не грустно»
 		'''
 }
 
 SentientChumCaster: {
-	DisplayName: Goblin Shark Rod
+	DisplayName: Акулогоблиновая удочка
 	Tooltip:
 		'''
-		Fish with two bobbers at once
-		Able to catch dangerous creatures from the blood lake
-		'It snarls at you'
+		Забрасывает два поплавка за раз
+		Может выловить чудовищ из озера крови
+		«Она рычит на вас»
 		'''
 }
 
 SentientClingerStaff: {
-	DisplayName: Moocher Staff
+	DisplayName: Посох паразита
 	Tooltip:
 		'''
-		Creates a massive cursed inferno explosion on the ground that creates fireballs
-		'Funny noises come from its flames'
+		Создаёт временные стены проклятого пламени, быстро наносящие урон врагам
+		«Его огни издают забавные звуки»
 		'''
 }
 
 SentientGatligator: {
-	DisplayName: Gator Gun
+	DisplayName: Аллигаторный пулемёт
 	Tooltip:
 		'''
-		Fires bullets extremely wildly and inaccurately
-		Will sometimes vomit out meat giblets that explode when they hit enemies
-		33% chance to save ammo
-		'Half aligator, half gun, and has a mind of its own'
+		Крайне быстро стреляет пулями с большим разбросом
+		Иногда извергает потроха, взрывающиеся при попадании по врагу
+		33% шанс не потратить боеприпасы
+		«Наполовину аллигатор, наполовину пулемёт, так ещё и обладает разумом»
 		'''
 }
 
@@ -3824,82 +3823,82 @@ SentientHarpoon: {
 }
 
 SentientImpStaff: {
-	DisplayName: Gargoyle Scepter
+	DisplayName: Скипетр гаргульи
 	Tooltip:
 		'''
-		Summons Grug the gargoyle to fight with you
-		Only one can exist, and he requires 2 minion slots to summon
-		'He's actually a gargoyle, not a grugoyle'
+		Призывает гаргулью-камнеголового, преследующего вас
+		Может быть призван только один камнеголовый, занимающий 2 слота миньонов
+		«Гаргульи обычно каменные, а не камнеголовые»
 		'''
 }
 
 SentientKatana: {
-	DisplayName: Conscious Cutter
+	DisplayName: Разумный резак
 	Tooltip:
 		'''
-		Hitting an enemy slashes all enemies nearby you
-		'It's a mystery how it doesn't get whiplash'
+		Попадание по врагу также наносит урон врагам поблизости
+		«Удивительно, что у него шея до сих пор не отвалилась»
 		'''
 }
 
 SentientKeybrand: {
-	DisplayName: Molar Mauler
+	DisplayName: Молярный мучитель
 	Tooltip:
 		'''
-		Swing twice, then throw it as a boomerang
-		Hitting enemies may permanently lower their defense by 1, up to 15 total
-		Deals more damage to enemies below half health
-		'Should be brought to a dentist regularly'
+		Делает два взмаха, а затем бросается как бумеранг
+		Попадание по врагу может снизить его защиту на 1 ед., вплоть до 15
+		Наносит больше урона врагам, у которых менее 50% здоровья
+		«Ему бы почаще посещать стоматолога»
 		'''
 }
 
 SentientLeafBlower: {
-	DisplayName: Carrion Chunker
+	DisplayName: Пулятель падали
 	Tooltip:
 		'''
-		Rapidly spits out a bunch of different organic chunks that all do different things
-		'Heart healthy!'
+		Быстро выстреливает кусками органики, имеющими различное поведение
+		«От всего сердца!»
 		'''
 }
 
 SentientLeatherWhip: {
-	DisplayName: Licker
+	DisplayName: Лизатель
 	Tooltip:
 		'''
-		7 summon tag damage
-		Your summons will focus struck enemies
-		Hold down to charge the whip up, giving it longer range and higher damage
-		'It tastes everything it hits'
+		7 ед. урона от метки призывателя
+		{$CommonItemTooltip.Whips}
+		Удерживайте ЛКМ, чтобы хлыст постепенно становился сильнее и длиннее
+		«Пробует на вкус всё, до чего может дотянуться»
 		'''
 }
 
 SentientLifeDrain: {
-	DisplayName: Soul Sucker
+	DisplayName: Поглотитель души
 	Tooltip:
 		'''
-		Siphons souls from enemies near your cursor, which can heal your life or mana
-		After absorbing 20 souls, the staff will unleash a powerful aura
-		'It looks at you maliciously'
+		Высасывает душу из врагов, находящихся рядом с вашим курсором, что восстанавливает ваше здоровье и ману
+		Посох начнёт излучать наносящую урон ауру после поглощения 20 душ
+		«Он злобно смотрит на вас»
 		'''
 }
 
 SentientMagnetSphere: {
-	DisplayName: Necronomicon Volume II
+	DisplayName: Некрономикон, том II
 	Tooltip:
 		'''
-		Channel a controllable heart that zaps nearby enemies with blood lightning
-		The heart grows in size and power the longer it is channeled
-		'Caution: May bite'
+		Выпускает управляемое курсором сердце, атакующее молнией ближайших врагов
+		Чем дольше сердце управляется, тем больше и сильнее оно становится
+		«Осторожно, кусается!»
 		'''
 }
 
 SentientMineLauncher: {
-	DisplayName: Eye Belcher
+	DisplayName: Глазоотрыгиватель
 	Tooltip:
 		'''
-		Fires out a giant spread of eye mines that linger on the ground and explode on contact
-		Eye mines deal significantly more damage if they are detonated while on the ground
-		'Takes great pride in its eyelashes'
+		Запускает большое количество глаз-мин, которые некоторое время остаются на земле и взрываются при контакте с врагом
+		Глаза-мины наносят намного больше урона, если они взорвались, когда находились на земле
+		«Он очень гордится своими ресницами»
 		'''
 }
 
@@ -3923,12 +3922,12 @@ SentientPaintballGun: {
 }
 
 SentientPaladinsHammer: {
-	DisplayName: Dave & Mike
+	DisplayName: Дейв и Майк
 	Tooltip:
 		'''
-		Throw a two-faced hammer that will chase a nearby enemy
-		Upon reaching the targeted enemy, it will strike it 3 times before returning to you
-		'They won't stop yapping'
+		Бросает двухсторонний молот, самонаводящийся на ближайших врагов
+		Наведясь на врага, молот совершит три удара, прежде чем вернуться к вам
+		«Им не надоест нести херню»
 		'''
 }
 
@@ -3943,12 +3942,12 @@ SentientPygmyStaff: {
 }
 
 SentientRavenStaff: {
-	DisplayName: Avian's Crux
+	DisplayName: Птичья сущность
 	Tooltip:
 		'''
-		Summons Billy-Bone the raven to fight with you
-		Only one can exist, and he requires 3 minion slots to summon
-		'Its heart is beating slowly'
+		Призывает ворона Билли Бонса сражаться за вас
+		За раз может быть призван только один ворон, и он занимает 3 слота миньонов
+		«Его сердце бьётся очень медленно»
 		'''
 }
 
@@ -3962,50 +3961,50 @@ SentientRuler: {
 }
 
 SentientShootius: {
-	DisplayName: Sentient Shootius
+	DisplayName: Разумникус Стрелятус
 	Tooltip:
 		'''
-		Summons a living eye tendril sentry to shoot beams at enemies
-		'It can stare holes through anything'
+		Призывает пружинящий глаз-стража, стреляющего лазерами в ближайших врагов
+		«Испепелит взглядом что угодно»
 		'''
 }
 
 SentientSkullBook: {
-	DisplayName: Necronomicon
+	DisplayName: Некрономикон
 	Tooltip:
 		'''
-		Casts out fast magic skulls that will bite onto enemies
-		'Nom nom nom!'
+		Выпускает быстрые магические черепа, вгрызающиеся в врагов
+		«Ням ням ням!»
 		'''
 }
 
 SentientSphereStaff: {
-	DisplayName: Living Caduceus
+	DisplayName: Оживший Кадуцей
 	Tooltip:
 		'''
-		Summons winged biomass chunks to attack foes
-		After attacking a single enemy for too long, the biomass will chase its target and explode
-		'Probably not a symbol of health'
+		Призывает комки крылатой биомассы, атакующие врагов
+		Если долго атаковать одного и того же врага, то биомасса влетит в него и взорвётся
+		«Не очень похоже на символ здоровья»
 		'''
 }
 
 SentientToxikarp: {
-	DisplayName: Bubble Belcher
+	DisplayName: Пузыреотрыгиватель
 	Tooltip:
 		'''
-		Spits out toxic bubbles that bounce off of surfaces
-		Sometimes spits out special colored bubbles that all do different things
-		'Killer fish from valley of eyes!'
+		Выплёвывает токсичные пузыри, отскакивающие от блоков
+		Иногда также выплевывает пузыри другого цвета, отличающиеся по свойствам
+		«Рыба-убийца глазастой долины!»
 		'''
 }
 
 SentientVenusMagnum: {
-	DisplayName: Ooze Magnum
+	DisplayName: Магнум «Выделятель»
 	Tooltip:
 		'''
-		Fires out bile and piercing teeth abhorrently slowly, but speeds up the longer it is used
-		Releasing while at maximum fire rate will shoot a giant explosive glob of bile
-		'It oozes with power'
+		Стреляет сгустками желчи и пробивающими зубами с очень низкой скоростью, которая увеличивается по мере использования оружия
+		Если прекратить использовать оружие, когда оно уже достигло максимальной скорости, будет выпущен большой взрывающийся сгусток желчи
+		«Он выделяется особой мощью»
 		'''
 }
 
@@ -4019,11 +4018,11 @@ SentientWeatherPain: {
 }
 
 SentientHeart: {
-	DisplayName: Sentient Heart
+	DisplayName: Разумное сердце
 	Tooltip:
 		'''
-		A strange heart ripped from a strong monster
-		Can bring out the sentient power of certain weapons
+		Странное сердце, вырванное из сильного монстра
+		Способно пробудить разумирующую силу некоторого оружия
 		'''
 }
 
@@ -4064,117 +4063,117 @@ BrainJar: {
 }
 
 EyeFlail: {
-	DisplayName: Chained Eyes
-	Tooltip: Wield two long range eye flails
+	DisplayName: Прикованный взгляд
+	Tooltip: Раскручивает два глаза-кистеня, которые можно бросать на большую дистанцию
 }
 
 EyeRocketLauncher: {
-	DisplayName: I.C.U
-	Tooltip: Hold down to shoot explosive eye missles that home on enemies
+	DisplayName: ДЗН
+	Tooltip: Зарядите, чтобы выстрелить взрывающимися глазными ракетами, самонаводящимися на врагов
 }
 
 LeechStaff: {
-	DisplayName: Swarm Scepter
+	DisplayName: Скипетр пиявки
 	Tooltip:
 		'''
-		Summons weak but agile leeches that rapidly damage enemies
-		Leeches only take up half of a minion slot
+		Призывает слабых, но быстрых пиявок, атакующих врагов
+		Каждая пиявка занимает только половину слота миньонов
 		'''
 }
 
 LeechWhip: {
-	DisplayName: Leecher
+	DisplayName: Подсос
 	Tooltip:
 		'''
-		10 summon tag damage
-		Your summons will focus struck enemies
-		Hitting enemies will sometimes rip meat chunks off of them
-		Picking up these meat chunks will heal a small amount of your health
+		10 ед. урона от метки призывателя
+		{$CommonItemTooltip.Whips}
+		Попадания по врагам могут оторвать от них кусок плоти
+		Подбор этой плоти восстановит вам немного здоровья
 		'''
 }
 
 MouthFlamethrower: {
-	DisplayName: Venom Sprayer
+	DisplayName: Ядопульверизатор
 	Tooltip:
 		'''
-		Spews out a stream of venomous gas breath
-		Ignores 12 points of enemy Defense
+		Выпускает струю ядовитого газа
+		Игнорирует 12 ед. защиты врага
 		'''
 }
 
 Scycler: {
-	DisplayName: Scycler
-	Tooltip: Throws discs that follow your cursor before returning to you
+	DisplayName: Косоврат
+	Tooltip: Бросает диски, которые летят за курсором, а потом возвращаются к вам
 }
 
 FleshAxe: {
-	DisplayName: Flesh Mincer
-	Tooltip: Deals more damage to enemies at low health
+	DisplayName: Мясоизмельчитель
+	Tooltip: Наносит больше урона по врагам с низким запасом здоровья
 }
 
 FleshBow: {
-	DisplayName: Seer
+	DisplayName: Ясновидящий
 	Tooltip:
 		'''
-		Converts wooden arrows into clots of blood
-		Every 10 shots will fire out a homing eye
+		Превращает деревянные стрелы в сгустки крови
+		Каждый десятый выстрел будет выпускать самонаводящийся глаз
 		'''
 }
 
 FleshStaff: {
-	DisplayName: Retina Staff
+	DisplayName: Посох сетчатки
 	Tooltip:
 		'''
-		Casts eyes that follow your cursor while holding left click
-		Release left click to fling the eyes, dealing double their original damage
-		Only up to 5 eyes can be active at once
+		Выпускает летающие глаза, собирающиеся возле курсора при зажатии ЛКМ
+		Если вы отпустите ЛКМ, то вылетевшие глаза нанесут удвоенный урон
+		Одновременно может быть выпущено до 5 глаз
 		'''
 }
 
 FleshWhip: {
-	DisplayName: Eye Lasher
+	DisplayName: Глазной хлестатель
 	Tooltip:
 		'''
-		Your summons will focus struck enemies
-		Hitting enemies may lower their defense for a short time
+		{$CommonItemTooltip.Whips}
+		Попадание по врагу может ненадолго снизить его защиту
 		'''
 }
 
 LivingFleshAxe: {
-	DisplayName: Living Flesh Mincer
+	DisplayName: Оживший мясоизмельчитель
 	Tooltip:
 		'''
-		Deals far more damage to enemies below half health
-		Striking enemies will fling a bunch of eyes upward
+		Наносит намного больше урона по врагам, у которых менее 50% здоровья
+		Попадания по врагам вызывают всплески из наносящих урон глаз
 		'''
 }
 
 LivingFleshBow: {
-	DisplayName: Living Seer
+	DisplayName: Оживший ясновидящий
 	Tooltip:
 		'''
-		Converts wooden arrows into clots of blood
-		Every 20 shots will fire out multiple homing eyes
+		Превращает деревянные стрелы в сгустки крови
+		Каждый двадцатый выстрел будет выпускать несколько самонаводящихся глаз
 		'''
 }
 
 LivingFleshStaff: {
-	DisplayName: Living Retina Staff
+	DisplayName: Оживший посох сетчатки
 	Tooltip:
 		'''
-		Summon eyes that follow your cursor while holding down left click
-		Release left click to fling the eyes, dealing double their original damage
-		Releasing left click with maximum eyes active will explode them, dealing massive damage
-		Only up to 8 eyes can be active at once
+		Выпускает летающие глаза, собирающиеся возле курсора при зажатии ЛКМ
+		Если вы отпустите ЛКМ, то вылетевшие глаза нанесут удвоенный урон
+		Если в этот момент было призвано максимальное количество глаз, то они взорвутся на месте, нанеся огромный урон
+		Одновременно может быть выпущено до 8 глаз
 		'''
 }
 
 LivingFleshWhip: {
-	DisplayName: Living Eye Lasher
+	DisplayName: Оживший глазной хлестатель
 	Tooltip:
 		'''
-		Your summons will focus struck enemies
-		Hitting enemies may halve their defense for a short time
+		{$CommonItemTooltip.Whips}
+		Попадание по врагу может ненадолго снизить его защиту вдвое
 		'''
 }
 
@@ -5254,7 +5253,7 @@ NoseTempleBox: {
 }
 
 OrroboroBox: {
-	DisplayName: Музыкальная шкатулка (Орро и Боро)
+	DisplayName: Музыкальная шкатулка (Урро и Боро)
 	Tooltip: Проигрывает [c/FF8D00:«The All Is One»] от BananaLizard
 }
 
@@ -5922,12 +5921,12 @@ FrankenGoblinRelicItem: {
 }
 
 MocoRelicItem: {
-	DisplayName: Moco Relic
+	DisplayName: Реликвия Моко
 	Tooltip: ""
 }
 
 OrroboroRelicItem: {
-	DisplayName: Orro & Boro Relic
+	DisplayName: Реликвия Урро и Боро
 	Tooltip: ""
 }
 
@@ -6781,12 +6780,12 @@ SpookyWoodFenceItem: {
 }
 
 EyeChestItem: {
-	DisplayName: Living Flesh Chest
+	DisplayName: Сундук из ожившей плоти
 	Tooltip: ""
 }
 
 SpookyHellChestItem: {
-	DisplayName: Eye Valley Chest
+	DisplayName: Глазастый сундук
 	Tooltip: ""
 }
 
@@ -6881,67 +6880,67 @@ EyeWorkBenchItem: {
 }
 
 EyeballBlockItem: {
-	DisplayName: Eyeball
+	DisplayName: Глаз
 	Tooltip: ""
 }
 
 EyeBlockBrickItem: {
-	DisplayName: Eye Brick
+	DisplayName: Глазастый кирпич
 	Tooltip: ""
 }
 
 EyeBlockBrickWallItem: {
-	DisplayName: Eye Brick Wall
+	DisplayName: Глазастая кирпичная стена
 	Tooltip: ""
 }
 
 EyeBlockItem: {
-	DisplayName: Eye Block
+	DisplayName: Глазастый блок
 	Tooltip: ""
 }
 
 EyeBlockWallItem: {
-	DisplayName: Eye Block Wall
+	DisplayName: Глазастая стена
 	Tooltip: ""
 }
 
 LivingFleshItem: {
-	DisplayName: Living Flesh
+	DisplayName: Ожившая плоть
 	Tooltip: ""
 }
 
 LivingFleshWallItem: {
-	DisplayName: Living Flesh Wall
+	DisplayName: Стена из ожившей плоти
 	Tooltip: ""
 }
 
 ScleraBlockItem: {
-	DisplayName: Sclera Block
+	DisplayName: Склера
 	Tooltip: ""
 }
 
 SpookyMushItem: {
-	DisplayName: Organic Mush
+	DisplayName: Органическое месиво
 	Tooltip: ""
 }
 
 SpookyMushGrassSeeds: {
-	DisplayName: Flesh Grass Seeds
-	Tooltip: Plants flesh grass on Organic Mush
+	DisplayName: Семена мясной травы
+	Tooltip: Сажает мясную траву на органическое месиво
 }
 
 EyeSeed: {
-	DisplayName: Eye Stalk Seed
-	Tooltip: Plants eye stalk saplings
+	DisplayName: Семена глазостебя
+	Tooltip: Сажает сажанец глазостебля
 }
 
 SpookyMushWallItem: {
-	DisplayName: Organic Mush Wall
+	DisplayName: Стена из органического месива
 	Tooltip: ""
 }
 
 ValleyStoneItem: {
-	DisplayName: Valley Bone
+	DisplayName: Долинная кость
 	Tooltip: ""
 }
 
@@ -6951,7 +6950,7 @@ BigBoneTrophyItem: {
 }
 
 BoroTrophyItem: {
-	DisplayName: Boro Trophy
+	DisplayName: Трофей Боро
 	Tooltip: ""
 }
 
@@ -6961,12 +6960,12 @@ DaffodilTrophyItem: {
 }
 
 MocoTrophyItem: {
-	DisplayName: Moco Trophy
+	DisplayName: Трофей Моко
 	Tooltip: ""
 }
 
 OrroTrophyItem: {
-	DisplayName: Orro Trophy
+	DisplayName: Трофей Урро
 	Tooltip: ""
 }
 
@@ -7041,17 +7040,17 @@ SpookyBiomeTorchItem: {
 }
 
 SpookyHellTorchItem: {
-	DisplayName: Eye Valley Torch
+	DisplayName: Факел глазастой долины
 	Tooltip: ""
 }
 
 WaterFountainEyeValleyItem: {
-	DisplayName: Eye Valley Water Fountain
+	DisplayName: Фонтан воды глазастой долины
 	Tooltip: ""
 }
 
 WaterFountainRaveItem: {
-	DisplayName: Raveyard Water Fountain
+	DisplayName: Фонтан воды посмертной тусы
 	Tooltip: ""
 }
 
@@ -7066,7 +7065,7 @@ WaterFountainSpookFishronXmasItem: {
 }
 
 WaterFountainSpookyItem: {
-	DisplayName: Spooky Water Fountain
+	DisplayName: Фонтан воды жуткого леса
 	Tooltip: ""
 }
 

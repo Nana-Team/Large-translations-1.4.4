@@ -37,8 +37,8 @@ SpiderArmor:
 SpiritHorsemanArmor: Ваша же голова сражается за вас!
 EyeArmor:
 	'''
-	15% increased whip range
-	Hitting enemies with whips will sometimes spawn eyes to deal additional damage
+	Увеличивает дальность хлыстов на 15%
+	Атаки хлыстом по врагам иногда будут призывать глаза, наносящие дополнительный урон
 	'''
 FlowerArmor:
 	'''
@@ -57,6 +57,6 @@ HazmatArmor:
 	Gain a toxic goo friend for each bloom buff you have
 	Your minions become radioactive, causing damage over time to enemies near them
 	'''
-GoreArmorOrro: Summons a baby orro to fight with you!
-GoreArmorBoro: Summons a baby boro to fight with you!
+GoreArmorOrro: Призывает крошку Урро сражаться за вас!
+GoreArmorBoro: Призывает крошку Боро сражаться за вас!
 MortarArmor: Sometimes spawn homing missiles when you damage enemies

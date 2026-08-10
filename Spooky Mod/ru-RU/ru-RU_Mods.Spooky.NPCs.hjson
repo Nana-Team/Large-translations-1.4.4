@@ -17,7 +17,7 @@ SpookySpirit: {
 }
 
 Moco: {
-	DisplayName: Moco
+	DisplayName: Моко
 
 	BossChecklistIntegration: {
 		SpawnInfo: Right click the nose shrine in the valley of eyes while you have a [i:Spooky/CottonSwab] in your inventory.
@@ -44,11 +44,11 @@ OldHunterBoss: {
 }
 
 OrroHead: {
-	DisplayName: Orro
+	DisplayName: Урро
 
 	BossChecklistIntegration: {
-		EntryName: Orro & Boro
-		SpawnInfo: Use the [i:Spooky/Concoction] to pour acid on the giant egg in the valley of eyes, after you have completed the Egg Incursion event.
+		EntryName: Урро и Боро
+		SpawnInfo: Используйте [i:Spooky/Concoction] на огромном яйце в глазастой долине после победы над Яичным вторжением.
 		DespawnMessage: All players were made not one by Orro & Boro
 	}
 }
@@ -79,20 +79,20 @@ DaffodilBody.DisplayName: ""
 DaffodilHandLeft.DisplayName: Нарцисс
 DaffodilHandRight.DisplayName: Нарцисс
 DaffodilArenaBG.DisplayName: ""
-MoclingMinion.DisplayName: Mocling
-MocoIntro.DisplayName: Mocling
-MocoOutro.DisplayName: Mocling
+MoclingMinion.DisplayName: Моклёнок
+MocoIntro.DisplayName: Моклёнок
+MocoOutro.DisplayName: Моклёнок
 MocoSpawner.DisplayName: ""
-BoroBody.DisplayName: Boro
-BoroBodyConnect.DisplayName: Boro
-BoroBodyWings.DisplayName: Boro
-BoroHead.DisplayName: Boro
-BoroTail.DisplayName: Boro
-OrroBody.DisplayName: Orro
-OrroBodyWings.DisplayName: Orro
-OrroHeadP1.DisplayName: Orro
-OrroTail.DisplayName: Orro
-BoroTongue.DisplayName: Boro's Tongue
+BoroBody.DisplayName: Боро
+BoroBodyConnect.DisplayName: Боро
+BoroBodyWings.DisplayName: Боро
+BoroHead.DisplayName: Боро
+BoroTail.DisplayName: Боро
+OrroBody.DisplayName: Урро
+OrroBodyWings.DisplayName: Урро
+OrroHeadP1.DisplayName: Урро
+OrroTail.DisplayName: Урро
+BoroTongue.DisplayName: Язык Боро
 GrappleTongue.DisplayName: ""
 PhantomSkull.DisplayName: Phantom Skull
 OrbitingBooger.DisplayName: Booger Ball
@@ -137,9 +137,9 @@ CelebrationSkeletoid4.DisplayName: Муэрто-скелетоид
 CelebrationSkeletoid5.DisplayName: Муэрто-скелетоид
 Dahlia.DisplayName: Дива-георгина
 DahliaEye.DisplayName: Дива-георгина
-FlushBush1.DisplayName: Плачущий куст
-FlushBush2.DisplayName: Плачущий куст
-FlushBush3.DisplayName: Плачущий куст
+FlushBush1.DisplayName: Flush Bush
+FlushBush2.DisplayName: Flush Bush
+FlushBush3.DisplayName: Flush Bush
 FlushBush4.DisplayName: Flush Bush
 JumpingSeed1.DisplayName: Hopseed
 JumpingSeed2.DisplayName: Hopseed
@@ -205,21 +205,21 @@ ZomboidCasket.DisplayName: Зомбоид в гробу
 ZomboidGremlin.DisplayName: Зондри
 MistGhostSpawn.DisplayName: ""
 //egg event
-BileStomach.DisplayName: Tummy-acher
-Biojetter.DisplayName: Biojetter
-BiojetterEye.DisplayName: Biojetter
-CoughLungs.DisplayName: Coughing Lungs
-CruxBat.DisplayName: Crux Bat
-EarWorm.DisplayName: Ear Worm
+BileStomach.DisplayName: Гастритник
+Biojetter.DisplayName: Биоструелёт
+BiojetterEye.DisplayName: Биоструелёт
+CoughLungs.DisplayName: Кашляющие лёгкие
+CruxBat.DisplayName: Тощнотворец
+EarWorm.DisplayName: Ушной червь
 EarWormBase.DisplayName: ""
-EarWormFallingBody.DisplayName: Ear Worm
-EarWormFalling.DisplayName: Ear Worm
-ExplodingAppendix.DisplayName: Exploding Appendix
-FleshBolster.DisplayName: Flesh Bolster
-GooSlug.DisplayName: Goo Slug
-HoppingHeart.DisplayName: Hopping Heart
-HoverBrain.DisplayName: Hovering Brain
-TongueBiter.DisplayName: Tongue Biter
+EarWormFallingBody.DisplayName: Ушной червь
+EarWormFalling.DisplayName: Ушной червь
+ExplodingAppendix.DisplayName: Взрывной апендикс
+FleshBolster.DisplayName: Мясной подпитник
+GooSlug.DisplayName: Склизкий слизняк
+HoppingHeart.DisplayName: Сердце-попрыгунчик
+HoverBrain.DisplayName: Левитирующий мозг
+TongueBiter.DisplayName: Язык-кусака
 OrroboroEgg.DisplayName: ""
 GiantBiomassPurple.DisplayName: ""
 GiantBiomassRed.DisplayName: ""
@@ -311,31 +311,31 @@ ZomboidWarlock.DisplayName: Зомбоид-колдун
 WarlockSkull.DisplayName: Череп колдуна
 ZomboidWind.DisplayName: Зомбоид
 //valley of eyes
-EyeBat.DisplayName: Bat n' Eye
-EyeBatFleshy.DisplayName: Bat n' Eye
-ManHole.DisplayName: Man Hole
-ManHoleFleshy.DisplayName: Man Hole
-ManHoleEye.DisplayName: Eye
-ManHoleBig.DisplayName: Man Hole Big
-MrHandy.DisplayName: Mister Handy
-MrHandyFleshy.DisplayName: Mister Handy
-Tortumor.DisplayName: Tortumor
-TortumorFleshy.DisplayName: Tortumor
-TortumorGiant.DisplayName: Giant Tortumor
-TortumorGiantFleshy.DisplayName: Giant Tortumor
-Mocling.DisplayName: Mocling
+EyeBat.DisplayName: Летучая глазомышь
+EyeBatFleshy.DisplayName: Летучая глазомышь
+ManHole.DisplayName: Мясная полость
+ManHoleFleshy.DisplayName: Мясная полость
+ManHoleEye.DisplayName: Глаз
+ManHoleBig.DisplayName: Большая мясная полость
+MrHandy.DisplayName: Мистер Подручный
+MrHandyFleshy.DisplayName: Мистер Подручный
+Tortumor.DisplayName: Болеопухоль
+TortumorFleshy.DisplayName: Болеопухоль
+TortumorGiant.DisplayName: Огромная болеопухоль
+TortumorGiantFleshy.DisplayName: Огромная болеопухоль
+Mocling.DisplayName: Моклёнок
 MoclingSwarm.DisplayName: ""
-ValleyFish.DisplayName: Peeper Fish
-ValleyNautilus.DisplayName: Claret Cephalopod
+ValleyFish.DisplayName: Подглядывающая рыба
+ValleyNautilus.DisplayName: Кровавый цефалопод
 ValleyNautilusBiomass.DisplayName: ""
-ValleySquid.DisplayName: Clot Squid
-ValleySquidClone.DisplayName: Clot Squid
-ValleyEelBody.DisplayName: Aortic Eel
-ValleyEelHead.DisplayName: Aortic Eel
-ValleyEelTail.DisplayName: Aortic Eel
-ValleyShark.DisplayName: Hemostasis Beast
-ValleySharkMouth.DisplayName: Hemostasis Beast
-ValleyMerman.DisplayName: Flesh Merman
+ValleySquid.DisplayName: Тромботический кальмар
+ValleySquidClone.DisplayName: Тромботический кальмар
+ValleyEelBody.DisplayName: Аортальный угорь
+ValleyEelHead.DisplayName: Аортальный угорь
+ValleyEelTail.DisplayName: Аортальный угорь
+ValleyShark.DisplayName: Гемостазное чудище
+ValleySharkMouth.DisplayName: Гемостазное чудище
+ValleyMerman.DisplayName: Мясной тритон
 //spider cave
 Ant1.DisplayName: Муравей
 Ant2.DisplayName: Муравей
@@ -391,18 +391,18 @@ WhipSpiderStinger.DisplayName: Паук-хлыстовик
 WolfSpider.DisplayName: Паук-волк
 WolfSpiderBaby.DisplayName: Паучок-волк
 //spider war
-ArchdukeSpider.DisplayName: Archduke Trigonotarbida
-CamelColonel.DisplayName: Camel Colonel
+ArchdukeSpider.DisplayName: Эрцгерцог Тригонотарб
+CamelColonel.DisplayName: Верблюжий полковник
 CamelColonelTail.DisplayName: ""
-CamelColonelTailSniper.DisplayName: Camel Colonel
-CorklidQueen.DisplayName: Corklid Queen
-EmperorMortar.DisplayName: Emperor Mortar
-EmperorMortarSegment.DisplayName: Emperor Mortar
-EmpressJoro.DisplayName: Empress Joro
-JoroFly.DisplayName: Joro Fly
-JoroBaby.DisplayName: Explosive Joro
-OgreKing.DisplayName: Ogre King
-TrumpetSpider.DisplayName: Trumpet Spider
+CamelColonelTailSniper.DisplayName: Верблюжий полковник
+CorklidQueen.DisplayName: Королева-пробка
+EmperorMortar.DisplayName: Император-мортира
+EmperorMortarSegment.DisplayName: Император-мортира
+EmpressJoro.DisplayName: Императрица Джоро
+JoroFly.DisplayName: Муха Джоро
+JoroBaby.DisplayName: Взрывной Джоро
+OgreKing.DisplayName: Король-огр
+TrumpetSpider.DisplayName: Паук-трубач
 SpotlightFirefly.DisplayName: ""
 SpotlightSpiderFloor.DisplayName: ""
 //mushroom spore event
