@@ -8,11 +8,11 @@ RotGourd: {
 }
 
 SpookySpirit: {
-	DisplayName: Призрак-пугало
+	DisplayName: Пугающий призрак
 
 	BossChecklistIntegration: {
 		SpawnInfo: Используйте [i:Spooky/EMFReader] рядом с проклятой статуей ночью на заболоченном кладбище.
-		DespawnMessage: Все игроки до смерти напугались Призрака-пугала.
+		DespawnMessage: All players have been haunted by the groovy geist
 	}
 }
 
@@ -44,10 +44,10 @@ OldHunterBoss: {
 }
 
 OrroHead: {
-	DisplayName: Урро
+	DisplayName: Орро
 
 	BossChecklistIntegration: {
-		EntryName: Урро и Боро
+		EntryName: Орро и Боро
 		SpawnInfo: Используйте [i:Spooky/Concoction] на огромном яйце в глазастой долине после победы над Яичным вторжением.
 		DespawnMessage: All players were made not one by Orro & Boro
 	}
@@ -88,10 +88,10 @@ BoroBodyConnect.DisplayName: Боро
 BoroBodyWings.DisplayName: Боро
 BoroHead.DisplayName: Боро
 BoroTail.DisplayName: Боро
-OrroBody.DisplayName: Урро
-OrroBodyWings.DisplayName: Урро
-OrroHeadP1.DisplayName: Урро
-OrroTail.DisplayName: Урро
+OrroBody.DisplayName: Орро
+OrroBodyWings.DisplayName: Орро
+OrroHeadP1.DisplayName: Орро
+OrroTail.DisplayName: Орро
 BoroTongue.DisplayName: Язык Боро
 GrappleTongue.DisplayName: ""
 PhantomSkull.DisplayName: Phantom Skull

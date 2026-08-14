@@ -6497,7 +6497,7 @@ SunkenTreasure: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.RightClickToOpen}
-		«Возможно, внутри всё ещё полно ценных сокровищ»
+		«Возможно, внутри всё ещё полно ценностей»
 		'''
 }
 

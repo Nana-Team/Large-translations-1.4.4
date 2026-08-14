@@ -2,7 +2,7 @@ ItemTooltipExtras: {
 	ComicallySlowSpeed: Смехотворно низкая скорость
 	CannotCrit: Не может наносить критические удары
 	SludgeSlapSlimelingDamage: "{0} ед. урона от слизнячка"
-	ToxicBlowpipeAcidExplosionDamage: "{0} ед. урона от взрыва кислоты"
+	ToxicBlowpipeAcidExplosionDamage: "{0} ед. урона от кислотного взрыва"
 	FanaticalMaskTendrilDamage: "{0} ед. урона от кровавого выроста"
 	ResonanceDamage: "{0} ед. урона от резонанса"
 	TornElectrosacFullyChargedDamage: "{0} ед. урона по площади при полностью заряженном ударе"

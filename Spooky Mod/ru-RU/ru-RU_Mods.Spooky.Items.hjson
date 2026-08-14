@@ -555,7 +555,7 @@ BossBagOldHunter: {
 }
 
 BossBagOrroboro: {
-	DisplayName: Мешок с сокровищами (Урро и Боро)
+	DisplayName: Мешок с сокровищами (Орро и Боро)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -570,7 +570,7 @@ BossBagSpookFishron: {
 }
 
 BossBagSpookySpirit: {
-	DisplayName: Мешок с сокровищами (Призрак-пугало)
+	DisplayName: Мешок с сокровищами (Пугающий призрак)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -1358,7 +1358,7 @@ OldHunterHat: {
 }
 
 OrroMask: {
-	DisplayName: Маска Урро
+	DisplayName: Маска Орро
 	Tooltip: ""
 }
 
@@ -1393,7 +1393,7 @@ SpookFishronMask: {
 }
 
 SpookySpiritMask: {
-	DisplayName: Маска Призрака-пугала
+	DisplayName: Маска Пугающего призрака
 	Tooltip: ""
 }
 
@@ -2297,10 +2297,10 @@ TrapdoorSpiderSaddle: {
 }
 
 OrroboroRing: {
-	DisplayName: Кольцо Урроборо
+	DisplayName: Кольцо Орроборо
 	Tooltip:
 		'''
-		Призывает закольцованных Урро и Боро
+		Призывает закольцованных Орро и Боро
 		«Очень залипательно»
 		'''
 }
@@ -5253,7 +5253,7 @@ NoseTempleBox: {
 }
 
 OrroboroBox: {
-	DisplayName: Музыкальная шкатулка (Урро и Боро)
+	DisplayName: Музыкальная шкатулка (Орро и Боро)
 	Tooltip: Проигрывает [c/FF8D00:«The All Is One»] от BananaLizard
 }
 
@@ -5358,7 +5358,7 @@ SpookyMenuBox: {
 }
 
 SpookySpiritBox: {
-	DisplayName: Музыкальная шкатулка (Призрак-пугало)
+	DisplayName: Музыкальная шкатулка (Пугающий призрак)
 	Tooltip: Проигрывает [c/FF8D00:«Groovy Geist»] от BananaLizard
 }
 
@@ -5926,7 +5926,7 @@ MocoRelicItem: {
 }
 
 OrroboroRelicItem: {
-	DisplayName: Реликвия Урро и Боро
+	DisplayName: Реликвия Орро и Боро
 	Tooltip: ""
 }
 
@@ -5946,7 +5946,7 @@ SpookFishronRelicItem: {
 }
 
 SpookySpiritRelicItem: {
-	DisplayName: Реликвия Призрака-пугала
+	DisplayName: Реликвия Пугающего призрака
 	Tooltip: ""
 }
 
@@ -6965,7 +6965,7 @@ MocoTrophyItem: {
 }
 
 OrroTrophyItem: {
-	DisplayName: Трофей Урро
+	DisplayName: Трофей Орро
 	Tooltip: ""
 }
 
@@ -6980,7 +6980,7 @@ SpookFishronTrophyItem: {
 }
 
 SpookySpiritTrophyItem: {
-	DisplayName: Трофей Призрака-пугала
+	DisplayName: Трофей Пугающего призрака
 	Tooltip: ""
 }
 

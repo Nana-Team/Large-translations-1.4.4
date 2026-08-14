@@ -785,7 +785,7 @@ Mods: {
 			}
 
 			DesertProwlerShirt: {
-				DisplayName: Рубашка пустынного мародёра
+				DisplayName: Куртка пустынного мародёра
 				Tooltip: Увеличивает стрелковый урон на 4%
 			}
 
@@ -1041,7 +1041,7 @@ Mods: {
 			}
 
 			OldHunterShirt: {
-				DisplayName: Рубашка старого охотника
+				DisplayName: Куртка старого охотника
 				Tooltip:
 					'''
 					{$Items.DesertProwlerShirt.Tooltip}
@@ -1148,7 +1148,7 @@ Mods: {
 			}
 
 			WulfrumJacket: {
-				DisplayName: Вульфрумовая куртка
+				DisplayName: Вульфрумовая рубашка
 				Tooltip: Увеличивает сопротивление урону на 5%
 			}
 
@@ -1266,12 +1266,12 @@ Mods: {
 			}
 
 			DesertBrazier: {
-				DisplayName: Жаровня пустыни
+				DisplayName: Пустынная жаровня
 				Tooltip: ""
 			}
 
 			DesertBrazierSpectral: {
-				DisplayName: Призрачная жаровня пустыни
+				DisplayName: Призрачная пустынная жаровня
 				Tooltip: ""
 			}
 
