@@ -140,7 +140,7 @@ UrchinStaff: {
 
 GarInAJar: {
 	Tooltip: ""
-	DisplayName: Панцирник в банке
+	DisplayName: Аквариум с панцирником
 }
 
 GarItem: {
@@ -2866,7 +2866,7 @@ SaltTallGateItem: {
 
 EnlilStatueItem: {
 	DisplayName: Статуя Энлиля
-	Tooltip: Увеличивает вертикальную подвижность, если размещена поблизости
+	Tooltip: Увеличивает вертикальную мобильность, если размещена поблизости
 }
 
 SerratedClaws: {
@@ -2930,7 +2930,7 @@ BedouinCowl: {
 }
 
 BedouinLeggings: {
-	DisplayName: Бедуинские поножи
+	DisplayName: Бедуинские штаны
 	Tooltip: Увеличивает скорость передвижения на 10%
 }
 
