@@ -691,47 +691,47 @@ BeetleTownPet: {
 }
 
 Enchanter: {
-	// DisplayName: Enchanter
-	// Entry: Perpetually tired but kind at heart, the Enchanter deals with various spells and magicks. If some weapons or tools need a little more spice, just ask!
+	DisplayName: Чародей
+	Entry: Добрейшей души чудаковатый рунописец, что проводит одну бессонную ночь за другой, возясь со всевозможными заклинаниями и зачарованиями. Если вдруг захочется добавить своему оружию некую изюминку — вы знаете, к кому обращаться!
 
 	Names: {
-		// 0: Albion
-		// 1: Bertilak
-		// 2: Eango
-		// 3: Enki
-		// 4: Gil
-		// 5: Heka
-		// 6: Ilmarinen
-		// 7: Itani
-		// 8: Kokabiel
-		// 9: Mallyck
-		// 10: Mazdak
-		// 11: Morrigan
-		// 12: Myrrdin
-		// 13: Oeti
-		// 14: Ose
-		// 15: Sulyvahn
-		// 16: Tethra
-		// 17: Themisto
-		// 18: Vorv
-		// 19: Ywain
+		0: Альбион
+		1: Бертилак
+		2: Йэнго
+		3: Энки
+		4: Гил
+		5: Хека
+		6: Ильмаринен
+		7: Итани
+		8: Кокабьель
+		9: Малик
+		10: Маздак
+		11: Морриган
+		12: Мирдин
+		13: Ойти
+		14: Оcэй
+		15: Саливан
+		16: Тэтра
+		17: Тэмисто
+		18: Ворв
+		19: Ивэйн
 	}
 
 	TownNPCMood: {
-		// Content: I take a moment and feel... all is well.
-		// NoHome: I don't imagine you've got a place for me to rest my weary bones?
-		// FarFromHome: I am quite far for from my workspace, and my bed. May we return home soon?
-		// LoveSpace: This town is very quaint. Enough people to have a nice chin-wag, but not so many it becomes overwhelming.
-		// DislikeCrowded: I am finding it difficult to concentrate with all this hubbub.
-		// HateCrowded: There are far too many people living here. I haven't gotten a good night's sleep in days.
-		// LoveNPC: "{NPCName}'s hot chocolate is to die for! Oh and his parlor tricks, they're delightful!"
-		// LikeNPC: I don't know what kind of magic {NPCName} uses to light up the sky like that, but it looks spectacular! Shame about the noise though, I had a headache for three days after...
-		// DislikeNPC: "{NPCName}'s idea of 'improving' your gear is barbaric! How is denting it with a hammer supposed to help?!"
-		// HateNPC: I swear, if {NPCName} tells one more of his stories about slaughtering kobolds at afternoon tea, I'll turn him into a sheep!
-		// LikeBiome: Here above the clouds, I feel so much more attuned to the flows of magick. Not to mention the view!
-		// DislikeBiome: Bees produce such high-quality wax, but oh why must they sting me so? I'm covered head to toe in welts!
-		// LikeNPC_Princess: "{NPCName} is such a sweet little girl, but I can scarcely keep up with her. How can such a small body contain so much energy?"
-		// Princess_LovesNPC: "{NPCName}'s magic is unlike any I've seen before! I wonder what its source may be?"
+		Content: Делаю вдох глубокий... да, всё хорошо.
+		NoHome: Думается мне, нет местечка у тебя, где мог бы дух я свой перевести после дня тяжёлого?
+		FarFromHome: Довольно далековато я забрёл от своего рабочего стола да лежанки любимой. Не отведёшь ли ты меня домой?
+		LoveSpace: Спокойненький тут городишко, однако. Побалаболить есть тут с кем, но не слишком много, по душе мне такое.
+		DislikeCrowded: Галдёж такой вокруг, как же на работе своей сосредоточиться мне?
+		HateCrowded: Проживает здесь людей уж слишком много. Уже которую ночь уснуть нормально не могу я.
+		LoveNPC: "{NPCName} варит шоколад горячий, что пальчики оближешь! А какие фокусы показывает он, ох, это надо видеть!"
+		LikeNPC: Понятия я не имею, какой магией {NPCName} всё небо цветами красивыми заливает, но получается всегда изящно очень! Однако шумная она соседка всё же, голова моя на целых три дня разболелась однажды после её очередной вечеринки...
+		DislikeNPC: "{NPCName} и понятия не имеет, как снаряжение твоё улучшать. Как дикарь из пещеры молоточком стукает по нему, да и только! Ну скажи мне, чем такое «улучшение» помочь вообще может?!"
+		HateNPC: Клянусь, если {NPCName} за нашим чаепитием следующим опять трепаться начнёт, как он кобольдов истреблял, то я заколдую его и превращу во всамделишного барана!
+		LikeBiome: Здесь, над облаками, потоки магии я чувствую как никогда прежде. А виды отсюда какие чудесные открываются!
+		DislikeBiome: Пчёлы делают превосходный по качеству воск, но бог ты мой, как же больно они жалятся! С головы до ног меня искусали уже всего!
+		LikeNPC_Princess: "{NPCName} — очаровашка та ещё, но мне едва ли сил хватает с ней так часто играть. И как в таком маленьком ребёнке умещается столько энергии?"
+		Princess_LovesNPC: "{NPCName} удивительной магией пользуется, я такую ещё не видела! Вот это да! Интересно, как он ей научился?"
 	}
 
 	Dialogue: {
