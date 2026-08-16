@@ -731,49 +731,54 @@ Enchanter: {
 		LikeBiome: Здесь, над облаками, потоки магии я чувствую как никогда прежде. А виды отсюда какие чудесные открываются!
 		DislikeBiome: Пчёлы делают превосходный по качеству воск, но бог ты мой, как же больно они жалятся! С головы до ног меня искусали уже всего!
 		LikeNPC_Princess: "{NPCName} — очаровашка та ещё, но мне едва ли сил хватает с ней так часто играть. И как в таком маленьком ребёнке умещается столько энергии?"
-		Princess_LovesNPC: "{NPCName} удивительной магией пользуется, я такую ещё не видела! Вот это да! Интересно, как он ей научился?"
+		Princess_LovesNPC: "{NPCName} пользуется удивительной магией, я такую ещё не видела! Вот это да! Интересно, как он ей научился?"
 	}
 
 	Dialogue: {
 		Idle: {
-			// 0: Do stop to smell the roses from time to time. Rest is good for you!
-			// 1: It's easy to lose track of time when you are snout deep in a good tome.
-			// 2: Have you come to learn about the wondrous properties of wax?
-			// 3: Would you like a cup of tea? I have black, green, herbal, chamomile, berry, citrus...
-			// 4: Greetings! What can I enchant for you today?
+			0: Do stop to smell the roses from time to time. Rest is good for you!
+			1: It's easy to lose track of time when you are snout deep in a good tome.
+			2: Have you come to learn about the wondrous properties of wax?
+			3: Would you like a cup of tea? I have black, green, herbal, chamomile, berry, citrus...
+			4: Greetings! What can I enchant for you today?
 		}
 
 		IdleNight: {
-			// 0: The moon is high, and my candles burn brighter than ever!
-			// 1: Fireflies dot the sky like small, dancing flames. There is magic everywhere we look.
-			// 2: It's far beyond my second bedtime. I kindly request you make this quick.
+			0: The moon is high, and my candles burn brighter than ever!
+			1: Fireflies dot the sky like small, dancing flames. There is magic everywhere we look.
+			2: It's far beyond my second bedtime. I kindly request you make this quick.
 		}
 
 		BloodMoon: {
-			// 0: I cannot sleep on a night such as this. When I close my eyes, all I see is red.
-			// 1: My candles burn a grisly crimson shade. Something evil is afoot tonight.
+			0: I cannot sleep on a night such as this. When I close my eyes, all I see is red.
+			1: My candles burn a grisly crimson shade. Something evil is afoot tonight.
 		}
 
 		Rain: {
-			// 0: There's nothing quite like the sound of rain pattering against the windows.
-			// 1: I'm not going outside again. I only just got my hat dry from last time!
+			0: There's nothing quite like the sound of rain pattering against the windows.
+			1: I'm not going outside again. I only just got my hat dry from last time!
 		}
 
 		Graveyard: {
-			// 0: I usually like it quiet, but the air is completely still. It's unnerving.
-			// 1: I can't shake the feeling that something is watching me.
+			0: I usually like it quiet, but the air is completely still. It's unnerving.
+			1: I can't shake the feeling that something is watching me.
 		}
 
-		// Thunderstorm: It's a perfect time to huddle around the fireplace and share spooky stories!
-		// Eclipse: How am I meant to know when to put on afternoon tea when its neither day nor night?
-		// Party: Your human festivities are fascinating, if a bit... raucous for my tastes. I might have to excuse myself soon.
-		// Goblin: You can stick seals on many things, but {0} keeps asking me to enchant his various inventions. It typically doesn't end well...
-		// Golfer: "{0} always invites me to play golf with the others, but I always find myself dozing off... I don't have the heart to reject his invitations."
-		// Stylist: I let {0} talk me into getting my scales waxed, and I'm not sure what the appeal is. I glisten like a freshly caught fish!
-		// WitchDoctor: "{0} has such a mysterious aura to him, but I'd like to get to know him better. Could you... perhaps introduce us?"
+		Thunderstorm: It's a perfect time to huddle around the fireplace and share spooky stories!
+		Eclipse: How am I meant to know when to put on afternoon tea when its neither day nor night?
+		Party: Your human festivities are fascinating, if a bit... raucous for my tastes. I might have to excuse myself soon.
+		Goblin: You can stick seals on many things, but {0} keeps asking me to enchant his various inventions. It typically doesn't end well...
+		Golfer: "{0} always invites me to play golf with the others, but I always find myself dozing off... I don't have the heart to reject his invitations."
+		Stylist: I let {0} talk me into getting my scales waxed, and I'm not sure what the appeal is. I glisten like a freshly caught fish!
+		WitchDoctor: "{0} has such a mysterious aura to him, but I'd like to get to know him better. Could you... perhaps introduce us?"
 	}
 
-	// Census.SpawnCondition: Conditions unknown
+	Census.SpawnCondition:
+		'''
+
+		Необходимо иметь [i:SpiritReforged/ChromaticWax] хроматический воск или
+		зачарованный предмет в инвентаре, либо убить любого босса
+		'''
 }
 
-// SealedKnight.DisplayName: Sealed Knight
+SealedKnight.DisplayName: Опечатанный рыцарь
