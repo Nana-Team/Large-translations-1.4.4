@@ -228,29 +228,24 @@ GreekFire: {
 	Description: В огне самих богов
 }
 
-HighGravityBuff: {
-	DisplayName: High Gravity
-	Description: Gravity returns to normal
-}
-
 HolyLight: {
-	DisplayName: Holy Light
+	DisplayName: Святой свет
 	Description: ""
 }
 
 IceBerryBuff: {
-	DisplayName: Ice Berries
-	Description: You are immune to being on fire
+	DisplayName: Мерзлоягода
+	Description: Вы невосприимчивы к горению
 }
 
 InfernalRage: {
-	DisplayName: Infernal Rage
-	Description: Greatly boosted damage at the cost of your soul...
+	DisplayName: Инфернальная ярость
+	Description: Урон значительно увеличен... ценой вашей души
 }
 
 MageFreeze: {
-	DisplayName: Chilly Grasp
-	Description: A cold hand traps you
+	DisplayName: Холодная хватка
+	Description: Вас сковывает холод
 }
 
 MidasTouch: {
@@ -259,28 +254,28 @@ MidasTouch: {
 }
 
 DiabolicPlatformBuff: {
-	DisplayName: Diabolic Platform
-	Description: Command the Infernal
+	DisplayName: Дьявольская платформа
+	Description: Повелитель преисподней
 }
 
 DrakomireMountBuff: {
-	DisplayName: Drakomire
-	Description: You have tamed a Celestial Invader!
+	DisplayName: Дракотоп
+	Description: Вы приручили небесного захватчика!
 }
 
 Obolos_Buff: {
-	DisplayName: Obolos
-	Description: Pretty grimacing...
+	DisplayName: Обол
+	Description: Ну и гримаса...
 }
 
 RlyehianMountBuff: {
-	DisplayName: Eldritch Cloak
-	Description: "'It really sweeps you off your feet'"
+	DisplayName: Потусторонний плащ
+	Description: «Действительно сметает с ног»
 }
 
 SnowmongerMountBuff: {
-	DisplayName: Snowmech
-	Description: Powerful
+	DisplayName: Снежный мех
+	Description: Сильный
 }
 
 TideMountBuff: {
@@ -289,13 +284,13 @@ TideMountBuff: {
 }
 
 NebulaFlame: {
-	DisplayName: Nebula Flame
+	DisplayName: Пламя туманности
 	Description: ""
 }
 
 OliveBranchBuff: {
-	DisplayName: Peaceful Resolution
-	Description: "'Make peace with your enemies'"
+	DisplayName: Мирное разрешение
+	Description: «Вы заключили мир со своими врагами»
 }
 
 OracleBoonBuff: {
@@ -308,8 +303,8 @@ OracleBoonBuff: {
 }
 
 OverDrive: {
-	DisplayName: Overdrive
-	Description: Your movement speed and melee speed are charged up!
+	DisplayName: Энергофицирован
+	Description: Скорость передвижения и скорость атаки ближнего боя увеличены!
 }
 
 AtlasPetBuff: {
@@ -637,7 +632,7 @@ VirulenceCooldown: {
 }
 
 Wither: {
-	DisplayName: Wither
+	DisplayName: Иссушение
 	Description: ""
 }
 

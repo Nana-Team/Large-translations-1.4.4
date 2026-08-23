@@ -248,7 +248,7 @@ KoiTotem: {
 }
 
 BismiteShield: {
-	DisplayName: Ядовитый тарч
+	DisplayName: Тлетворный тарч
 	Tooltip:
 		'''
 		Накладывает на атакующих вас врагов дебафф «{$Buffs.FesteringWounds.DisplayName}»
@@ -1644,7 +1644,7 @@ Book_AccessoryGuide: {
 		-
 		[i:SpiritMod/AssassinMagazine] [c/80deed:Обойма наёмника:] Ах, как низко я пал. Неужели я правда вынужден хвалить штуковины, которыми пользуются мои кровные враги — всевозможные убийцы и наёмники? От того [c/72a4c2:бандита] мне уже не спрятаться, так что рекомендовать вам этот аксессуар всё-таки придётся. Если вы из тех, кто предпочитает дальний бой, эта удобная обойма позволит вам менять тип боеприпасов на лету, не копошась в инвентаре. Всё, я окончательно опозорил своё славное имя.
 		-
-		[i:SpiritMod/ArcaneNecklace] [c/80deed:Арканное ожерелье:] Знаете что? Не могу я больше так жить. Меня тошнит от того, кем я стал. Пора мне прислушаться к своим же советам и отправиться в приключение, защитить людей, которых я поклялся защищать. Не хочу больше говорить о сомнительной экипировке. Лучше попробуйте вот что: если вы маг, и у вас завалялась пара лишних [c/72a4c2:цепей] и [c/72a4c2:упавших звёзд], сделайте себе эту подвеску, она заметно усилит ваши заклинания.
+		[i:SpiritMod/ArcaneNecklace] [c/80deed:Мистическое ожерелье:] Знаете что? Не могу я больше так жить. Меня тошнит от того, кем я стал. Пора мне прислушаться к своим же советам и отправиться в приключение, защитить людей, которых я поклялся защищать. Не хочу больше говорить о сомнительной экипировке. Лучше попробуйте вот что: если вы маг, и у вас завалялась пара лишних [c/72a4c2:цепей] и [c/72a4c2:упавших звёзд], сделайте себе эту подвеску, она заметно усилит ваши заклинания.
 		-
 		[i:SpiritMod/LeatherShield] [i:SpiritMod/LeatherGlove] [i:SpiritMod/LeatherBoots] [c/80deed:Кожаное снаряжение:] Я думаю, вы уже поняли, в какой трудной ситуации я оказался. Зачарованную экипировку у меня отобрали, так что пока что я пользуюсь вещами, которые смог сделать сам из запасов [c/72a4c2:старой кожи]. Да, выглядят они убого. Да, от них воняет. Зато они наверняка не раз сберегут мою шкуру, да и путешествовать с ними не тягостно.
 		-
@@ -1712,7 +1712,7 @@ Book_ArmorGuide: {
 		-
 		[i:SpiritMod/DaybloomHead] [i:SpiritMod/DaybloomBody][i:SpiritMod/DaybloomLegs] [c/80deed:Броня из подсолнуха:] Быть может, вы начинающий маг? Что ж, я не из таких — во мне нет той магической искры, понимаете? Но вот этот тонкий и удобный костюмчик из  [c/72a4c2:подсолнухов ] и [c/72a4c2:упавших звёзд] непременно поможет вам раскрыть свой магический талант.
 		-
-		[i:SpiritMod/LeatherHood] [i:SpiritMod/LeatherPlate][i:SpiritMod/LeatherLegs] [c/80deed:Броня застрельщика:] Если осмелитесь однажды выйти в ночь и пострелять по зомби, насобирайте с них немного [c/72a4c2:старой кожи], пускай она и сомнительно пахнет, а заодно поупражняйтесь в стрельбе из лука. Эта лёгкая броня не будет сковывать ваши движения и позволит лучше сосредоточиться на вашей стрельбе.
+		[i:SpiritMod/LeatherHood] [i:SpiritMod/LeatherPlate][i:SpiritMod/LeatherLegs] [c/80deed:Броня меткого стрелка:] Если осмелитесь однажды выйти в ночь и пострелять по зомби, насобирайте с них немного [c/72a4c2:старой кожи], пускай она и сомнительно пахнет, а заодно поупражняйтесь в стрельбе из лука. Эта лёгкая броня не будет сковывать ваши движения и позволит лучше сосредоточиться на вашей стрельбе.
 		-
 		Вот два крайне полезных комплекта брони, которые сможет позволить себе любой из вас. С ними вы сможете продержаться в бою гораздо дольше. Удачи вам, юные приключенцы!
 		---
@@ -1838,7 +1838,7 @@ Book_WeaponGuide: {
 		-
 		[i:SpiritMod/IcySpear] [i:SpiritMod/FrigidFragment] [c/80deed:Леденящее метательное копьё:] Живёте неподалёку от заснеженной тундры или чего-то ещё холоднее? Тогда это оружие идеально вам подойдёт! Стоит всего лишь набрать парочку [c/72a4c2:леденящих фрагментов] и придать им нужную форму на наковальне, как у вас получится острое копьё, от которого кровь в жилах стынет. В отличие от всего остального кривого метательного оружия (да кто им пользуется вообще?), этим копьём вы действительно сможете попадать ровно туда, куда целитесь!
 		-
-		[i:SpiritMod/BismiteSummonStaff] [i:SpiritMod/BismiteCrystal] [c/80deed:Посох кристалла бисмита:] По правде говоря, я не переношу призывных существ: вечно они то за ногу меня укусят, то одежду мою порвут. Однако этот наполовину разумный ядовитый камешек совсем не из таких, вот уж точно! Этот кристаллик из [c/72a4c2:бисмита] поможет вам справиться с любой ордой монстров.
+		[i:SpiritMod/BismiteSummonStaff] [i:SpiritMod/BismiteCrystal] [c/80deed:Посох кристалла бисмита:] По правде говоря, я не переношу призывных существ: вечно они то за ногу меня укусят, то одежду мою порвут. Однако этот наполовину разумный токсичный камешек совсем не из таких, вот уж точно! Этот кристаллик из [c/72a4c2:бисмита] поможет вам справиться с любой ордой монстров.
 		-
 		[i:SpiritMod/ButterflyStaff] [i:1994] [c/80deed:Посох эфирной бабочки:] Опять-таки, мы с призывными существами совсем не в ладах, но конкретно у этого хотя бы нет ни зубов, ни когтей! Все что вам нужно — одна [c/72a4c2:бабочка], немного [c/72a4c2:древесины] и парочка [c/72a4c2:упавших звёзд], и у вас появится новый подвижный друг, который верно будет вам служить. В следующий раз, когда повстречаете [c/72a4c2:бабочку] — хватайте сачок!
 		-
@@ -1867,13 +1867,13 @@ Book_Yeremy: {
 # Do not localize image paths unless you have your own localized png files
 
 Book_Blossmoon: {
-	DisplayName: Notes on Blossmoons
+	DisplayName: О лунниках
 	Tooltip:
 		'''
-		by Calvin Reyes, Researcher
-		It contains notes about cute little Blossmoons
+		от полевого исследователя Кельвина Рейеса
+		Содержит заметки о маленьких и милых лунниках
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/BlossmoonPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/BlossmoonPage
 }
 
 Book_BriarArt: {
@@ -1888,14 +1888,14 @@ Book_BriarArt: {
 }
 
 Book_Soulbloom: {
-	DisplayName: Notes on Soulbloom
+	DisplayName: О душецветах
 	Tooltip:
 		'''
-		by Lena Ashwood, Alchemist
-		It details the anatomy and uses of an extremely rare herb
-		'Where could she have found this?'
+		от учёной Лены Эшвуд
+		Детальное описание анатомии и заметки о способах применения одного очень редкого цветка
+		«Где же она могла его найти?»
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/SoulbloomPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/SoulbloomPage
 }
 
 Book_SpiritArt: {
@@ -1920,83 +1920,83 @@ Book_LuminousArt: {
 }
 
 Book_Lumoth: {
-	DisplayName: Notes on Lumoths
+	DisplayName: О люмосах
 	Tooltip:
 		'''
-		by Calvin Reyes, Researcher
-		It explains the mechanisms behind bright Lumoths
+		от полевого исследователя Кельвина Рейеса
+		Описание механизмов, заставляющих люмосов светиться
 		'''
 	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/LumothPage
 }
 
 BismitePage: {
-	DisplayName: Notes on Bismite Crystals
+	DisplayName: О кристаллах бисмита
 	Tooltip:
 		'''
-		by Professor Alex Tannis
-		Contains information on a toxic ore fond around the caverns
+		от профессора Алекса Танниса
+		Содержит информацию об одном токсичном виде руды, найденном в пещерах
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/BismiteMaterialPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/BismiteMaterialPage
 }
 
 EnchantedLeafPage: {
-	DisplayName: Notes on Enchanted Leaves
+	DisplayName: О зачарованных листьях
 	Tooltip:
 		'''
-		by Professor Alex Tannis
-		Contains information on mystical leaves found in the Briar
+		от профессора Алекса Танниса
+		Содержит информацию об загадочных листьях, найденных в терновнике
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/EnchantedLeafMaterialPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/EnchantedLeafMaterialPage
 }
 
 FrigidFragmentPage: {
-	DisplayName: Notes on Frigid Fragments
+	DisplayName: О леденящих фрагментах
 	Tooltip:
 		'''
-		by Professor Alex Tannis
-		Contains information on an icy crystal found in the frozen tundra
+		от профессора Алекса Танниса
+		Содержит информацию об ледяных кристаллах, найденных в глубинах тундры
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/FrigidFragmentMaterialPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/FrigidFragmentMaterialPage
 }
 
 GlowrootPage: {
-	DisplayName: Notes on Glowroot
+	DisplayName: О светокорне
 	Tooltip:
 		'''
-		by Professor Alex Tannis
-		Contains information on a strange root found at the base of tall mushroom trees
+		от профессора Алекса Танниса
+		Содержит информацию о странных корнях, найденных у основания больших грибных деревьев
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/GlowrootPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/GlowrootPage
 }
 
 GranitePage: {
-	DisplayName: Notes on Enchanted Granite Chunks
+	DisplayName: О кусках зачарованного гранита
 	Tooltip:
 		'''
-		by Professor Alex Tannis
-		Contains information on a strange ore found in Granite Caverns
+		от профессора Алекса Танниса
+		Содержит информацию о странном виде руды, найденном в гранитных пещерах
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/GraniteMaterialPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/GraniteMaterialPage
 }
 
 HeartScalePage: {
-	DisplayName: Notes on Heart Scales
+	DisplayName: О сердечной чешуе
 	Tooltip:
 		'''
-		by Professor Alex Tannis
-		Contains information on a glimmering scale often found near Ardorfish
+		от профессора Алекса Танниса
+		Содержит информацию о блестящей чешуе рыб-страсти
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/HeartScaleMaterialPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/HeartScaleMaterialPage
 }
 
 MarblePage: {
-	DisplayName: Notes on Ancient Marble Chunks
+	DisplayName: О кусах древнего мрамора
 	Tooltip:
 		'''
-		by Professor Alex Tannis
-		Contains information on a strange ore found in Marble Caverns
+		от профессора Алекса Танниса
+		Содержит информацию о странном виде руды, найденном в мраморных пещерах
 		'''
-	ImagePath: SpiritMod/Localization/BooksUI/en-US/MarbleMaterialPage
+	ImagePath: SpiritMod/Localization/BooksUI/ru-RU/MarbleMaterialPage
 }
 
 ArcaneGeyser: {
@@ -3574,11 +3574,11 @@ DodgeBall1: {
 }
 
 DuskfeatherDagger: {
-	DisplayName: Duskfeather Dagger
+	DisplayName: Бритвенное сумеречное перо
 	Tooltip:
 		'''
-		Can throw up to eight Duskfeather blades
-		Right-click to recall all deployed blades
+		Бросает до восьми сумеречных перьев
+		Нажмите ПКМ, чтобы притянуть к себе все брошенные перья
 		'''
 }
 
@@ -3593,12 +3593,8 @@ BlizzardEdge: {
 }
 
 Chillrend: {
-	DisplayName: Chillrend
-	Tooltip:
-		'''
-		Fires three consecutive rounds of bullets
-		Shoots out a homing chilly blast occasionally
-		'''
+	DisplayName: Вымораживатель
+	Tooltip: Периодически выстреливает ледяной сосулькой
 }
 
 ShiverWind: {
@@ -3616,8 +3612,8 @@ SnowmongerMountItem: {
 }
 
 GoldJadeScythe: {
-	DisplayName: Crook of the Tormented
-	Tooltip: Occasionally spawns ornate scarabs to defend you upon hitting enemies
+	DisplayName: Истязаемый крюк
+	Tooltip: Периодически призывает скарабеев на вашу защиту при попадании по врагу
 }
 
 HeroBow: {
@@ -5992,8 +5988,8 @@ Topaz_Bow: {
 }
 
 Morningtide: {
-	DisplayName: Morningtide
-	Tooltip: Converts wooden arrows into Dawnstrike Shafts
+	DisplayName: Утренняя пора
+	Tooltip: Превращает деревянные стрелы в лучи рассвета
 }
 
 Ornament_Bow: {
@@ -6139,8 +6135,8 @@ BoneClub: {
 }
 
 BruteHammer: {
-	DisplayName: Brute Hammer
-	Tooltip: Spins rapidly around the player, dealing a devastating blow on release
+	DisplayName: Громящий молот
+	Tooltip: Удерживайте ЛКМ, чтобы раскрутить молот, и отпустите, чтобы нанести сокрушающий удар
 }
 
 ClubMealFour: {
@@ -6378,12 +6374,11 @@ ViciousDye: {
 }
 
 GastricGusher: {
-	DisplayName: Gastric Gusher
+	DisplayName: Гастритный гейзер
 	Tooltip:
 		'''
-		Consumes gel
-		Sprays a cone of harmful acid
-		Charge to increase range and damage
+		Использует гель в качестве боеприпасов
+		Зарядите, чтобы увеличить урон и дальность выстреливаемой кислоты
 		'''
 }
 
@@ -6791,11 +6786,11 @@ GraniteWand: {
 }
 
 RagingSunblade: {
-	DisplayName: Helios
+	DisplayName: Гелиос
 	Tooltip:
 		'''
-		Hold and release to throw 
-		Right click to dash to it, destroying everything in your path
+		Удерживайте ЛКМ, чтобы раскрутить шест, и отпустите, чтобы метнуть
+		Нажмите ПКМ, чтобы совершить рывок к брошенному шесту, уничтожая всё на своём пути
 		'''
 }
 
@@ -6849,8 +6844,8 @@ Exotic: {
 }
 
 CaptainsRegards: {
-	DisplayName: Captain's Regards
-	Tooltip: "'Pirate diplomacy at its finest'"
+	DisplayName: Капитанский привет
+	Tooltip: «Пиратская дипломатия во всей красе»
 }
 
 HeavenFleet: {
@@ -6863,11 +6858,11 @@ HeavenFleet: {
 }
 
 KineticRailgun: {
-	DisplayName: Tesla Cannon
+	DisplayName: Тесла-пушка
 	Tooltip:
 		'''
-		Consumes gel
-		Does more damage to single targets
+		Использует гель в качестве боеприпасов
+		Наносит больше урона по одиночным целям
 		'Zap your enemies to oblivion!'
 		'''
 }
@@ -6883,30 +6878,26 @@ LadyLuck: {
 }
 
 Meteorite_Spewer: {
-	DisplayName: Magmaspewer
+	DisplayName: Магмоплюй
 	Tooltip:
 		'''
-		Spews meteorites that linger for a short time
-		50% chance to not consume ammo
+		Стреляет метеоритами, ненадолго остающимися на земле
+		50% шанс не потратить боеприпасы
 		'''
 }
 
 PartyStarter: {
-	DisplayName: Partystarter
+	DisplayName: Весельчак
 	Tooltip:
 		'''
-		'Let's get this party started!'
-		Converts regular bullets into VIP party bullets
+		«Ну что, начнём веселье?»
+		Превращает мушкетные пули в VIP-праздничные
 		'''
 }
 
 PolymorphGun: {
-	DisplayName: Polymorph Gun
-	Tooltip:
-		'''
-		Turns enemies into harmless bunnies!
-		Only works on enemies below half health
-		'''
+	DisplayName: Полиморфная пушка
+	Tooltip: Превращает врагов, у которых менее половины здоровья, в безобидных кроликов!
 }
 
 Scattergun: {
@@ -6920,79 +6911,79 @@ Conflux: {
 }
 
 Swordsplosion: {
-	DisplayName: Swordsplosion
+	DisplayName: Мечевзрыв
 	Tooltip:
 		'''
-		Shoots out a barrage of swords
-		Projectiles fired count both as melee and ranged projectiles
+		Выпускает шквал мечей
+		Выпущенные мечи считаются так за стрелковые снаряды, так и за снаряды ближнего боля
 		'''
 }
 
 Crimbine: {
-	DisplayName: Harvester
+	DisplayName: Жнец
 	Tooltip:
 		'''
-		Converts regular bullets into bones
-		Right-click to shoot a slow-moving bloody amalgam
-		Shooting the bloody amalgam creates an explosion of organs with different effects
-		5 second cooldown
+		Превращает мушкетные пули в кости
+		Нажмите ПКМ, чтобы выстрелить медленным сгустком крови
+		Выстрел в кровавый сгусток взорвёт его, разбрасывая ошмётки с разными эффектами
+		Сгусток крови можно выпустить только один раз в 5 секунд
 		'''
 }
 
 HolyBurst: {
-	DisplayName: Maelstrom
+	DisplayName: Сильный вихрь
 	Tooltip:
 		'''
-		Bullets shot are surrounded in angelic energy
-		Bullets shot inflict Angel's Light, a stacking debuff
-		If enemies receive three stacks, holy light rains down upon them
-		Stacks last for 1 second
+		Превращает пули в заряды ангельской энергией
+		Эти заряды накладывают на врагов суммирующийся дебафф «{$Buffs.AngelLight.DisplayName}»
+		На врагов, получивших третий стак дебаффа, обрушиваются святые лучи
+		Каждый стак держится 1 минуту
 		'''
 }
 
 ShadowShot: {
-	DisplayName: Shadeblaster
+	DisplayName: Тенебластер
 	Tooltip:
 		'''
-		Converts regular bullets into vile bullets
-		Right-click to shoot out a cursed tracker that sticks to enemies
-		Vile bullets home onto tracked enemies
+		Превращает мушкетные пули в мерзкие заряды
+		Нажмите ПКМ, чтобы выстрелить проклятым жучком, застревающим во врагах
+		Мерзкие заряды самонаводятся на врагов с жучком
 		'''
 }
 
 Terravolver: {
-	DisplayName: Terravolver
+	DisplayName: Терравольвер
 	Tooltip:
 		'''
-		Shoots elemental bullets and bombs that inflict powerful burns
-		Right click while holding for a shotgun blast
-		33% chance to not consume ammo
-		'Nature goes out with a bang'
+		Стреляет элементальными пулями и бомбами, накладывающими сильные огненные дебаффы
+		Нажмите ПКМ, чтобы сделать выстрел как из дробовика
+		33% шанс не потратить боеприпасы
+		«Природа всегда уходит с огоньком»
 		'''
 }
 
 TrueCrimbine: {
-	DisplayName: True Harvester
+	DisplayName: Истинный жнец
 	Tooltip:
 		'''
-		Rapidly shoots out wither blasts that inflict 'Wither' on hit foes
-		Occasionally shoots out a giant clump of blood that steals a large amount of life
+		Быстро стреляет зарядами, накладывающими на врагов дебафф «{$Buffs.Wither.DisplayName}»
+		Периодически выпускает огромный сгусток крови, высасывающий у врагов большое количество здоровья
 		'''
 }
 
 TrueHolyBurst: {
-	DisplayName: Holy Hellstorm
+	DisplayName: Святой адский вихрь
 	Tooltip:
 		'''
-		Fires a five round burst of angelic energy
-		Bullets shot inflict 'Angel's Wrath', a stacking debuff
-		Different amounts of holy light rains down on enemies based on the stacks of 'Angel's Wrath' they have
+		Превращает пули в заряды ангельской энергией
+		Эти заряды накладывают на врагов суммирующийся дебафф «{$Buffs.AngelWrath.DisplayName}»
+		На врагов обрушивается разное количество святых лучей в зависимости от количества стаков дебаффа на них
 		'''
 }
 
 TrueShadowShot: {
-	DisplayName: Nightbane
-	Tooltip: Summons extra shadow bullets
+	DisplayName: Вестник ночи
+	Tooltip: Превращает мушкетные пули в теневые заряды
 }
 
 AncientBark: {
@@ -7031,11 +7022,11 @@ HuskstalkSword: {
 }
 
 KnocbackGun: {
-	DisplayName: Freeman
+	DisplayName: Фримен
 	Tooltip:
 		'''
-		Converts rockets fired into coiled rockets that can be controlled by the cursor
-		'The right man in the wrong place can make all the difference in the world'
+		Превращает ракеты в проводные ракеты, управляемые курсором
+		«Нужный человек не в том месте может перевернуть мир»
 		'''
 }
 
@@ -7208,11 +7199,11 @@ TrueHallowedStaff: {
 }
 
 BreathOfTheZephyr: {
-	DisplayName: Breath of the Zephyr
+	DisplayName: Дыхание Зефира
 	Tooltip:
 		'''
-		Creates a mighty gust of wind to damage your foes and knock them back
-		Right-click to thrust like a spear, and leech mana from struck foes
+		Выпускает мощный порыв ветра, отбрасывающий врагов
+		Нажмите ПКМ, чтобы использовать оружие как копьё, высасывающее ману из поражённых врагов
 		'''
 }
 
@@ -7283,11 +7274,11 @@ SeaMandrakeSac: {
 }
 
 ArtemisHunt: {
-	DisplayName: Iokheira
+	DisplayName: Иохеэра
 	Tooltip:
 		'''
-		Hit enemies to mark them 
-		Right click to fire a volley of arrows at marked foes
+		Накладывает метку на поражённых врагов
+		Нажмите ПКМ, чтобы выпустить залп самонаводящихся стрел в отмеченного врага
 		'''
 }
 
@@ -7307,12 +7298,12 @@ Eleutherios: {
 }
 
 MarkOfZeus: {
-	DisplayName: Mark of Zeus
+	DisplayName: Знак Зевса
 	Tooltip:
 		'''
-		Hold and release to throw
-		Hold it longer for more velocity and damage
-		Consumes 20 mana per second while charging
+		Удерживайте ЛКМ, чтобы зарядить молнию, и отпустите, чтобы метнуть
+		Чем дольше молния заряжается, тем быстрее она полетит и больше урона нанесёт
+		Каждая секунда зарядки расходует 20 ед. маны
 		'''
 }
 
@@ -7448,8 +7439,8 @@ AccursedSoul: {
 }
 
 Graveyard: {
-	DisplayName: Graveyard
-	Tooltip: Creates a portal to the nether realm, releasing a torrent of skulls
+	DisplayName: Могильщик
+	Tooltip: Создаёт портал в нижний мир, из которого вылетают черепа
 }
 
 OldCross: {
@@ -7573,8 +7564,8 @@ GhostJellyBomb: {
 }
 
 Gravehunter: {
-	DisplayName: Gravehunter
-	Tooltip: "'You can't tell if you guide the trigger or it guides you'"
+	DisplayName: Погребальщик
+	Tooltip: «Не разберёшь, кто тут кого ведёт — ты курок или курок тебя»
 }
 
 NetherCrystal: {
@@ -8001,12 +7992,8 @@ DarkstarLantern: {
 }
 
 DesertTome: {
-	DisplayName: Khamsin
-	Tooltip:
-		'''
-		Creats a violent sandnado from the player
-		Enemies caught by the tornado are lifted upwards
-		'''
+	DisplayName: Хамсин
+	Tooltip: Создаёт над вами сильный песчаный вихрь, подбрасывающий врагов
 }
 
 EelRod: {

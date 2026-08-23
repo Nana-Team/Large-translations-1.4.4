@@ -224,11 +224,6 @@ GreekFire: {
 	Description: Set ablaze by the Gods themselves
 }
 
-HighGravityBuff: {
-	DisplayName: High Gravity
-	Description: Gravity returns to normal
-}
-
 HolyLight: {
 	DisplayName: Holy Light
 	Description: ""
