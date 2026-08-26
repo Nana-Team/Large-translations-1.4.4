@@ -318,18 +318,18 @@ AvianPetBuff: {
 }
 
 BladePetBuff: {
-	DisplayName: Possessed Blade
-	Description: "'Is this a dagger I see in front of me?'"
+	DisplayName: Одержимый клинок
+	Description: «Кинжал ли вижу я перед собою?»
 }
 
 CaltfistPetBuff: {
-	DisplayName: Cultfish
-	Description: This little bugger lights the way!
+	DisplayName: Рыба-культсит
+	Description: Этот маленький негодник осветит ваш путь!
 }
 
 CaptiveMaskPetBuff: {
-	DisplayName: Unbound Mask
-	Description: "'Once more unto the breach!'"
+	DisplayName: Освобождённая маска
+	Description: «К пролому!»
 }
 
 DuskingPetBuff: {
@@ -338,18 +338,18 @@ DuskingPetBuff: {
 }
 
 FaeriePetBuff: {
-	DisplayName: Waning Gibbous
-	Description: The Moonlit Faerie will protect you
+	DisplayName: Убывающая луна
+	Description: Вас защищает луносветная фея
 }
 
 HauntedBookPetBuff: {
-	DisplayName: Haunted Tome
-	Description: "'Haunted, yet comforting'"
+	DisplayName: Одержимый фолиант
+	Description: «Одержимый, но тихий»
 }
 
 InfernonPetBuff: {
-	DisplayName: Inferno
-	Description: "'You'd better stay out of his way'"
+	DisplayName: Инферно
+	Description: «Тебе лучше держаться от него подальше»
 }
 
 JellyfishBuff: {
@@ -358,18 +358,18 @@ JellyfishBuff: {
 }
 
 LanternBuff: {
-	DisplayName: Lantern Power Battery
-	Description: "'It illuminates the way!'"
+	DisplayName: Фонарь-батарея
+	Description: «Да осветит он ваш путь»
 }
 
 LoomingPresence: {
-	DisplayName: Looming Presence
-	Description: It seems to attract a lot of attention.
+	DisplayName: Зловещее присутствие
+	Description: Похоже, оно привлекает много внимания
 }
 
 MJWPetBuff: {
-	DisplayName: Moon Jelly Lightbulb
-	Description: "'No installation necessary!'"
+	DisplayName: Лунная медуза-лампочка
+	Description: «Даже закручивать не нужно!»
 }
 
 OccultistPetBuff: {
@@ -388,8 +388,8 @@ PhantomPetBuff: {
 }
 
 SaucerPetBuff: {
-	DisplayName: Support Saucer
-	Description: "'It seems to only provide moral support...'"
+	DisplayName: Член поддержки
+	Description: «Единственная поддержка, которую он может оказать, разве что, моральная...»
 }
 
 ScarabPetBuff: {
@@ -398,13 +398,13 @@ ScarabPetBuff: {
 }
 
 ShadowPetBuff: {
-	DisplayName: Shadow Pup
-	Description: "'Awww'"
+	DisplayName: Теневой щенок
+	Description: «Рар-р-р»
 }
 
 StarplatePetBuff: {
-	DisplayName: Starplate Miniature
-	Description: Looking for something...
+	DisplayName: Миниатюрный звёздопанцирник
+	Description: Что-то ищет...
 }
 
 VinewrathPetBuff: {
@@ -432,13 +432,13 @@ FlightPotionBuff: {
 }
 
 MoonBlessing: {
-	DisplayName: Moon Jelly
-	Description: Extreme regeneration
+	DisplayName: Лунное желе
+	Description: Невероятная скорость регенерации
 }
 
 MoonBlessingDonut: {
-	DisplayName: Moon Jelly Donut
-	Description: Extreme regeneration and a sugar high!
+	DisplayName: Лунноглазированный пончик
+	Description: Невероятная скорость регенерации в месте с сахарной передозировкой!
 }
 
 MushroomPotionBuff: {
@@ -452,38 +452,38 @@ PinkPotionBuff: {
 }
 
 RunePotionBuff: {
-	DisplayName: Runescribe
+	DisplayName: Рунописание
 	Description:
 		'''
-		Magic attacks may cause enemies to erupt into runes
-		5% increased magic damage
+		Магические атаки иногда будут разбрасывать руны
+		Магический урон увеличен на 5%
 		'''
 }
 
 SoulPotionBuff: {
-	DisplayName: Soul Guard
+	DisplayName: Духовная сила
 	Description:
 		'''
-		Reduces damage taken by 5%
-		Getting hurt may cause all enemies to suffer 'Soul Burn' for a short time
+		Получении урона иногда будет накладывать на ближайших врагов дебафф «{$Buffs.SoulBurn.DisplayName}»
+		Сопротивление урону увеличено на 5%
 		'''
 }
 
 StarPotionBuff: {
-	DisplayName: Star Burn
+	DisplayName: Пылание звезды
 	Description:
 		'''
-		Critical hits may cause stars to fall from the sky
-		4% increased ranged damage and critical strike chance when moving
+		Нанесение критических ударов иногда будут вызывать падение звёзд с неба
+		Стрелковый урон и шанс критического удара увеличены на 4% во время движения
 		'''
 }
 
 TurtlePotionBuff: {
-	DisplayName: Steadfast
+	DisplayName: Стойкость
 	Description:
 		'''
-		Increases defense as health wanes
-		Reduces damage taken by 5%
+		Защита увеличивается по мере снижения здоровья
+		Сопротивление урону увеличено на 5%
 		'''
 }
 
