@@ -547,11 +547,6 @@ Stopped: {
 	Description: You are locked in place
 }
 
-Sturdy: {
-	DisplayName: Sturdy
-	Description: "'Your shell has been cracked'"
-}
-
 ElectricSummonTag: {
 	DisplayName: Summon Tag
 	Description: Tagged!
@@ -856,11 +851,6 @@ PigronMinion_Buff: {
 FairyMinion_Buff: {
 	DisplayName: Fairies
 	Description: Hey! Watch out!
-}
-
-Jinxprobe_Buff: {
-	DisplayName: Tiny Jinxprobe
-	Description: The Jinxprobe will fight for you
 }
 
 StarplateDrone_Buff: {

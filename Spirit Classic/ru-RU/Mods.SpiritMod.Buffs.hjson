@@ -488,13 +488,13 @@ TurtlePotionBuff: {
 }
 
 Shadowbroken: {
-	DisplayName: Shadowbroken
-	Description: Shade hides from you
+	DisplayName: Теневой разрыв
+	Description: В вас скрывается тьма
 }
 
 Shadowflame: {
-	DisplayName: Shadowflame
-	Description: A sequel we never knew we wanted
+	DisplayName: Теневое пламя
+	Description: Продолжение о котором никто не просил
 }
 
 Shocked: {
@@ -503,92 +503,87 @@ Shocked: {
 }
 
 SoulBurn: {
-	DisplayName: Soul Burn
-	Description: Your soul yearns for freedom
+	DisplayName: Горение души
+	Description: Ваша душа жаждет свободы
 }
 
 SoulFlare: {
-	DisplayName: Soul Flare
-	Description: Your soul is fluctuating...
+	DisplayName: Полыхание души
+	Description: Ваша душа неустойчива...
 }
 
 SpiritBuff: {
-	DisplayName: Spirit Aura
+	DisplayName: Аура духов
 	Description:
 		'''
-		Increases damage and critical strike chance by 5 % 
-		Getting hurt occasionally spawns a damaging bolt to chase enemies
+		Урон и шанс критического удара увеличены на 5%
+		Вы иногда будете выпускать самонаводящиеся заряды душ при получении урона
 		'''
 }
 
 StackingFireBuff: {
-	DisplayName: Combustion Blaze
-	Description: Burning, but worse!
+	DisplayName: Выжигающее пламя
+	Description: "{$BuffName.Burning}, но хуже!"
 }
 
 StarCooldown: {
-	DisplayName: Cosmic Cooldown
-	Description: The cosmic energies must stabilize...
+	DisplayName: Космическая перезарядка
+	Description: Энергии космоса нужно стабилизироваться...
 }
 
 StarFlame: {
-	DisplayName: Star Flame
-	Description: "'An astral force saps your vitality'"
+	DisplayName: Звёздное пламя
+	Description: «Звёздная сила высасывает ваши жизненные силы»
 }
 
 StarFracture: {
-	DisplayName: Star Fracture
-	Description: Broken by the stars
+	DisplayName: Звёздный разлом
+	Description: Разорван звёздами
 }
 
 StarplateGravity: {
-	DisplayName: Starplate Gravity
-	Description: The Starplate Voyager pulls you toward the earth...
+	DisplayName: Звёздопанцирная гравитация
+	Description: Звёздопанцирный странник притягивает вас к земле...
 }
 
 Stopped: {
-	DisplayName: Stopped
-	Description: You are locked in place
-}
-
-Sturdy: {
-	DisplayName: Sturdy
-	Description: "'Your shell has been cracked'"
+	DisplayName: Остановленный
+	Description: Вы застряли на месте
 }
 
 ElectricSummonTag: {
-	DisplayName: Summon Tag
-	Description: Tagged!
+	DisplayName: Метка призывателя
+	Description: Вы отмечены!
 }
 
 SacrificialDaggerBuff: {
-	DisplayName: Sacrificial Strike
-	Description: Three (3) projectiles
+	DisplayName: Жертвенный удар
+	Description: Три (3) снаряда
 }
 
 SummonTag3: {
-	DisplayName: Summon Tag
-	Description: Tagged!
+	DisplayName: Метка призывателя
+	Description: Вы отмечены!
 }
 
 SummonTag5: {
-	DisplayName: Summon Tag
-	Description: Tagged!
+	DisplayName: Метка призывателя
+	Description: Вы отмечены!
 }
 
 SurgingAnguish: {
-	DisplayName: Surging Anguish
-	Description: "'Your mind and body are in great pain'"
+	DisplayName: Пронзительные муки
+	Description: «Ваше тело и разум испытывает невыносимую боль»
 }
 
 Impaled: {
-	DisplayName: Impaled
-	Description: You've been impaled by a pike. Ouch!
+	DisplayName: Пронзённый
+	Description: Вас пронзили пикой. Ай!
 }
 
 KoiTotemBuff: {
-	DisplayName: Spirit of the Koi
-	Description: Increased fishing skill
+	DisplayName: Дух кои
+	Description: Навык рыбной ловли увеличен
 }
 
 PagodaCurse: {
@@ -647,8 +642,8 @@ CryoZoneTimer: {
 }
 
 DefenseZoneBuff: {
-	DisplayName: Fortification Zone
-	Description: You feel strong!
+	DisplayName: Зона укрепления
+	Description: Вы чувствуете силу!
 }
 
 HealingZoneBuff: {
@@ -672,8 +667,8 @@ LowGravZoneTimer: {
 }
 
 ShieldZoneTimer: {
-	DisplayName: Fortification Zone
-	Description: The Fortification Zone is up!
+	DisplayName: Зона укрепления
+	Description: Зона укрепления активна!
 }
 
 StaminaZoneBuff: {
@@ -687,23 +682,23 @@ StaminaZoneTimer: {
 }
 
 BaubleCooldown: {
-	DisplayName: Bauble Cooldown
-	Description: Bauble's shield is on cooldown
+	DisplayName: Пузырьковая перезарядка
+	Description: Пузырьковый щит перезаряжается
 }
 
 BaubleResistance: {
-	DisplayName: Bauble Resistance
-	Description: You feel protected
+	DisplayName: Пузырьковое сопротивление
+	Description: Вы чувствуете себя несокрушимым
 }
 
 GildedScarab_buff: {
-	DisplayName: Scarab Shield
-	Description: Defense increased by {0}
+	DisplayName: Скарабейный щит
+	Description: Защита увеличена на {0} ед.
 }
 
 SlagFury_buff: {
-	DisplayName: Slag Fury
-	Description: "{$CommonItemTooltip.PercentIncreasedDamage}"
+	DisplayName: Шлаковая ярость
+	Description: Урон увеличен на {0}%
 }
 
 RunicSiphon: {
@@ -722,13 +717,13 @@ PendantBuff: {
 }
 
 MirrorCoatBuff: {
-	DisplayName: Mirror Coat
-	Description: Immunity to Stoned
+	DisplayName: Зеркальное покрытие
+	Description: Вы невосприимчивы к дебаффу «{$BuffName.Stoned}»
 }
 
 SaddleBuff: {
-	DisplayName: Aurora Stag Mount
-	Description: You feel the power of the stars
+	DisplayName: Верховой полярный олень
+	Description: Вы чувствуете силу звёзд
 }
 
 CosmicRattlerPetBuff: {
@@ -762,8 +757,8 @@ SwimmingFatigue: {
 }
 
 CurseBreakerMark: {
-	DisplayName: Curse Mark
-	Description: Marked for death!
+	DisplayName: Проклятое клеймо
+	Description: Клеймённый на смерть!
 }
 
 MarbleMinecartBuff: {
@@ -772,14 +767,14 @@ MarbleMinecartBuff: {
 }
 
 Crystallization: {
-	DisplayName: Cystallization
-	Description: Rapidly losing life
+	DisplayName: Кристаллизация
+	Description: Быстрая потеря здоровья
 }
 
 Golden_Curse: {
-	DisplayName: Golden Curse
-	Description: Increased fall speed and damage
-	Death: "{0} died solid as a gold bar"
+	DisplayName: Золотое проклятье
+	Description: Скорость падения и урон увеличены
+	Death: Игрок {0} грохнулся на землю как золотой слиток.
 }
 
 Crawlerock_Buff: {
@@ -838,8 +833,8 @@ ButterflyMinion_Buff: {
 }
 
 ToucanMinion_Buff: {
-	DisplayName: Toucans
-	Description: Despite all of my rage
+	DisplayName: Тукан
+	Description: За вас сражается тукан
 }
 
 SoulDaggerProj_Buff: {
@@ -853,18 +848,13 @@ SandWarriorMinion_Buff: {
 }
 
 PigronMinion_Buff: {
-	DisplayName: Pigrons
-	Description: Bacon!
+	DisplayName: Свинрон
+	Description: Бекон!
 }
 
 FairyMinion_Buff: {
 	DisplayName: Феи
 	Description: Эй! Осторожно!
-}
-
-Jinxprobe_Buff: {
-	DisplayName: Tiny Jinxprobe
-	Description: The Jinxprobe will fight for you
 }
 
 StarplateDrone_Buff: {

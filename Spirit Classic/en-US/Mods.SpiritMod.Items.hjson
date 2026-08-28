@@ -3732,6 +3732,14 @@ BeeGlyph: {
 		Attacks periodically release bees
 		'''
 	Effect: Honeyed
+
+	# Russian-only localization - feel free to leave unset.
+	# The Effect key above is the masculine/default form
+	Gendered: {
+		Fem: Feminine
+		Neutral: Neutral
+		Plural: Plural
+	}
 }
 
 BlazeGlyph: {
@@ -3744,6 +3752,12 @@ BlazeGlyph: {
 	Addendum: Dealing damage sets you ablaze
 	Effect: Blazing
 	Death: "{0} was consumed by Rage..."
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 ChaosGlyph: {
@@ -3751,6 +3765,12 @@ ChaosGlyph: {
 	Tooltip: Your weapon periodically switches between glyph effects
 	Addendum: Your weapon periodically switches between glyph effects
 	Effect: Unstable
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 FrostGlyph: {
@@ -3758,6 +3778,12 @@ FrostGlyph: {
 	Tooltip: Attacks have a chance to freeze enemies briefly
 	Addendum: Attacks have a chance to freeze enemies briefly
 	Effect: Freezing
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 Glyph: {
@@ -3789,6 +3815,12 @@ PhaseGlyph: {
 		Consecutive hits grant a short burst of speed
 		'''
 	Effect: Temporal
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 RadiantGlyph: {
@@ -3796,6 +3828,12 @@ RadiantGlyph: {
 	Tooltip: Builds radiant energy when not dealing damage, empowering your next attack
 	Addendum: Builds radiant energy when not dealing damage, empowering your next attack
 	Effect: Radiant
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 RageGlyph: {
@@ -3803,6 +3841,12 @@ RageGlyph: {
 	Tooltip: Excess damage on kill is stored for your next attack
 	Addendum: Excess damage on kill is stored for your next attack
 	Effect: Frenzied
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 SanguineGlyph: {
@@ -3814,6 +3858,12 @@ SanguineGlyph: {
 		'''
 	Addendum: Dealing damage boosts life regeneration briefly
 	Effect: Leeching
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 StormGlyph: {
@@ -3821,6 +3871,12 @@ StormGlyph: {
 	Tooltip: Attacks occasionally release a forceful gust of wind
 	Addendum: Attacks occasionally release a forceful gust of wind
 	Effect: Billowed
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 UnholyGlyph: {
@@ -3828,6 +3884,12 @@ UnholyGlyph: {
 	Tooltip: Enemies erupt into cursed phantoms on death
 	Addendum: Enemies erupt into cursed phantoms on death
 	Effect: Cursed
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 VeilGlyph: {
@@ -3835,6 +3897,12 @@ VeilGlyph: {
 	Tooltip: Dealing damage builds a defensive veil around the user
 	Addendum: Dealing damage builds a defensive veil around the user
 	Effect: Guarding
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 VoidGlyph: {
@@ -3842,6 +3910,12 @@ VoidGlyph: {
 	Tooltip: Attacks have a chance to inflict stacks of void collapse
 	Addendum: Attacks have a chance to inflict stacks of void collapse
 	Effect: Null
+
+	Gendered: {
+		Fem: ""
+		Neutral: ""
+		Plural: ""
+	}
 }
 
 CaramelApple: {
