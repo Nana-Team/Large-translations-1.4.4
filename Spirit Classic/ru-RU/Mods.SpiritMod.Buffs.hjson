@@ -587,8 +587,8 @@ KoiTotemBuff: {
 }
 
 PagodaCurse: {
-	DisplayName: Curse of the Pagoda
-	Description: You feel a ghostly presence nearby
+	DisplayName: Проклятие пагоды
+	Description: Вы чувствуете потустороннее присутствие
 }
 
 SunPotBuff: {
@@ -597,18 +597,18 @@ SunPotBuff: {
 }
 
 TopazMarked: {
-	DisplayName: Illuminated
-	Description: Like 10 million fireflies
+	DisplayName: Освещённый
+	Description: Словно 10 миллионов светлячков
 }
 
 Tracked: {
-	DisplayName: Tracked
-	Description: You can run, but you can't hide
+	DisplayName: Слежка
+	Description: Вы можете бежать, но прятаться бесполезно
 }
 
 TrueMarksman: {
-	DisplayName: True Marksman
-	Description: Gun damage is increased dramatically
+	DisplayName: Истинный стрелок
+	Description: Урон огнестрельного оружия значительно увеличен
 }
 
 UnstableAffliction: {
@@ -622,8 +622,8 @@ VineTrap: {
 }
 
 VirulenceCooldown: {
-	DisplayName: Virulent Suppression
-	Description: "'The Putrid Humors must reset their energy'"
+	DisplayName: Подавление болезнетворности
+	Description: Гнилостным испарениям необходимо накопить свою энергию
 }
 
 Wither: {
@@ -702,18 +702,17 @@ SlagFury_buff: {
 }
 
 RunicSiphon: {
-	DisplayName: Runic Siphon
-	Description: Reduced damage resistance and losing HP rapidly
-}
-
-ManajinxBuff: {
-	DisplayName: Starlight Enchantment
-	Description: Magic weapons spawn additional homing stars, and mana usage is drastically decreased
+	DisplayName: Руническое ослабление
+	Description:
+		'''
+		Быстрая потеря здоровья
+		Сопротивление урону снижено
+		'''
 }
 
 PendantBuff: {
 	DisplayName: Дружелюбный жук-пилюльщик
-	Description: "'Rock and roll!'"
+	Description: «Это реальный вид жуков если что»
 }
 
 MirrorCoatBuff: {
@@ -726,14 +725,9 @@ SaddleBuff: {
 	Description: Вы чувствуете силу звёзд
 }
 
-CosmicRattlerPetBuff: {
-	DisplayName: Starachnid
-	Description: "'Inside it you can see the depths of space'"
-}
-
 Empowered: {
-	DisplayName: Empowered
-	Description: Headsplitter is imbued with a fleeting strength
+	DisplayName: Усиленный
+	Description: Раскольник наполнен кратковременной силой
 }
 
 Mantaray_Buff: {
@@ -762,8 +756,8 @@ CurseBreakerMark: {
 }
 
 MarbleMinecartBuff: {
-	DisplayName: Nemean Chariot
-	Description: "'You feel powerful!'"
+	DisplayName: Немейская колесница
+	Description: «Почувствуйте себя императором!»
 }
 
 Crystallization: {
@@ -778,8 +772,8 @@ Golden_Curse: {
 }
 
 Crawlerock_Buff: {
-	DisplayName: Crawlerock
-	Description: A baby Cavern Crawler fights for you!
+	DisplayName: Пещерный ползунчик
+	Description: За вас сражается маленький пещерный ползун!
 }
 
 JellyfishMinion_Buff: {
@@ -788,43 +782,43 @@ JellyfishMinion_Buff: {
 }
 
 LavaRockSummon_Buff: {
-	DisplayName: Slagtern
-	Description: The power of magma flows through this lantern
+	DisplayName: Шлаковый фонарь
+	Description: «Из этого фонаря сочится сила магмы»
 }
 
 MangoJellyMinion_Buff: {
 	DisplayName: Манговая медуза
-	Description: За вас сражается маленькая манговая медузка!
+	Description: За вас сражается манговая медузка!
 }
 
 Minior_Buff: {
-	DisplayName: Mini Meteor
-	Description: A mini meteor fights for you!
+	DisplayName: Маленький метеор
+	Description: За вас сражается маленький метеор!
 }
 
 SnakeMinion_Buff: {
-	DisplayName: Flying Snake
-	Description: "'Quite venomous...'"
+	DisplayName: Крылатый змей
+	Description: «Очень ядовит...»
 }
 
 SnapsporeMinion_Buff: {
-	DisplayName: Snapspore
-	Description: A bouncy Snapspore fights for you!
+	DisplayName: Цепкоспора
+	Description: За вас сражается прыгучая цепкоспора!
 }
 
 MoonjellySummon_Buff: {
-	DisplayName: Moonlight Preserver
-	Description: This moonlight preserver summons tiny Lunazoa to fight for you!
+	DisplayName: Луносветная носительница
+	Description: Луносветная носительница призывает маленьких луназой сражаться за вас!
 }
 
 QuacklingMinion_Buff: {
-	DisplayName: Quackling
-	Description: Born with a bandana!
+	DisplayName: Кряква
+	Description: С банданой с рождения!
 }
 
 RabbitOfCaerbannog_Buff: {
-	DisplayName: Rabbit of Caerbannog
-	Description: "'It's just a harmless little bunny, isn't it?'"
+	DisplayName: Кролик-убийца
+	Description: «Это просто маленький безобидный крольчонок, что может случиться?»
 }
 
 ButterflyMinion_Buff: {
@@ -838,13 +832,13 @@ ToucanMinion_Buff: {
 }
 
 SoulDaggerProj_Buff: {
-	DisplayName: Soul Dagger
-	Description: Reap their souls!
+	DisplayName: Призрачный кинжал
+	Description: Поглоти их души!
 }
 
 SandWarriorMinion_Buff: {
-	DisplayName: Sand Warrior
-	Description: The sand warrior will fight for you
+	DisplayName: Песчаный воин
+	Description: За вас сражается песчаный воин
 }
 
 PigronMinion_Buff: {
@@ -858,18 +852,18 @@ FairyMinion_Buff: {
 }
 
 StarplateDrone_Buff: {
-	DisplayName: Starplate Fighter Drone
-	Description: "'Sure to deliver a quick death for your foes'"
+	DisplayName: Звёздопанцирный боевой дрон
+	Description: «В прекрасном будущем всё физическое насилие будет выглядеть именно так»
 }
 
 LocustBig_Buff: {
-	DisplayName: Locusts
-	Description: Bringer of a plague
+	DisplayName: Саранча
+	Description: Разносчица чумы
 }
 
 ExplorerSpeed: {
-	DisplayName: Explorer Speed
-	Description: Your mobility is greatly improved
+	DisplayName: Скорость исследователя
+	Description: Мобильность значительно увеличена
 }
 
 ArcaneFreeze: {

@@ -702,11 +702,6 @@ RunicSiphon: {
 	Description: Reduced damage resistance and losing HP rapidly
 }
 
-ManajinxBuff: {
-	DisplayName: Starlight Enchantment
-	Description: Magic weapons spawn additional homing stars, and mana usage is drastically decreased
-}
-
 PendantBuff: {
 	DisplayName: Pillbug Friend
 	Description: "'Rock and roll!'"
@@ -720,11 +715,6 @@ MirrorCoatBuff: {
 SaddleBuff: {
 	DisplayName: Aurora Stag Mount
 	Description: You feel the power of the stars
-}
-
-CosmicRattlerPetBuff: {
-	DisplayName: Starachnid
-	Description: "'Inside it you can see the depths of space'"
 }
 
 Empowered: {
