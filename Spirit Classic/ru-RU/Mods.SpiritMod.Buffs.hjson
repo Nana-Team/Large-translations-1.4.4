@@ -70,7 +70,7 @@ BeetleFortitude: {
 }
 
 BloodInfusion: {
-	DisplayName: Заражение крови
+	DisplayName: Переливание крови
 	Description: «Крайне заразно»
 }
 
@@ -389,11 +389,11 @@ PhantomPetBuff: {
 
 SaucerPetBuff: {
 	DisplayName: Член поддержки
-	Description: «Единственная поддержка, которую он может оказать, разве что, моральная...»
+	Description: «Единственная поддержка, которую он может оказать — это, разве что, моральная...»
 }
 
 ScarabPetBuff: {
-	DisplayName: Крошка скарабей
+	DisplayName: Крошка-скарабей
 	Description: «Ему очень нравится кататься...»
 }
 
@@ -403,7 +403,7 @@ ShadowPetBuff: {
 }
 
 StarplatePetBuff: {
-	DisplayName: Миниатюрный звёздопанцирник
+	DisplayName: Миниатюрный звездопанцирник
 	Description: Что-то ищет...
 }
 
@@ -438,7 +438,7 @@ MoonBlessing: {
 
 MoonBlessingDonut: {
 	DisplayName: Лунноглазированный пончик
-	Description: Невероятная скорость регенерации в месте с сахарной передозировкой!
+	Description: Невероятная скорость регенерации вместе с сахарной передозировкой!
 }
 
 MushroomPotionBuff: {
@@ -473,7 +473,7 @@ StarPotionBuff: {
 	DisplayName: Пылание звезды
 	Description:
 		'''
-		Нанесение критических ударов иногда будут вызывать падение звёзд с неба
+		Нанесение критических ударов иногда будет вызывать падение звёзд с неба
 		Стрелковый урон и шанс критического удара увеличены на 4% во время движения
 		'''
 }
@@ -542,8 +542,8 @@ StarFracture: {
 }
 
 StarplateGravity: {
-	DisplayName: Звёздопанцирная гравитация
-	Description: Звёздопанцирный странник притягивает вас к земле...
+	DisplayName: Звездопанцирная гравитация
+	Description: Звездопанцирный странник притягивает вас к земле...
 }
 
 Stopped: {
@@ -573,7 +573,7 @@ SummonTag5: {
 
 SurgingAnguish: {
 	DisplayName: Пронзительные муки
-	Description: «Ваше тело и разум испытывает невыносимую боль»
+	Description: «Ваше тело и разум испытывают невыносимую боль»
 }
 
 Impaled: {
@@ -712,7 +712,7 @@ RunicSiphon: {
 
 PendantBuff: {
 	DisplayName: Дружелюбный жук-пилюльщик
-	Description: «Это реальный вид жуков если что»
+	Description: «Это реальный вид жуков, если что»
 }
 
 MirrorCoatBuff: {
@@ -852,7 +852,7 @@ FairyMinion_Buff: {
 }
 
 StarplateDrone_Buff: {
-	DisplayName: Звёздопанцирный боевой дрон
+	DisplayName: Звездопанцирный боевой дрон
 	Description: «В прекрасном будущем всё физическое насилие будет выглядеть именно так»
 }
 

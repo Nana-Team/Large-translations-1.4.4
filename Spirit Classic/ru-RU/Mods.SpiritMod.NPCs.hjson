@@ -368,25 +368,25 @@ Scarabeus: {
 }
 
 SwarmScarab.DisplayName: Скарабей
-ArcadeProbe.DisplayName: Звёздоплаватель
+ArcadeProbe.DisplayName: Звездоплаватель
 LaserBase.DisplayName: Лазерная установка
-SteamRaiderBody.DisplayName: Звёздопанцирный странник
-SteamRaiderBody2.DisplayName: Звёздопанцирный странник
+SteamRaiderBody.DisplayName: Звездопанцирный странник
+SteamRaiderBody2.DisplayName: Звездопанцирный странник
 
 SteamRaiderHead: {
-	DisplayName: Звёздопанцирный странник
+	DisplayName: Звездопанцирный странник
 	Entry: Машина для добычи драгоценных металлов из звёзд, что использует избыток энергии добываемой руды для зарядки своих батарей. Происхождение этой машины по сей день остаётся загадкой.
 	BossChecklistIntegration.SpawnInfo: Используйте [i:SpiritMod/StarWormSummon] ночью на астралитовом маяке, который можно найти в поле астероидов.
-	Spawn: Звёздопанцирный странник пробуждается!
+	Spawn: Звездопанцирный странник пробуждается!
 	Laser: Протокол использования лазера запущен
 	Detected: Обнаружена нестабильность
 	Engaged: Цель поражена
 }
 
-SteamRaiderHeadDeath.DisplayName: Звёздопанцирный странник
-SteamRaiderTail.DisplayName: Звёздопанцирный странник
+SteamRaiderHeadDeath.DisplayName: Звездопанцирный странник
+SteamRaiderTail.DisplayName: Звездопанцирный странник
 SuicideLaser.DisplayName: Лазерный бомбардировщик
-TailProbe.DisplayName: Звёздоплаватель
+TailProbe.DisplayName: Звездоплаватель
 
 BottomFeeder: {
 	DisplayName: Омутовый падальщик
@@ -1085,14 +1085,14 @@ SporeWheezer: {
 	Entry: Хотя светящиеся грибы и паразиты, с пыхтельниками отношения у них сложились симбиотические: своим дыханием эти животные могут далеко распространять споры, чем и пользуются грибы.
 }
 
-CogTrapperBody.DisplayName: Звёздовёртка
+CogTrapperBody.DisplayName: Звездовёртка
 
 CogTrapperHead: {
-	DisplayName: Звёздовёртка
+	DisplayName: Звездовёртка
 	Entry: Странные механические создания, что собираются группами вокруг маяка, будто привлекая чьё-то внимание к астральным металлам. Похоже, не только вы хотите заполучить их.
 }
 
-CogTrapperTail.DisplayName: Звёздовёртка
+CogTrapperTail.DisplayName: Звездовёртка
 
 StymphalianBat: {
 	DisplayName: Cтимфалийская летяга
