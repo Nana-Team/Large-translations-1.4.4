@@ -321,7 +321,7 @@ Items: {
 		Tooltip:
 			'''
 			Увеличивает пробивание брони на 5 ед.
-			Выпускаемые вами снаряды с некоторым шансом будут накладывать на врагов дебафф «{$BuffName.Frostburn}»
+			Выпускаемые вами снаряды иногда будут накладывать на врагов дебафф «{$BuffName.Frostburn}»
 			'''
 	}
 
@@ -628,7 +628,7 @@ Items: {
 
 	HorrorLegs: {
 		DisplayName: Кошмарные поножи
-		Tooltip: Увеличивает урон, скорость ближнего боя и скорость передвижения на 8%
+		Tooltip: Увеличивает урон, скорость атаки ближнего боя и скорость передвижения на 8%
 	}
 
 	HorrorMask: {
@@ -647,7 +647,7 @@ Items: {
 	}
 
 	HorrorVisor: {
-		DisplayName: Кошмарное забрало
+		DisplayName: Кошмарный щиток
 		Tooltip: Увеличивает шанс стрелкового критического удара на 12%
 		SetBonus:
 			'''
@@ -802,7 +802,7 @@ Items: {
 		Tooltip:
 			'''
 			Увеличивает урон и отбрасывание ближнего боя на 15%
-			Увеличивает скорость ближнего боя на 12%
+			Увеличивает скорость атаки ближнего боя на 12%
 			Снаряды ближнего боя будут накладывать дебафф «{$Buffs.DarkDebuff.DisplayName}»
 			'''
 	}
@@ -889,7 +889,7 @@ Items: {
 			'''
 			Увеличивает максимальный запас маны на 10 ед.
 			Увеличивает максимальное количество миньонов на 1
-			Увеличивает скорость ближнего боя на 8% и скорость передвижения на 12%
+			Увеличивает скорость атаки ближнего боя на 8% и скорость передвижения на 12%
 			'''
 	}
 
@@ -1310,7 +1310,7 @@ Items: {
 			'''
 			
 			Даёт невосприимчивость ко всем дебаффам, связанных со льдом
-			Увеличивает урон, скорость ближнего боя и скорость передвижения на 3%
+			Увеличивает урон, скорость атаки ближнего боя и скорость передвижения на 3%
 			'''
 	}
 
@@ -1321,11 +1321,11 @@ Items: {
 
 	GlacialFlail: {
 		DisplayName: Ледниковый кистень
-		Tooltip: Стреляет ледяными снарядами в ближайших врагов
+		Tooltip: Запускает ледяные снаряды в ближайших врагов
 	}
 
 	GlacialGun: {
-		Tooltip: Мушкетные пули иногда превращаются в ледяные выстрелы
+		Tooltip: Иногда заменяет обычные пули на ледяные выстрелы
 		DisplayName: Ледниковый пистолет
 	}
 
@@ -1576,7 +1576,7 @@ Items: {
 		DisplayName: Зефирный трезубец
 		Tooltip:
 			'''
-			Магическое копьё, работающие также как и копья ближнего боя
+			Магическое копьё, работающее также как и копья ближнего боя
 			Попадания лезвием копья по врагам восстанавливают немного маны
 			'''
 	}
@@ -1755,56 +1755,57 @@ Items: {
 	}
 
 	TenebrisBody: {
-		DisplayName: Tenebris Chestmail
-		Tooltip: 3% increased damage
+		DisplayName: Тенебрисовый нагрудник
+		Tooltip: Увеличивает урон на 3%
 	}
 
 	TenebrisHelm: {
-		DisplayName: Tenebris Helmet
-		Tooltip: 2% increased melee critical strike chance
+		DisplayName: Тенебрисовый шлем
+		Tooltip: Увеличивает шанс критического удара ближнего боя на 2%
 		SetBonus:
 			'''
 
-			6% increased melee damage and speed
+			Увеличивает урон и скорость атаки ближнего боя на 6%
 			'''
 	}
 
 	TenebrisHood: {
-		DisplayName: Tenebris Hood
-		Tooltip: 2% increased magic critical strike chance
+		DisplayName: Тенебрисовый капюшон
+		Tooltip: Увеличивает шанс магического критического удара 2%
 		SetBonus:
 			'''
 
-			6% increased magic damage
+			Увеличивает магический урон на 6%
 			'''
 	}
 
 	TenebrisLegs: {
-		DisplayName: Tenebris Greaves
+		DisplayName: Тенебрисовые поножи
 		Tooltip:
 			'''
-			2% increased damage
-			5% increased movement speed
+			Увеличивает урон на 2%
+			Увеличивает скорость передвижения на 5%
 			'''
 	}
 
 	TenebrisMask: {
-		DisplayName: Tenebris Mask
-		Tooltip: 2% increased summon damage
+		DisplayName: Тенебрисовая маска
+		Tooltip: Увеличивает урон призывателя на 2%
 		SetBonus:
 			'''
 
-			+2 max minions and 4% increased summon damage
+			Увеличивает максимальное количество миньонов на 2
+			Увеличивает урон призывателя на 4%
 			'''
 	}
 
 	TenebrisVisor: {
-		DisplayName: Tenebris Visor
-		Tooltip: 2% increased ranged critical strike
+		DisplayName: Тенебрисовый щиток
+		Tooltip: Увеличивает шанс стрелкового критического удара на 2%
 		SetBonus:
 			'''
 
-			6% increased ranged damage
+			Увеличивает стрелковый урон на 6%
 			'''
 	}
 
@@ -1833,8 +1834,8 @@ Items: {
 	}
 
 	NightmareBar: {
-		DisplayName: Tenebris Alloy
-		Tooltip: "'A dark metal from a nightmarish world'"
+		DisplayName: Тенебрисовый сплав
+		Tooltip: «Тёмный металл из кошмарного мира»
 	}
 
 	ShadeWispStaff: {
@@ -1853,8 +1854,8 @@ Items: {
 	}
 
 	ShadowEssence: {
-		DisplayName: Shadow Mana
-		Tooltip: "'The Essence of shadow magic'"
+		DisplayName: Теневая мана
+		Tooltip: «Эссенция теневой магии»
 	}
 
 	ShadowStaff: {
@@ -2426,7 +2427,7 @@ Items: {
 	}
 
 	ShadowPlatformItem: {
-		DisplayName: Платформа из потусторонней древесины
+		DisplayName: Платформа из потустороннего дерева
 		Tooltip: ""
 	}
 
@@ -3088,7 +3089,7 @@ Tiles: {
 	ShadowMusicBoxTile.MapEntry: Музыкальная шкатулка
 	TrueDreadBoxTile.MapEntry: Музыкальная шкатулка
 	ZephyrMusicBoxTile.MapEntry: Музыкальная шкатулка
-	ShadowOreTile.MapEntry: Теневая руда
+	ShadowOreTile.MapEntry: Тенебрис
 	ShadowTreeSapling.MapEntry: Shadow Tree Sapling
 	AldinTrophy.MapEntry: Трофей
 	DreadTrophy.MapEntry: Трофей

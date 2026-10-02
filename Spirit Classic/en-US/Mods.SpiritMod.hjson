@@ -106,8 +106,3 @@ FrozenEnemies: {
 	UndeadViking: Frozen {$NPCName.UndeadViking}
 	Wheezer: Frozen {$NPCs.Wheezer.DisplayName}
 }
-
-Currency: {
-	GlyphPrice: "{0} {^0:glyph;glyphs}"
-	OlympiumTokenPrice: "{0} {^0:olympium token;olympium tokens}"
-}

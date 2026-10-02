@@ -8,16 +8,14 @@ Sea_Snail_Poison_Projectile.DisplayName: Яд морской улитки
 InterstellarShield.DisplayName: Межзвёздный щит
 UkeleleProj.DisplayName: Цепная молния укулеле
 UkeleleProjTwo.DisplayName: Цепная молния укулеле
-UmbillicalEyeballProj.DisplayName: Пуповинный глаз
 Unstable_Tesla_Coil_Projectile.DisplayName: Электрический разряд
 RipperSlugProj.DisplayName: Патрон-потрошитель
-ManajinxStar.DisplayName: Энергия звёздного света
 AtlasPetProjectile.DisplayName: Атлант-младший
 AvianHookProjectile.DisplayName: Птичий крюк
 AvianPet.DisplayName: Древний невылуплёныш
 TalonPiercerProj.DisplayName: Ярость когтя
 DuskingPetProjectile.DisplayName: Маленькое теневое пламя
-InfernonPetProjectile.DisplayName: Маленькое инферно
+InfernonPetProjectile.DisplayName: Маленький инферно
 MJWPetProjectile.DisplayName: Лунная медуза-лампочка
 OccultistPetProjectile.DisplayName: Крошка-оккультист
 AdornedBowProj.DisplayName: Украшенный лук
@@ -26,7 +24,7 @@ KhopeshSlash.DisplayName: Королевский хопеш
 LocustBig.DisplayName: Саранча
 LocustSmall.DisplayName: Маленькая саранча
 RadiantCane.DisplayName: Миниатюрное солнце
-ScarabPetProjectile.DisplayName: Крошка-скарабея
+ScarabPetProjectile.DisplayName: Крошка-скарабей
 LivewireProj.DisplayName: Проводной крюк
 StargloveChargeOrange.DisplayName: Сокрушающий удар
 StargloveChargePurple.DisplayName: Сокрушающий удар
@@ -36,16 +34,15 @@ StarplateGloveProj.DisplayName: Кулак стократных сокрушаю
 StarplatePetProjectile.DisplayName: Миниатюрный звездопанцирник
 OrangeBeam.DisplayName: Оранжевый луч
 StarplateDrone.DisplayName: Звездопанцирный боевой дрон
-ThornArrow.DisplayName: Стрела колючкострела
+ThornArrow.DisplayName: Стрела-колючка
 VinewrathPetProjectile.DisplayName: Злой проросток
 StarPowderProj.DisplayName: Звёздный порошок
-VolleyballProjectile.DisplayName: Мяч
 BlizzardProjectile.DisplayName: Метель
 KelpHookProj.DisplayName: Крюк из ламинарии
 MagnetHookProj.DisplayName: Магнитный крюк
 Zipline.DisplayName: Трос
 CosmicRattlerPet.DisplayName: Дракотоп
-CrystalFlowerProjectile.DisplayName: Кристалльный цветок
+CrystalFlowerProjectile.DisplayName: Кристальный цветок
 HeadsplitterProj.DisplayName: Раскольник
 FlayedArrow.DisplayName: Осквернённая стрела
 HeartstrikeProj.DisplayName: Удар в сердце
@@ -69,23 +66,22 @@ CryoSwordProj.DisplayName: Морозный вой
 IceWall.DisplayName: Крио-волна
 IceWave.DisplayName: Крио-волна
 GastricAcid.DisplayName: Желудочный сок
-GastricGusherProjectile.DisplayName: Gastric Gusher
 BismiteGrenadeProj.DisplayName: Бисмитовая граната
 HealingSplash.DisplayName: Лечащий взрыв
 ClatterMaceProj.DisplayName: Грохочущая булава
 JadeDaoProj.DisplayName: Нефритовые дао
 FloranReacherProj.DisplayName: Поплавок
 FrostbiteProj.DisplayName: Метель
-GoldChestTop.DisplayName: Золотой сундук
+GoldChestTop.DisplayName: Золотой ларец
 GranitechGunBullet.DisplayName: Пуля G-TEK
 EnergyShockwave.DisplayName: Ударная волна
 EnergyStomp.DisplayName: Ударная волна
 EnergyStomp_Explosion.DisplayName: Ударная волна
 GraniteFragment.DisplayName: Деталь G-TEK
-GraniteMaceProj.DisplayName: Granite Mace
-HeliosDash.DisplayName: Helios
-HeliosPhantomProj.DisplayName: Helios
-RagingSunbladeProj.DisplayName: Helios
+GraniteMaceProj.DisplayName: Нестабильная звезда
+HeliosDash.DisplayName: Гелиос
+HeliosPhantomProj.DisplayName: Гелиос
+RagingSunbladeProj.DisplayName: Гелиос
 BlasterProj.DisplayName: Бластер
 GoldBlasterProj.DisplayName: Бластер
 Bauble.DisplayName: Безделушка
@@ -103,39 +99,37 @@ SwiftShot.DisplayName: Луч энергии
 StarplateHologram.DisplayName: Бластер
 HeavenFleetProj.DisplayName: Звёздный флот
 HeavenfleetStar.DisplayName: Выстрел звёздного флота
-KineticRailgunProj.DisplayName: Tesla Cannon
+KineticRailgunProj.DisplayName: Тесла-пушка
 VortexExplosion.DisplayName: Взрыв вихря
 LadyLuckProj.DisplayName: Монетка госпожи удачи
-Meteorite_Spew.DisplayName: Meteorite Spew
-NightBullet.DisplayName: Night Bullet
+Meteorite_Spew.DisplayName: Магмаплевок
+NightBullet.DisplayName: Теневой заряд
 IronBomberProj.DisplayName: Импульсная граната
 LibertyProjHeld.DisplayName: Свобода
-SharkbonesProjHeld.DisplayName: Sharkbones
-SharkbonesRocket.DisplayName: Super Mega Death Rocket
-ArcLashProj.DisplayName: Arc Lash
-MagicDeckProj.DisplayName: Magic Card
-Amethyst_Projectile.DisplayName: Amethyst Magic
-Diamond_Projectile.DisplayName: Diamond Magic
-Emerald_Projectile.DisplayName: Emerald Magic
-Ruby_Projectile.DisplayName: Ruby Magic
-Sapphire_Projectile.DisplayName: Sapphire Magic
-Topaz_Projectile.DisplayName: Topaz Magic
-MarbleStaffProj.DisplayName: Gilded Tome
-ArtemisCrescent.DisplayName: Artemis Crescent
-ArtemisHuntArrow.DisplayName: Celestial Arrow
-ArtemisHuntProj.DisplayName: Artemis Hunt
-ArtemisHuntVolley.DisplayName: Celestial Arrow
-BetrayersChainsProj.DisplayName: Blades of Chaos
-ThyrsusProj.DisplayName: Thyrsus
-ThyrsusProjTwo.DisplayName: Vine
-Cannonbubble.DisplayName: Cannonbubble
-SkullSentryEye.DisplayName: Maneater
-SkullSentryMucus.DisplayName: Skull Sentry Mucus
-SkullSentrySentry.DisplayName: Maneater
-UrchinBall.DisplayName: Urchin
-UrchinSpike.DisplayName: Urchin
-UrchinStaffProjectile.DisplayName: Urchin Staff
-TentacleChainProj.DisplayName: Brine Barrage
+SharkbonesProjHeld.DisplayName: Скелетница
+SharkbonesRocket.DisplayName: Супермегаубийственная ракета
+ArcLashProj.DisplayName: Дуговая плеть
+MagicDeckProj.DisplayName: Магическая карта
+Amethyst_Projectile.DisplayName: Аметистовая магия
+Diamond_Projectile.DisplayName: Алмазная магия
+Emerald_Projectile.DisplayName: Изумрудная магия
+Ruby_Projectile.DisplayName: Рубиновая магия
+Sapphire_Projectile.DisplayName: Сапфировая магия
+Topaz_Projectile.DisplayName: Топазовая магия
+MarbleStaffProj.DisplayName: Злачёный фолиант
+ArtemisCrescent.DisplayName: Метка Иохеэры
+ArtemisHuntArrow.DisplayName: Небесная стрела
+ArtemisHuntProj.DisplayName: Иохеэра
+ArtemisHuntVolley.DisplayName: Небесная стрела
+BetrayersChainsProj.DisplayName: Клинки хаоса
+Cannonbubble.DisplayName: Пузырь
+SkullSentryEye.DisplayName: Червь-плотоядка
+SkullSentryMucus.DisplayName: Слизь
+SkullSentrySentry.DisplayName: Червь-плотоядка
+UrchinBall.DisplayName: Морской ёж
+UrchinSpike.DisplayName: Морской ёж
+UrchinStaffProjectile.DisplayName: Метатель ежей
+TentacleChainProj.DisplayName: Морской вал
 AccursedBolt.DisplayName: Accursed Bolt
 GraveyardBoom.DisplayName: Accursed explosion
 GraveyardPortal.DisplayName: Graveyard Portal

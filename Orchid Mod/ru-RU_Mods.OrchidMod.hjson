@@ -9,6 +9,7 @@ Tiles: {
 	ShamanBiomeChestTile.MapEntry: "{$Items.ShamanBiomeChest.DisplayName}"
 	GuardianBuffStationTile.MapEntry: "{$Items.GuardianBuffStation.DisplayName}"
 	VerveineQuarterstaffTile.MapEntry: Пердёжное растение
+	// VerveineAltQuarterstaffTile.MapEntry: Farting Mushroom
 }
 
 Buffs: {
@@ -154,7 +155,7 @@ Buffs: {
 
 	GuardianJungleGauntletBuff: {
 		DisplayName: Дичайшее бешенство
-		Description: Скорость ближнего боя увеличена на 100%
+		Description: Скорость атаки ближнего боя увеличена на 100%
 	}
 
 	GuardianSpiderGauntletBuff: {
@@ -254,6 +255,11 @@ Buffs: {
 	GuardianRegenPotionBuff: {
 		DisplayName: Стойкость
 		Description: Очки обороны и нападения могут естественно восстанавливаться до максимума
+	}
+
+	GuardianVoidQuarterstaffBuff: {
+		// Description: Void Rush
+		// DisplayName: 150% increased Flux Ripper attack speed
 	}
 }
 
@@ -447,7 +453,7 @@ Items: {
 			Увеличивает максимальное количество используемых алхимических элементов на 4
 			Увеличивает максимальную концентрацию веществ на 20 ед.
 			Увеличивает скорость восполнения концентрации веществ на 50%
-			[c/FF0000Тестовый предмет]
+			[c/FF0000:Тестовый предмет]
 			'''
 	}
 
@@ -481,17 +487,17 @@ Items: {
 	}
 
 	ReactiveVials: {
-		DisplayName: Флаконы с реактивами
+		DisplayName: Пробирки с реактивами
 		Tooltip: Следующая химическая смесь после выполнения скрытой реакции нанесёт на 10% больше урона
 	}
 
 	WeightedBottles: {
-		DisplayName: Взвешивающая колба
+		DisplayName: Бюксы
 		Tooltip: Увеличивает скорость основного алхимического снаряда на 25%
 	}
 
 	WeightedCorruption: {
-		DisplayName: Взвешенное искажение
+		DisplayName: Бюкс с искажением
 		Tooltip:
 			'''
 			Увеличивает скорость основного алхимического снаряда на 25%
@@ -500,7 +506,7 @@ Items: {
 	}
 
 	WeightedCrimson: {
-		DisplayName: Взвешенный багрянец
+		DisplayName: Бюкс с багрянцем
 		Tooltip:
 			'''
 			Увеличивает скорость основного алхимического снаряда на 25%
@@ -529,7 +535,7 @@ Items: {
 
 	AlchemistJungleLegs: {
 		DisplayName: Штаны лилии
-		Tooltip: Увеличивают химический урон на 10%
+		Tooltip: Увеличивает химический урон на 10%
 	}
 
 	MushroomBandana: {
@@ -540,7 +546,7 @@ Items: {
 
 	MushroomLeggings: {
 		DisplayName: Фосфоресцирующие штаны
-		Tooltip: Увеличивают скорость восполнения концентрации веществ на 5%
+		Tooltip: Увеличивает скорость восполнения концентрации веществ на 5%
 	}
 
 	MushroomTunic: {
@@ -682,12 +688,12 @@ Items: {
 	}
 
 	AirVial: {
-		DisplayName: Колба воздуха
+		DisplayName: Пробирка воздуха
 		Tooltip: "[c/FF0000:Тестовый предмет]"
 	}
 
 	BlizzardInAVial: {
-		DisplayName: Снежная буря в флаконе
+		DisplayName: Метель в колбе
 		Tooltip:
 			'''
 			Подбрасывает в воздух поражённых врагов
@@ -696,7 +702,7 @@ Items: {
 	}
 
 	CloudInAVial: {
-		DisplayName: Облако в флаконе
+		DisplayName: Облако в колбе
 		Tooltip:
 			'''
 			Подбрасывает в воздух поражённых врагов
@@ -737,7 +743,7 @@ Items: {
 	}
 
 	FartInAVial: {
-		DisplayName: Пердёж в флаконе
+		DisplayName: Пердёж в колбе
 		Tooltip:
 			'''
 			Подбрасывает в воздух поражённых врагов
@@ -785,7 +791,7 @@ Items: {
 	}
 
 	TsunamiInAVial: {
-		DisplayName: Цунами в флаконе
+		DisplayName: Цунами в колбе
 		Tooltip:
 			'''
 			Подбрасывает в воздух поражённых врагов
@@ -837,7 +843,7 @@ Items: {
 	}
 
 	DarkVial: {
-		DisplayName: Колба тьмы
+		DisplayName: Пробирка тьмы
 		Tooltip: "[c/FF0000:Тестовый предмет]"
 	}
 
@@ -853,7 +859,7 @@ Items: {
 	}
 
 	EmberVial: {
-		DisplayName: Флакон тлеющих огней
+		DisplayName: Колба тлеющих огней
 		Tooltip:
 			'''
 			Поджигает поражённых врагов на короткое время
@@ -873,12 +879,12 @@ Items: {
 	}
 
 	FireVial: {
-		DisplayName: Колба огня
+		DisplayName: Пробирка огня
 		Tooltip: "[c/FF0000:Тестовый предмет]"
 	}
 
 	GunpowderFlask: {
-		DisplayName: Флакон пороха
+		DisplayName: Колба пороха
 		Tooltip:
 			'''
 			Создаёт маленькие взрывы
@@ -887,7 +893,7 @@ Items: {
 	}
 
 	HellSlimeFlask: {
-		DisplayName: Светлячок-флакон с слизью
+		DisplayName: Колба раскалённой слизи
 		Tooltip:
 			'''
 			Делает поражённых врагов желейными и восприимчивыми к урону от падения
@@ -897,7 +903,7 @@ Items: {
 	}
 
 	StardustSamples: {
-		DisplayName: Флакон звёздной пыли
+		DisplayName: Колба звёздной пыли
 		Tooltip:
 			'''
 			Атаки по врагам при смешивании с природным элементом накладывают дебафф «{$BuffName.Confused}»
@@ -906,7 +912,7 @@ Items: {
 	}
 
 	LightVial: {
-		DisplayName: Колба света
+		DisplayName: Пробирка света
 		Tooltip: "[c/FF0000:Тестовый предмет]"
 	}
 
@@ -916,7 +922,7 @@ Items: {
 	}
 
 	AttractiteFlask: {
-		DisplayName: Флакон аттаракции
+		DisplayName: Колба аттаракции
 		Tooltip:
 			'''
 			Попадания по врагам призывает аттрактирующие споры и задерживающиеся в воздухе частицы
@@ -937,7 +943,7 @@ Items: {
 	}
 
 	GlowingAttractiteFlask: {
-		DisplayName: Светящийся флакон аттаракции
+		DisplayName: Светящаяся колба аттаракции
 		Tooltip:
 			'''
 			Выпускает воздушные споры
@@ -970,7 +976,7 @@ Items: {
 	}
 
 	LivingSapVial: {
-		DisplayName: Флакон живительного сока
+		DisplayName: Колба живительного сока
 		Tooltip:
 			'''
 			Создаёт пузырь лечебного сока при использовании с другими ингредиентами
@@ -981,7 +987,7 @@ Items: {
 	}
 
 	MoonglowFlask: {
-		DisplayName: Экстракт луноцвета
+		DisplayName: Экстракт луносвета
 		Tooltip:
 			'''
 			Выпускает воздушные споры
@@ -992,17 +998,17 @@ Items: {
 	}
 
 	MushroomFlask: {
-		DisplayName: Флакон светящихся грибов
+		DisplayName: Колба грибных спор
 		Tooltip: При смешивании с любым экстрактом, увеличивает его урон спор на 5 ед.
 	}
 
 	NatureVial: {
-		DisplayName: Колба природы
+		DisplayName: Пробирка природы
 		Tooltip: "[c/FF0000:Тестовый предмет]"
 	}
 
 	PoisonVial: {
-		DisplayName: Отравляющий флакон
+		DisplayName: Колба яда
 		Tooltip:
 			'''
 			Выпускает отравляющие пузырьки, задерживающиеся в воздухе
@@ -1021,7 +1027,7 @@ Items: {
 	}
 
 	BloodMoonFlask: {
-		DisplayName: Флакон кровавого тумана
+		DisplayName: Колба кровавого тумана
 		Tooltip:
 			'''
 			Создаёт наносящее урон облака тумана, задерживающиеся в воздухе
@@ -1032,7 +1038,7 @@ Items: {
 	}
 
 	DungeonFlask: {
-		DisplayName: Одухотворенная вода
+		DisplayName: Одухотворённая вода
 		Tooltip:
 			'''
 			Выпускает водяные огни, задерживающиеся в воздухе
@@ -1062,7 +1068,7 @@ Items: {
 	}
 
 	IceChestFlask: {
-		DisplayName: Мгновенная заморозка
+		DisplayName: Шоковая заморозка
 		Tooltip:
 			'''
 			Замораживает все споры, катализирующие элементы и частицы, задерживающиеся в воздухе, находящиеся в области действия
@@ -1073,7 +1079,7 @@ Items: {
 	}
 
 	KingSlimeFlask: {
-		DisplayName: Слизневой флакон
+		DisplayName: Колба слизи
 		Tooltip:
 			'''
 			Делает поражённых врагов желейными и уязвимыми к урону от падения
@@ -1082,7 +1088,7 @@ Items: {
 	}
 
 	SeafoamVial: {
-		DisplayName: Флакон морской пены
+		DisplayName: Колба морской пены
 		Tooltip:
 			'''
 			Создаёт наносящие урон водяные пузыри, задерживающиеся в воздухе
@@ -1111,7 +1117,7 @@ Items: {
 	}
 
 	WaterVial: {
-		DisplayName: Колба воды
+		DisplayName: Пробирка воды
 		Tooltip: "[c/FF0000:Тестовый предмет]"
 	}
 
@@ -1139,8 +1145,8 @@ Items: {
 		DisplayName: Связка клевера
 		Tooltip:
 			'''
-			Игровые кости замедлятся, если выпадает 4 или более очков
-			«Бог любит четверицу!» 
+			Игровые кости замедлятся при выпадении 4 или более очков
+			«Бог любит четверицу!»
 			'''
 	}
 
@@ -1148,14 +1154,14 @@ Items: {
 		DisplayName: Горящий клевер
 		Tooltip:
 			'''
-			Игровые кости замедлятся, если выпадает 5 или более очков
-			Вам не могут выпасть 1 и 2 очка
+			Игровые кости замедлятся при выпадении 5 или более очков
+			Вам не могут выпасть 1 и 2 очка на кости
 			'''
 	}
 
 	ConquerorsPennant: {
 		DisplayName: Знамя завоевателя
-		Tooltip: Вы впадаете в ярость, если вытягиваете «боссовую» карту
+		Tooltip: Вы впадаете в ярость при вытягивании любой «боссовой» карты
 	}
 
 	DemonicPocketMirror: {
@@ -1179,7 +1185,7 @@ Items: {
 			Позволяет увидеть следующие 3 карты, которые вы вытянете
 			50% шанс не израсходовать фишки
 			Увеличивает максимальное количество фишек на 45
-			Снижает время перезарядки повторных вытягиваний до 29 секунд
+			Снижает время перезарядки повторных вытягиваний на 29 секунд
 			Увеличивает максимальное количество повторных вытягиваний на 4
 			[c/FF0000:Тестовый предмет]
 			'''
@@ -1255,7 +1261,7 @@ Items: {
 		Tooltip:
 			'''
 			Позволяет использовать способности картёжника
-			«Содержит мелкие косточки, держать подальше от детей младше 3 лет» 
+			«+206 костей» 
 			'''
 	}
 
@@ -1264,7 +1270,7 @@ Items: {
 		Tooltip:
 			'''
 			Позволяет использовать способности картёжника
-			«Содержит мелкий собачий корм, держать подальше от детей младше 3 лет»
+			«+1 гав»
 			'''
 	}
 
@@ -1273,7 +1279,7 @@ Items: {
 		Tooltip:
 			'''
 			Позволяет использовать способности картёжника
-			«Содержит мелкие зачарования, держать подальше от детей младше 3 лет»
+			«+15 зачарований»
 			'''
 	}
 
@@ -1282,7 +1288,7 @@ Items: {
 		Tooltip:
 			'''
 			Позволяет использовать способности картёжника
-			«Содержит мелкие жала, держать подальше от детей младше 3 лет» 
+			«+15 к лиственности» 
 			'''
 	}
 
@@ -1291,7 +1297,7 @@ Items: {
 		Tooltip:
 			'''
 			Позволяет использовать способности картёжника
-			«Содержит мелких попугаев, держать подальше от детей младше 3 лет» 
+			«+1 к сходству с попугаем» 
 			'''
 	}
 
@@ -1300,7 +1306,7 @@ Items: {
 		Tooltip:
 			'''
 			Позволяет использовать способности картёжника
-			«Содержит мелкие цвета, держать подальше от детей младше 3 лет» 
+			«+7 цветов» 
 			'''
 	}
 
@@ -1632,7 +1638,7 @@ Items: {
 	}
 
 	HellChip: {
-		DisplayName: Фишка из адского камня
+		DisplayName: Фишка адского пламени
 		Tooltip: Бросает взрывные фишки во врагов
 	}
 
@@ -1943,7 +1949,7 @@ Items: {
 		DisplayName: Ботинки метеорного надзирателя
 		Tooltip:
 			'''
-			Увеличивает скорость ближнего боя на 10%
+			Увеличивает скорость атаки ближнего боя на 10%
 			Увеличивает скорость передвижения на 10%
 			'''
 	}
@@ -1953,7 +1959,7 @@ Items: {
 		Tooltip:
 			'''
 			Увеличивает максимальный запас очков нападения на 2 ед., а также их скорость восполнения
-			Увеличивает скорость ближнего боя на 25%
+			Увеличивает скорость атаки ближнего боя на 25%
 			'''
 		SetBonus:
 			'''
@@ -2031,7 +2037,7 @@ Items: {
 		DisplayName: Хлорофитовый тяжёлый шлем
 		Tooltip:
 			'''
-			Увеличивает противостоящий урон и скорость ближнего боя на 16%
+			Увеличивает противостоящий урон и скорость атаки ближнего боя на 16%
 			Увеличивает максимальный запас очков обороны и нападения на 2
 			Враги будут чаще выбирать вас в качестве цели
 			'''
@@ -2115,7 +2121,7 @@ Items: {
 		DisplayName: Кобальтовое кабуто
 		Tooltip:
 			'''
-			Увеличивает скорость передвижения и ближнего боя на 15%
+			Увеличивает скорость передвижения и атаки ближнего боя на 15%
 			Увеличивает максимальный запас очков нападения на 2 ед.
 			Враги будут чаще выбирать вас в качестве цели
 			'''
@@ -2137,7 +2143,7 @@ Items: {
 		DisplayName: Орихалковый тяжёлый шлем
 		Tooltip:
 			'''
-			Увеличивает шанс противостоящего критического удара и скорость ближнего боя на 18%
+			Увеличивает шанс противостоящего критического удара и скорость атаки ближнего боя на 18%
 			Увеличивает максимальный запас очков обороны и нападения на 1 ед.
 			Враги будут чаще выбирать вас в качестве цели
 			'''
@@ -2199,7 +2205,7 @@ Items: {
 		Tooltip:
 			'''
 			Полностью заряженные атаки накладывают на врагов дебафф «{$BuffName.Poisoned}»
-			Значительно ускоряет скорость ближнего боя на короткое время после успешного парирования
+			Значительно ускоряет скорость атаки ближнего боя на короткое время после успешного парирования
 			'''
 	}
 
@@ -2307,7 +2313,7 @@ Items: {
 	}
 
 	BadgeBattlesPast: {
-		DisplayName: Коркада прошедших битв
+		DisplayName: Кокарда прошедших битв
 		Tooltip: Постепенно увеличивает урон во время блока павезой
 	}
 
@@ -2390,7 +2396,7 @@ Items: {
 		DisplayName: Нагрудник горизонта
 		Tooltip:
 			'''
-			Увеличивает стойкость к урону, противостоящий урон и скорость ближнего боя на 25%
+			Увеличивает стойкость к урону, противостоящий урон и скорость атаки ближнего боя на 25%
 			Увеличивает максимальный запас здоровья на 100 ед.
 			'''
 	}
@@ -2409,7 +2415,7 @@ Items: {
 		DisplayName: Поножи горизонта
 		Tooltip:
 			'''
-			Увеличивает стойкость к урону, скорость передвижения и ближнего боя на 20%
+			Увеличивает стойкость к урону, скорость передвижения и атаки ближнего боя на 20%
 			Увеличивает максимальный запас очков обороны и нападения на 3 ед.
 			'''
 	}
@@ -2464,7 +2470,7 @@ Items: {
 		LeftClick: Наносит удары, увеличивающие запас очков «Волны» и шанс критического удара вплоть до 100%
 		RightClick: Выпускает «Волну», расходуя все очки. Каждый 1% шанса критического удара свыше 100% конвертируется в 2% бонуса к урону навыка
 		Jump: Может совершать тройной прыжок. При наличии 5 очков «Волны», вместо получения следующего урона активируется навык
-		Passive: Нанесение критических ударов навыком ненадолго увеличивают скорость ближнего боя и передвижения вплоть до 50%
+		Passive: Нанесение критических ударов навыком ненадолго увеличивают скорость атаки ближнего боя и передвижения вплоть до 50%
 		Tooltip: Обращает вас в ундину, даруя уникальные навыки
 	}
 
@@ -2668,7 +2674,7 @@ Items: {
 		DisplayName: Божьи длани
 		Tooltip:
 			'''
-			Скорость зарядки и дальность атак масштабируются от вашей защиты
+			Скорость зарядки и дальность атак масштабируется от вашей защиты
 			«Жил на свете могучий воин, который убил Ктулху голыми руками»
 			'''
 	}
@@ -2733,6 +2739,7 @@ Items: {
 	ThoriumThorsHammerWarhammer: {
 		DisplayName: Молот Тора: противостоящий
 		Tooltip: ""
+		ChangeMode: Нажмите по нему ПКМ в инвентаре, чтобы переключиться в режим ближнего боя
 	}
 
 	ThoriumAquaiteQuarterstaff: {
@@ -2772,7 +2779,7 @@ Items: {
 
 	ThoriumViscountQuarterstaff: {
 		DisplayName: Нетопырь
-		Tooltip: Контратаки превращают вас в рой летучих мышей, игнорирующих 20 ед. защиты врага
+		Tooltip: Контратаки превращают вас в рой летучих мышей, игнорирующих 25 ед. защиты врага
 	}
 
 	ThoriumThoriumQuarterstaff: {
@@ -2790,7 +2797,7 @@ Items: {
 		Tooltip:
 			'''
 			Увеличивает длительность блока и парирования на 25%
-			Увеличивает скорость ближнего боя на 12%
+			Увеличивает скорость атаки ближнего боя на 12%
 			'''
 	}
 
@@ -2807,7 +2814,7 @@ Items: {
 		DisplayName: Освящённый хауберк
 		Tooltip:
 			'''
-			Увеличивает длительность парирования на 25% и скорость ближнего боя на 12%
+			Увеличивает длительность парирования на 25% и скорость атаки ближнего боя на 12%
 			Увеличивает противостоящий урон на 15% в течении 10 секунд после успешного парирования
 			Увеличивает время неуязвимости после получения урона или успешного парирования
 			'''
@@ -2817,7 +2824,7 @@ Items: {
 		DisplayName: Прикрытие ассасина
 		Tooltip:
 			'''
-			Увеличивает длительность парирования на 25% и скорость ближнего боя на 12%
+			Увеличивает длительность парирования на 25% и скорость атаки ближнего боя на 12%
 			Даёт 12% шанс уклонится от атаки
 			Увеличивает противостоящий урон на 15% в течении 10 секунд после успешного парирования
 			Увеличивает время неуязвимости после получения урона или успешного парирования
@@ -2826,7 +2833,7 @@ Items: {
 	}
 
 	ThoriumFeatherWarhammer: {
-		DisplayName: Боеклюй
+		DisplayName: Клевец
 		Tooltip: Делает три клёва
 	}
 
@@ -2902,7 +2909,7 @@ Items: {
 
 	ShapeshifterHarpyChest: {
 		DisplayName: Нагрудник парителя
-		Tooltip: Увеличивает скорость ближнего боя на 8%
+		Tooltip: Увеличивает скорость атаки ближнего боя на 8%
 	}
 
 	ShapeshifterHarpyLegs: {
@@ -3146,7 +3153,7 @@ Items: {
 		DisplayName: Зловещая жатва
 		Tooltip:
 			'''
-			Вместо блока выпускает косу, которая расходует 3 очка нападения застревает в первом поражённом враге
+			Вместо блока выпускает косу, которая застревает в первом поражённом враге
 			Коса даёт очки обороны по возвращению или смерти поражённого врага
 			Атаки по другим врагам заряженными бросками увеличивают количество очков обороны, которое будет получено
 			'''
@@ -3164,6 +3171,273 @@ Items: {
 			Вызывает медленные огоньки на атаку в указанной точке
 			[c/FF0000:Тестовый предмет]
 			'''
+	}
+
+	IceHammer: {
+		DisplayName: Ледяной молот
+		Tooltip: ""
+	}
+
+	IceGauntlet: {
+		DisplayName: Ледяные перчатки
+		Tooltip: ""
+	}
+
+	GoblinKatar: {
+		DisplayName: Гоблинский катар
+		Tooltip: "[c/FF0000:Тестовый предмет]"
+	}
+
+	ThoriumIcyShardKatar: {
+		DisplayName: Замёрзший катар
+		/* Tooltip:
+			'''
+			Significantly hinder the hit enemies movement
+			Cannot dash upwards
+			''' */
+	}
+
+	GoldChestKatar: {
+		DisplayName: Зазубренный катар
+		Tooltip: Накладываемое полностью заряженными атаками кровотечение наносит дополнительный урон
+	}
+
+	CrimtaneKatar: {
+		DisplayName: Сколиоз
+		Tooltip: Удары во время парирования восстанавливают половину очка обороны
+	}
+
+	HellstoneKatar: {
+		DisplayName: Огненный шлейф
+		Tooltip: Оставляет за вами след огня при выполнении парирования
+	}
+
+	ThoriumGraniteKatar: {
+		DisplayName: Ионное поле
+		/* Tooltip:
+			'''
+			Parries and slam hits generate energy orbs
+			Fully charged attacks release energy orbs
+			''' */
+	}
+
+	BadgeHoplite: {
+		DisplayName: Легионерская инсигния
+		Tooltip:
+			'''
+			Увеличивает скорость катара на 25% после выполнения им успешного парирования
+			Эффект складывается до двух раз
+			'''
+	}
+
+	PalmKatar: {
+		DisplayName: Катар из пальмового дерева
+		// Tooltip: Cannot dash upwards
+	}
+
+	ToyWarhammers: {
+		DisplayName: Резиновые громилы
+		Tooltip: Вы будите использовать сразу два молота
+	}
+
+	ThoriumValadiumWarhammer: {
+		DisplayName: Валадиевый боевой молот
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Right click after throwing to make the hammer pull nearby enemies towards its center, costing a slam
+			Blocking will periodically gravitate nearby enemies towards the center
+			Damage will blast enemies with inter-dimensional energy
+			'''
+	}
+
+	ThoriumLodestoneWarhammer: {
+		DisplayName: Магнетитовый дробитель
+		/* Tooltip:
+			'''
+			Left click after throwing to make the hammer crash down, costing 3 slams
+			Damage will sunder enemies, increasing the damage they take by 10%
+			''' */
+	}
+
+	ThoriumGeodeVeinhammer: {
+		DisplayName: Жеодовый молотокопатель
+		Tooltip:
+			'''
+			Полностью заряженные удары могут вскапывать блоки
+			Мощность добычи зависит от самой мощной кирки в вашем инвентаре
+			'''
+		PickaxePower: Текущая мощность добычи: {0}%
+		PickaxePowerNone: Текущая мощность добычи: Н/Д
+	}
+
+	ThoriumVoidQuarterstaff: {
+		DisplayName: Потрошитель потока
+		/* Tooltip:
+			'''
+			Slam to warp to an enemy in line of sight, increasing melee speed dramatically
+			Hold UP or DOWN to control knockback trajectory
+			''' */
+	}
+
+	ThoriumNagaQuarterstaff: {
+		DisplayName: Змеиный тягун
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Совершает сильные взмахи вместо колющих ударов
+			Полностью зарядите под водой, чтобы совершить рывок в сторону вашего курсора, завершающийся усиленной атакой взмахом
+			'''
+	}
+
+	ThoriumConcentratedThoriumQuarterstaff: {
+		DisplayName: Артерия земли
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Fully charging creates a damage-sharing link between enemies
+			'''
+	}
+
+	ThoriumBoreanStriderQuarterstaff: {
+		DisplayName: Ледоход
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Attacks grant Cold Energy charge
+			At full Cold Energy charge, your next slam will release a giant snowflake
+			'''
+	}
+
+	ThoriumDreadGauntlet: {
+		// DisplayName: Dread Reaper's Claw
+		// Tooltip: ""
+	}
+
+	ThoriumGuardianTitanHead: {
+		DisplayName: Титанический тяжёлый шлем
+		Tooltip:
+			'''
+			'Наполнен первородной энергией'
+			Увеличивает скорость атаки ближнего боя на 8%
+			Немного увеличивает скорость восполнения очков обороны и нападения
+			Увеличивает максимальный запас очков обороны и нападения на 1 ед.
+			Враги будут чаще выбирать вас в качестве цели
+			'''
+		SetBonus: Увеличивает наносимый урон на 18%
+	}
+
+	ThoriumGuardianVoidHead: {
+		DisplayName: Шлем стража пустоты
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Увеличивает скорость восполнения очков обороны
+			Увеличивает максимальный запас очков обороны на 1 ед.
+			Увеличивает противостоящий урон на 10%
+			Враги будут значительно чаще выбирать вас в качестве цели
+			'''
+		SetBonus:
+			'''
+			Снижает максимальный запас здоровья на 250 ед.
+			Атаки хранителя дают значительный, но кратковременный бонус к здоровью и скорости восстановления параметров
+			While blocking or parrying you will attract nearby blockable projectiles
+			'''
+	}
+
+	ThoriumGuardianVoidChest: {
+		DisplayName: Панцирь стража пустоты
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Увеличивает скорость восполнения очков нападения
+			Увеличивает максимальный запас очков нападения на 1 ед.
+			Увеличивает скорость атаки ближнего боя на 15% и шанс противостоящего критического удара на 6%
+			Враги будут значительно чаще выбирать вас в качестве цели
+			'''
+	}
+
+	ThoriumGuardianVoidLegs: {
+		DisplayName: Поножи стража пустоты
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Увеличивает скорость восполнения очков нападения
+			Увеличивает максимальный запас очков нападения на 1 ед.
+			Увеличивает скорость передвижения на 20%, а также увеличивает скорость прыжка и падения
+			Враги будут значительно чаще выбирать вас в качестве цели
+			'''
+	}
+
+	HammerMagnet: {
+		DisplayName: Магнит молотов
+		Tooltip:
+			'''
+			Большинство боевых молотов будут немного притягиваться к курсору в полёте
+			Увеличивает скорость полёта боевых молотов на 20%
+			'''
+	}
+
+	RemoteDetonator: {
+		// DisplayName: Remote Detonator
+		/* Tooltip:
+			'''
+			Allows most warhammers to explode when left clicking after throwing
+			Costs 1 slam
+			'Somebody set up us the bomb'
+			''' */
+	}
+
+	ThoriumTerrariumWarhammer: {
+		DisplayName: Террариевый боевой молот
+		Tooltip:
+			'''
+			[c/FF0000:Тестовый предмет]
+			Calls down piercing afterimages on hit
+			'''
+	}
+
+	IceAxeHammer: {
+		DisplayName: Пиолет викинга
+		Tooltip: Броски пронзают врагов
+	}
+
+	ThoriumPharaohQuarterstaff: {
+		// DisplayName: Shuwt
+		// Tooltip: Fully charge to release a burst of sand
+	}
+
+	VampireWarhammer: {
+		// DisplayName: Vampire Slayer
+		/* Tooltip:
+			'''
+			Blocking or fully charging throws a short-lived piercing cross that blocks
+			'Die, monster!'
+			''' */
+		// InstantChargeText: Die, monster!
+	}
+
+	ThoriumLifeQuartzCenser: {
+		DisplayName: Целебное кадило
+		// Tooltip: Spending a slam shields the lowest health nearby ally life by 5, up to 10
+	}
+
+	ConsolariaLepusEggNest: {
+		// DisplayName: Consolaria Lepus Egg Nest
+		// Tooltip: ""
+	}
+
+	DepthDiverHelmet.Tooltip: Увеличивает скорость восполнения очков обороны
+	DepthDiverChestplate.Tooltip:
+		'''
+		Увеличивает максимальный запас очков обороны на 2 ед.
+		Враги будут чаще выбирать вас в качестве цели
+		'''
+	DepthDiverGreaves.Tooltip: Увеличивает максимальный запас очков обороны на 2 ед.
+
+	VerveineAltQuarterstaff: {
+		// DisplayName: Wormsbane
+		// Tooltip: Counterattacks release a cloud of ooze
 	}
 }
 
@@ -3319,7 +3593,7 @@ Prefixes: {
 	LoadedPrefix.DisplayName: Обеспеченный
 	BlockingPrefix.DisplayName: Блокирующий
 	# Guardian
-	HaidexPrefix.DisplayName: Непонятный
+	HaidexPrefix.DisplayName: Haidex
 	FlimsyPrefix.DisplayName: Хлипкий
 	FeeblePrefix.DisplayName: Хилый
 	FragilePrefix.DisplayName: Ветхий
@@ -3612,6 +3886,21 @@ Projectiles: {
 	PumpkingWarhammerProjectile.DisplayName: Коса жатвы
 	SurfaceFireShamanWeaponAnchor.DisplayName: Ивовый огонёк
 	SurfaceFireShamanProjectile.DisplayName: Ивовый огонёк
+	IceGauntletProjectile.DisplayName: Ледяной осколок
+	IceGauntletProjectileShard.DisplayName: Ледяной осколок
+	KatarJabProjectile.DisplayName: Удар катара
+	GuardianKatarAnchor.DisplayName: Катар
+	// HellstoneKatarProjectile.DisplayName: Trailblaze
+	// ThoriumGraniteKatarProjectile.DisplayName: Ion Deluge
+	// ToyWarhammerProjectile.DisplayName: The Big Honker
+	// ThoriumVoidQuarterstaffProjectile.DisplayName: Void
+	// ThoriumDemonBloodGauntletProjectile.DisplayName: Thorium Demon Blood Gauntlet Projectile
+	// ThoriumNagaQuarterstaffProjectile.DisplayName: Thorium Naga Quarterstaff Projectile
+	// ThoriumConcentratedThoriumQuarterstaffProjectile.DisplayName: Thorium Concentrated Thorium Quarterstaff Projectile
+	// ThoriumTerrariumWarhammerProjectile.DisplayName: Thorium Terrarium Warhammer Projectile
+	// GuardianDoubleHammerAnchor.DisplayName: Dual Warhammers
+	// ThoriumPharaohQuarterstaffProjectile.DisplayName: Pharaoh Sand
+	// ConsolariaLepusEggNestProjectile.DisplayName: Consolaria Lepus Egg Nest Projectile
 }
 
 Configs: {
@@ -3625,15 +3914,15 @@ Configs: {
 		}
 
 		ShowClassTags: {
-			Label: Показывать метки классов
-			Tooltip: Включает метки классов в подсказках предметов
+			Label: Отображение тегов классов
+			Tooltip: Включает теги классов в подсказках предметов
 		}
 
 		ShowModTags: {
-			Label: Показать метку кроссмод-контента
+			Label: Отображение тегов кроссмод-контента
 			Tooltip:
 				'''
-				Включает метку в подсказках кроссмод-предметов
+				Включает теги в подсказках кроссмод-предметов
 				(для загрузки кроссмод-контента без требуемых модов должен быть включена настройка в серверной конфигурации)
 				'''
 		}
@@ -3718,6 +4007,34 @@ Configs: {
 			Label: Всегда использовать атаку нападением с перчатками
 			Tooltip: Перчатки хранителя при возможности всегда будут использовать атаку нападением, независимо от того, как долго удерживалась клавиша
 		}
+
+		GuardianThoriumThorsHammerConversion: {
+			Label: Противостоящий режим Молота Тора по ПКМ
+			Tooltip:
+				'''
+				Если включён Thorium Mod, нажатие ПКМ по «Молоту Тора: магический» переключит его в противостоящий режим,
+				а нажатие по «Молоту Тора: противостоящий» в свою очередь переключит его в режим ближнего боя
+				'''
+		}
+
+		GuardianUseFancyUI: {
+			Label: Причудливый интерфейс хранителя
+			Tooltip: Включает «причудливый» стиль текстур для элементов интерфейса хранителя
+		}
+
+		GuardianThoriumBoreanStriderColorUI: {
+			// Label: Frost Walker UI uses colored icon
+			// Tooltip: The Frost Walker's special 'snowflake charge' UI will use a colored icon (the Ice Gauntlet's crystal projectile) instead of a monochrome variant
+		}
+
+		SmartSmartCursor: {
+			// Label: Smart Smart Cursor
+			/* Tooltip:
+				'''
+				Smart Cursor automatically toggles off and on when holding a guardian weapon or shapeshifting.
+				No effect if Smart Cursor isn't set to 'Toggle'
+				''' */
+		}
 	}
 
 	OrchidServerConfig: {
@@ -3767,15 +4084,16 @@ Misc: {
 	CurrentСard: "Текущая карта: "
 	PlayingСard: "Разыгранная карта: "
 	Crossmod: "Кроссмод предмет с "
+	ThoriumMagicThorHammer: Нажмите по нему ПКМ в инвентаре, чтобы переключиться в противостоящий режим
 }
 
 UI: {
 	PotionBag: {
-		ChangeState: Изменить состояние   – клавишой «Взаимодействовать» ({0}) без предмета по сумке
-		PutInInventory: Положить в инвентарь – клавишой «Взаимодействовать» ({0}) с предметом по сумке
-		PullOutPotion: Забрать отвар        – клавишой «Предметы 1-8» ({0}-{1})
-		PullOutPotions: Забрать отвары       – клавишой «Предмет 9» ({0})
-		PullOutDye: Забрать краситель    – клавишой «Предмет 10» ({0})
+		ChangeState: Изменить состояние   – клавишей «Взаимодействовать» ({0}) без предмета по сумке
+		PutInInventory: Положить в инвентарь – клавишей «Взаимодействовать» ({0}) с предметом по сумке
+		PullOutPotion: Забрать отвар        – клавишей «Предметы 1-8» ({0}-{1})
+		PullOutPotions: Забрать отвары       – клавишей «Предмет 9» ({0})
+		PullOutDye: Забрать краситель    – клавишей «Предмет 10» ({0})
 		Dye: Используемый краситель: {0}
 		MoreInformation: Удерживайте клавишу «Автовыбор» ({0}) для большей информации
 		State: "Состояние: "
@@ -3805,7 +4123,7 @@ UI: {
 		Sets: Наборы
 		Set: Набор
 		UsesChips: Использует {0} {^0:фишку;фишки;фишек}
-		DieDuration: Длительность действия: {0} {^0:секунда;секунды;секунд}
+		DieDuration: Длительность действия: {0} сек.
 		SetBiome: «Биомы»
 		SetBoss: «Боссы»
 		SetElemental: «Элементы»
@@ -3819,6 +4137,11 @@ UI: {
 			'''
 			Зарядите, чтобы взмахнуть
 			Нажмите {0}, чтобы нанести колющий удар во время зарядки
+			'''
+		ChargeToJab:
+			'''
+			Зарядите, чтобы взмахнуть
+			Нажмите {0}, чтобы выполнить атаку нападением во время зарядки
 			'''
 		ChargeToDash:
 			'''
@@ -3835,7 +4158,8 @@ UI: {
 		Slam: "{0} оч. нападения"
 		Parry: Нажмите {0}, чтобы совершить парирование
 		ParryDash: Нажмите {0}, чтобы совершить парирование рывком вниз
-		ChargeToThrow:
+		ChargeToThrow: Зарядите, чтобы бросить
+		SwingWhileCharging:
 			'''
 			Зарядите, чтобы бросить
 			Нажмите ПКМ, сделать взмах во время зарядки
@@ -3843,6 +4167,10 @@ UI: {
 		UsesUpTo: Использует до {0} оч. нападения
 		RuneDuration: Время действия руны: {0} сек.
 		Block: Нажмите {0}, чтобы сделать блок
+		BlockGuard: Нажмите {0}, чтобы сделать блок за {1} оч. обороны
+		BlockSlam: Нажмите {0}, чтобы сделать блок за {2} оч. нападения
+		BlockGuardSlamSame: Нажмите {0}, чтобы сделать блок за {1} оч. обороны и нападения
+		BlockGuardSlam: Нажмите {0}, чтобы сделать блок за {1} оч. обороны и {2} оч. нападения
 		BuffDuration: Длительность эффекта: {0} сек.
 		HorizonLaceShieldStacks: Даёт 3 оч. обороны при полном заряде
 		DamageOfDefense: Наносит противостоящий урон, равный {0}% от вашей защиты

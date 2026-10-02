@@ -9,6 +9,7 @@ Tiles: {
 	ShamanBiomeChestTile.MapEntry: "{$Items.ShamanBiomeChest.DisplayName}"
 	GuardianBuffStationTile.MapEntry: "{$Items.GuardianBuffStation.DisplayName}"
 	VerveineQuarterstaffTile.MapEntry: Farting Plant
+	VerveineAltQuarterstaffTile.MapEntry: Farting Mushroom
 }
 
 Buffs: {
@@ -250,6 +251,11 @@ Buffs: {
 	GuardianRegenPotionBuff: {
 		DisplayName: Tenacity
 		Description: Increased maximum guard and slam regeneration
+	}
+
+	GuardianVoidQuarterstaffBuff: {
+		Description: Void Rush
+		DisplayName: 150% increased Flux Ripper attack speed
 	}
 }
 
@@ -2721,6 +2727,7 @@ Items: {
 	ThoriumThorsHammerWarhammer: {
 		DisplayName: Thor's Hammer: Opposing
 		Tooltip: ""
+		ChangeMode: Right click within your inventory to activate Melee Mode
 	}
 
 	ThoriumAquaiteQuarterstaff: {
@@ -2760,7 +2767,7 @@ Items: {
 
 	ThoriumViscountQuarterstaff: {
 		DisplayName: Pipistrelle
-		Tooltip: Counterattacks turn you into a swarm of bats, ignoring 20 defense
+		Tooltip: Counterattacks turn you into a swarm of bats, ignoring 25 defense
 	}
 
 	ThoriumThoriumQuarterstaff: {
@@ -2860,7 +2867,7 @@ Items: {
 	}
 
 	ShawlOfTheWind: {
-		DisplayName: Shawl Of The Wind
+		DisplayName: Shawl of the Wind
 		Tooltip:
 			'''
 			12% increased movement speed
@@ -3078,8 +3085,16 @@ Items: {
 	ThoriumYewGauntlet: {
 		DisplayName: Goblin War Claw
 		Tooltip: Fully charge to fire a grappling claw
-		PullOnKill: Pulls on kill, Right click to deactivate
-		NoPullOnKill: Does not pull on kill, Right click to activate
+		PullOnKill:
+			'''
+			Pulls to enemies upon kill
+			Right Click item to deactivate
+			'''
+		NoPullOnKill:
+			'''
+			Does not pull to enemies upon kill
+			Right Click item to activate
+			'''
 	}
 
 	ThoriumEvergreenWoodQuarterstaff: {
@@ -3137,7 +3152,7 @@ Items: {
 		DisplayName: Grim Harvester
 		Tooltip:
 			'''
-			Blocking costs 3 slams, and the scythe logdes itself in the first enemy hit
+			Upon blocking, the scythe logdes itself in the first enemy hit
 			Grants guards after a delay, or when the afflicted enemy dies
 			Charged throw hits increase the amount of guards granted by the effect
 			'''
@@ -3155,6 +3170,269 @@ Items: {
 			Conjures a spread of delayed wisps
 			[c/FF0000:Test Item]
 			'''
+	}
+
+	IceHammer: {
+		DisplayName: Ice Hammer
+		Tooltip: ""
+	}
+
+	IceGauntlet: {
+		DisplayName: Ice Gauntlet
+		Tooltip: ""
+	}
+
+	GoblinKatar: {
+		DisplayName: Goblin Katar
+		Tooltip: "[c/FF0000:Test Item]"
+	}
+
+	ThoriumIcyShardKatar: {
+		DisplayName: Icy Katar
+		Tooltip:
+			'''
+			Significantly hinder the hit enemies movement
+			Cannot dash upwards
+			'''
+	}
+
+	GoldChestKatar: {
+		DisplayName: Serrated Katar
+		Tooltip: Fully charged attacks bleeds deal additional damage
+	}
+
+	CrimtaneKatar: {
+		DisplayName: Scoliosis
+		Tooltip: Parries recover up to half a guard on hit
+	}
+
+	HellstoneKatar: {
+		DisplayName: Trailblaze
+		Tooltip: Parries leave a trail of fire
+	}
+
+	ThoriumGraniteKatar: {
+		DisplayName: Ion Deluge
+		Tooltip:
+			'''
+			Parries and slam hits generate energy orbs
+			Fully charged attacks release energy orbs
+			'''
+	}
+
+	BadgeHoplite: {
+		DisplayName: Legion Insigna
+		Tooltip:
+			'''
+			25% increased katar speed for one attack after a katar parry
+			Stackable twice
+			'''
+	}
+
+	PalmKatar: {
+		DisplayName: Palm Katar
+		Tooltip: Cannot dash upwards
+	}
+
+	ToyWarhammers: {
+		DisplayName: The Big Honkers
+		Tooltip: Lets you dual wield a pair of very squeaky hammers
+	}
+
+	ThoriumValadiumWarhammer: {
+		DisplayName: Valadium Warhammer
+		Tooltip:
+			'''
+			[c/FF0000:Test Item]
+			Right click after throwing to make the hammer pull nearby enemies towards its center, costing a slam
+			Blocking will periodically gravitate nearby enemies towards the center
+			Damage will blast enemies with inter-dimensional energy
+			'''
+	}
+
+	ThoriumLodestoneWarhammer: {
+		DisplayName: Lodestone Crusher
+		Tooltip:
+			'''
+			Left click after throwing to make the hammer crash down, costing 3 slams
+			Damage will sunder enemies, increasing the damage they take by 10%
+			'''
+	}
+
+	ThoriumGeodeVeinhammer: {
+		DisplayName: Geode Veinhammer
+		Tooltip:
+			'''
+			Charged throw hits can mine blocks
+			Mining power scales with the strongest pickaxe in your inventory 
+			'''
+		PickaxePower: Pickaxe power: {0}%
+		PickaxePowerNone: Pickaxe power: N/A
+	}
+
+	ThoriumVoidQuarterstaff: {
+		DisplayName: Flux Ripper
+		Tooltip:
+			'''
+			Slam to warp to an enemy in line of sight, increasing melee speed dramatically
+			Hold UP or DOWN to control knockback trajectory
+			'''
+	}
+
+	ThoriumNagaQuarterstaff: {
+		DisplayName: Serpent's Riptide
+		Tooltip:
+			'''
+			[c/FF0000:Test Item]
+			Jab is replaced by a powerful sweep
+			Fully charge while underwater to propel yourself to your cursor, ending in a massive full sweep attack
+			'''
+	}
+
+	ThoriumConcentratedThoriumQuarterstaff: {
+		DisplayName: Leyline
+		Tooltip:
+			'''
+			[c/FF0000:Test Item]
+			Fully charging creates a damage-sharing link between enemies
+			'''
+	}
+
+	ThoriumBoreanStriderQuarterstaff: {
+		DisplayName: Frost Walker
+		Tooltip:
+			'''
+			[c/FF0000:Test Item]
+			Attacks grant Cold Energy charge
+			At full Cold Energy charge, your next slam will release a giant snowflake
+			'''
+	}
+
+	ThoriumDreadGauntlet: {
+		DisplayName: Dread Reaper's Claw
+		Tooltip: ""
+	}
+
+	ThoriumGuardianTitanHead: {
+		DisplayName: Titan Greathelm
+		Tooltip:
+			'''
+			'Infused with primordial energy'
+			8% increased melee speed
+			Slowly regenerates guards and slams over time
+			Increases maximum guards and slams by 1
+			Enemies are more likely to target you
+			'''
+		SetBonus: Damage done increased by 18%
+	}
+
+	ThoriumGuardianVoidHead: {
+		DisplayName: Void Sentinel Helmet
+		Tooltip:
+			'''
+			[c/FF0000:Test Item]
+			Regenerates guards over time
+			Increases maximum guards by 1
+			10% increased opposing damage
+			Enemies are significantly more likely to target you
+			'''
+		SetBonus:
+			'''
+			Decreases max life by 250
+			Guardian attacks briefly grant massively increased health and resource regeration
+			While blocking or parrying you will attract nearby blockable projectiles
+			'''
+	}
+
+	ThoriumGuardianVoidChest: {
+		DisplayName: Void Sentinel Carapace
+		Tooltip:
+			'''
+			[c/FF0000:Test Item]
+			Regenerates guards and slams over time
+			Increases maximum guards and slams by 1
+			15% increased melee speed and 6% increased opposing critical strike chance 
+			Enemies are significantly more likely to target you
+			'''
+	}
+
+	ThoriumGuardianVoidLegs: {
+		DisplayName: Void Sentinel Greaves
+		Tooltip:
+			'''
+			[c/FF0000:Test Item]
+			Regenerates slams over time
+			Increases maximum slams by 1
+			Increases movement speed by 20% and increases jump and fall speed
+			Enemies are significantly more likely to target you
+			'''
+	}
+
+	HammerMagnet: {
+		DisplayName: Hammer Magnet
+		Tooltip:
+			'''
+			Allows most warhammers to bend toward the cursor when thrown
+			20% increased warhammer thrown velocity
+			'''
+	}
+
+	RemoteDetonator: {
+		DisplayName: Remote Detonator
+		Tooltip:
+			'''
+			Allows most warhammers to explode when left clicking after throwing
+			Costs 1 slam
+			'Somebody set up us the bomb'
+			'''
+	}
+
+	ThoriumTerrariumWarhammer: {
+		DisplayName: Terrarium Warhammer
+		Tooltip: Melee swings deal increased damage
+	}
+
+	IceAxeHammer: {
+		DisplayName: Viking Piolet
+		Tooltip: Pierces foes when hurled
+	}
+
+	ThoriumPharaohQuarterstaff: {
+		DisplayName: Shuwt
+		Tooltip: Fully charge to release a burst of sand
+	}
+
+	VampireWarhammer: {
+		DisplayName: Vampire Slayer
+		Tooltip:
+			'''
+			Blocking or fully charging throws a short-lived piercing cross that blocks
+			'Die, monster!'
+			'''
+		InstantChargeText: Die, monster!
+	}
+
+	ThoriumLifeQuartzCenser: {
+		DisplayName: Life Censer
+		Tooltip: Spending a slam shields the lowest health nearby ally life by 5, up to 10
+	}
+
+	ConsolariaLepusEggNest: {
+		DisplayName: Consolaria Lepus Egg Nest
+		Tooltip: ""
+	}
+
+	DepthDiverHelmet.Tooltip: Regenerates guards over time
+	DepthDiverChestplate.Tooltip:
+		'''
+		Increases maximum guards by 2
+		Enemies are more likely to target you
+		'''
+	DepthDiverGreaves.Tooltip: Increases maximum guards by 2
+
+	VerveineAltQuarterstaff: {
+		DisplayName: Wormsbane
+		Tooltip: Counterattacks release a cloud of ooze
 	}
 }
 
@@ -3603,6 +3881,21 @@ Projectiles: {
 	PumpkingWarhammerProjectile.DisplayName: Harvesting Scythe
 	SurfaceFireShamanWeaponAnchor.DisplayName: Willow Wisp
 	SurfaceFireShamanProjectile.DisplayName: Willow Wisp
+	IceGauntletProjectile.DisplayName: Ice Shard
+	IceGauntletProjectileShard.DisplayName: Ice Shard
+	KatarJabProjectile.DisplayName: Katar Jab
+	GuardianKatarAnchor.DisplayName: Katar
+	HellstoneKatarProjectile.DisplayName: Trailblaze
+	ThoriumGraniteKatarProjectile.DisplayName: Ion Deluge
+	ToyWarhammerProjectile.DisplayName: The Big Honker
+	ThoriumVoidQuarterstaffProjectile.DisplayName: Void
+	ThoriumDemonBloodGauntletProjectile.DisplayName: Thorium Demon Blood Gauntlet Projectile
+	ThoriumNagaQuarterstaffProjectile.DisplayName: Thorium Naga Quarterstaff Projectile
+	ThoriumConcentratedThoriumQuarterstaffProjectile.DisplayName: Thorium Concentrated Thorium Quarterstaff Projectile
+	ThoriumTerrariumWarhammerProjectile.DisplayName: Thorium Terrarium Warhammer Projectile
+	GuardianDoubleHammerAnchor.DisplayName: Dual Warhammers
+	ThoriumPharaohQuarterstaffProjectile.DisplayName: Pharaoh Sand
+	ConsolariaLepusEggNestProjectile.DisplayName: Consolaria Lepus Egg Nest Projectile
 }
 
 Configs: {
@@ -3622,7 +3915,11 @@ Configs: {
 
 		ShowModTags: {
 			Label: Show Mod Tags
-			Tooltip: Enables/Disables the display of cross-content items tooltips (Load Crossmod-Content without required mods must be enabled in Orchid Server Config)
+			Tooltip:
+				'''
+				Enables/Disables the display of cross-content items tooltips
+				(Load Crossmod-Content without required mods must be enabled in Orchid Server Config)
+				'''
 		}
 
 		GuardianUseOldHammerUi: {
@@ -3652,17 +3949,25 @@ Configs: {
 
 		ShapeshifterUseHairColor: {
 			Label: Use Hair Color for Wildshapes
-			Tooltip: Applies the 'Peculiar Hairpin' accessory effect at all times, and has it apply the default wildshape color instead. The hairpin can still be used to apply dye to wildshape hair.
+			Tooltip:
+				'''
+				Applies the 'Peculiar Hairpin' accessory effect at all times, and has it apply the default wildshape color instead.
+				The hairpin can still be used to apply dye to wildshape hair
+				'''
 		}
 
 		ShapeshifterHookDelay: {
 			Label: Shawl Dash Hook Delay
-			Tooltip: While a 'Shawl' accessory is equipped, how long should the hook key be held (in frames) before the hook is fired.
+			Tooltip: While a 'Shawl' accessory is equipped, how long should the hook key be held (in frames) before the hook is fired
 		}
 
 		ShapeshifterHookDashRelease: {
 			Label: Shawl Dash on release
-			Tooltip: Triggers 'Shawl' accessory dashes when releasing the hook key instead of pressing it (allowing to launch a hook without dashing)
+			Tooltip:
+				'''
+				Triggers 'Shawl' accessory dashes when releasing the hook key instead of pressing it
+				(allowing to launch a hook without dashing)
+				'''
 		}
 
 		ShapeshifterScrollDelay: {
@@ -3688,6 +3993,30 @@ Configs: {
 		GuardianGauntletAlwaysSlam: {
 			Label: Guardian Gauntlets always consume Slams
 			Tooltip: Guardian Gauntlets will always try to consume a slam charge to perform a slam, no matter how long the input has been held
+		}
+
+		GuardianThoriumThorsHammerConversion: {
+			Label: Convert Thor's Hammer to Opposing Mode on right click
+			Tooltip: If Thorium is installed, right clicking the Thor's Hammer: Magic will convert it to Opposing Mode, and Opposing into Melee
+		}
+
+		GuardianUseFancyUI: {
+			Label: Fancy Guardian UI
+			Tooltip: Use 'fancy' textures for Guardian UI elements
+		}
+
+		GuardianThoriumBoreanStriderColorUI: {
+			Label: Frost Walker UI uses colored icon
+			Tooltip: The Frost Walker's special 'snowflake charge' UI will use a colored icon (the Ice Gauntlet's crystal projectile) instead of a monochrome variant
+		}
+
+		SmartSmartCursor: {
+			Label: Smart Smart Cursor
+			Tooltip:
+				'''
+				Smart Cursor automatically toggles off and on when holding a guardian weapon or shapeshifting.
+				No effect if Smart Cursor isn't set to 'Toggle'
+				'''
 		}
 	}
 
@@ -3738,6 +4067,7 @@ Misc: {
 	CurrentСard: "Current card: "
 	PlayingСard: Playing Card :
 	Crossmod: "This is a crossmod item: "
+	ThoriumMagicThorHammer: Right click within your inventory to activate Opposing Mode
 }
 
 UI: {
@@ -3787,6 +4117,7 @@ UI: {
 		LeftClick: Left
 		RightClick: Right
 		ChargeToSwing: Charge to swing, {0} click to jab while charging
+		ChargeToJab: Charge to swing, {0} click to slam while charging
 		ChargeToDash: Charge to dash, {0} click to jab while charging
 		ParryDuration: "{0} second parry duration"
 		BlockDuration: "{0} second block duration"
@@ -3798,10 +4129,15 @@ UI: {
 		Slam: "{0} {^0:slam;slams}"
 		Parry: "{0} click to parry"
 		ParryDash: "{0} click to parry, dashing downwards"
-		ChargeToThrow: Charge to throw, right click to swing while charging
+		ChargeToThrow: Charge to throw
+		SwingWhileCharging: Charge to throw, right click to swing while charging
 		UsesUpTo: Uses up to {0} slams
 		RuneDuration: "{0} second rune duration"
 		Block: "{0} click to block"
+		BlockGuard: "{0} click to block, costing {1} {^1:guard;guards}"
+		BlockSlam: "{0} click to block, costing {2} {^2:slam;slams}"
+		BlockGuardSlamSame: "{0} click to block, costing {1} {^1:guard;guards} and {^1:slam;slams}"
+		BlockGuardSlam: "{0} click to block, costing {1} {^1:guard;guards} and {2} {^2:slam;slams}"
 		BuffDuration: "{0} second buff duration"
 		HorizonLaceShieldStacks: Grants 3 guards when fully charged
 		DamageOfDefense: Deals {0}% of defense as opposing damage
