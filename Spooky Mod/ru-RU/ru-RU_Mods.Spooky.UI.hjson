@@ -1,0 +1,65 @@
+BloomBuffs: {
+	DivaStacks: Максимум фруктов:
+	Revives: Осталось жизней:
+	DefenseBonus: Defense Bonus:
+	RightClick: (Нажмите ПКМ, чтобы удалить)
+}
+
+LittleEyeBounties: {
+	Bounty1Condition: Bounty Mission: Find this monster in the Spooky Forest and defeat it
+	Bounty2Condition: Bounty Mission: Find this monster in the Swampy Cemetery and defeat it
+	Bounty3Condition: Bounty Mission: Find this monster in the Spider Grotto and defeat it
+	Bounty4Condition: Bounty Mission: Find this monster in the Valley of Eyes and defeat it
+	Bounty5Condition: Bounty Mission: Find the Giant Egg in the Valley of Eyes and open it
+	BountyAccept: Click to accept this bounty and receive an item to attract said monster
+	BountyWarning: You will not be able to accept another bounty until you finish this one!
+	Bounty5Locked: Defeat all three mechanical bosses to unlock the conditions for this bounty mission
+	Bounty5Accept: Click to accept this bounty and receive an item to open the giant egg
+	Bounty5Warning: Good Luck!
+	BountyAccepted: You cannot select another bounty until you complete your current one
+	BountyCompleted: You have completed this bounty!
+	BountyCompletedItem: Click this button to get the item to summon this monster if you'd like to rematch it
+	BountyNewItem: Click this button to get another item to spawn this monster in case you've lost it
+}
+
+LittleEyeDialogueChoice: {
+	TalkChoice: Поговорить
+	BountyChoice: Задания по охоте
+	CauldronChoice: Котелок?
+}
+
+OldHunterDialogueChoice: {
+	RareItemChoice: Задания по охоте
+	RematchChoice: Повторная дуэль
+}
+
+RottenDepthsTerminal: {
+	Inbox: Входящие письма от ООО «Лаборатории Прибамбасов»
+	Sender: Отправитель
+	Message: Сообщение
+	EmailSender1: @LabPribambasov
+	EmailTime1: 10:32
+	Email1: Доброе утро, сотрудник! Мы заметили ваш усердный труд, в связи с чем повышаем вашу почасовую оплату на 1,01$! Продолжайте в том же духе! С уважением, руководство «Лабораторий Прибамбасов».
+	EmailSender2: @John425
+	EmailTime2: 12:25
+	Email2: Я и не думал, что это возможно, но это произошло. Воскрешение рыбы прошло успешно, мы получили живой образец! Я издалека видел, как его вывозили из моей лаборатории, и он страшно огромный!
+	EmailSender3: @LabPribambasov
+	EmailTime3: 16:47
+	Email3: Экстренное сообщение от «Лабораторий Прибамбасов»: Образец 01-Д сбежал из камеры содержания. Активированы протоколы по поимке образца и предотвращению утечки опасных веществ.
+	EmailSender4: @LabPribambasov
+	EmailTime4: 17:08
+	Email4: Экстренное сообщение от «Лабораторий Прибамбасов»: Подводное сооружение «Лабораторий» получило критические повреждения. Обнаружен выброс большого количества экспериментального вируса 05-Зомб. Активированы протоколы по эвакуации персонала.
+	EmailSender5: @John425
+	EmailTime5: 17:12
+	Email5: БОЖЕ МОЙ, всему подводному исследованию конец!!! Эти идиоты, экономящие на всём подряд, даже не удосужились поместить образец в укреплённый резервуар, и теперь он крушит всё, что видит. Так ещё и этот зомби-вирус вырвался наружу и заражает людей. На случай подобного происшествия я тайно разрабатывал оружие, но ещё не собрал его целиком. Придётся попробовать доделать его прямо сейчас. Возможно, это последний шанс остановить этого монстра.
+}
+
+EggEvent: {
+	EggEventBarProgress: Осталось прожить:
+}
+
+PandoraBox: {
+	EggEventBarDisplayName: Яичное нашествие
+	PandoraBoxBarDisplayName: Ящик Пандоры
+	PandoraBoxBarProgress: "Текущая волна: "
+}

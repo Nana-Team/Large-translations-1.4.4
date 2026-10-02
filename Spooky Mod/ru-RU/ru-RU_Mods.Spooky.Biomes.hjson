@@ -1,0 +1,104 @@
+SpookyBiome: {
+	DisplayName: Жуткий лес
+	TownNPCDialogueName: Жуткий лес
+}
+
+SpookyBiomeUg: {
+	DisplayName: Жуткое подземелье
+	TownNPCDialogueName: Жуткое подземелье
+}
+
+CemeteryBiome: {
+	DisplayName: Заболоченное кладбище
+	TownNPCDialogueName: Заболоченное кладбище
+}
+
+RaveyardBiome: {
+	DisplayName: Посмертная туса
+	TownNPCDialogueName: Посмертная туса
+}
+
+CatacombBiome: {
+	DisplayName: Катакомбы
+	TownNPCDialogueName: Катакомбы
+}
+
+CatacombBiome2: {
+	DisplayName: Нижние катакомбы
+	TownNPCDialogueName: Нижние катакомбы
+}
+
+NoseTempleBiome: {
+	DisplayName: Храм Моко
+	TownNPCDialogueName: Храм Моко
+}
+
+PandoraBoxBiome: {
+	DisplayName: Ящик Пандоры
+	TownNPCDialogueName: Ящик Пандоры
+}
+
+SpookyHellBiome: {
+	DisplayName: Глазастая долина
+	TownNPCDialogueName: Глазастая долина
+}
+
+SpookyHellEventBiome: {
+	DisplayName: Яичное нашествие
+	TownNPCDialogueName: Яичное нашествие
+}
+
+SpookyHellLake: {
+	DisplayName: Озеро крови
+	TownNPCDialogueName: Озеро крови
+}
+
+SpiderCaveBiome: {
+	DisplayName: Паучий грот
+	TownNPCDialogueName: Паучий грот
+}
+
+HallucinationZone: {
+	DisplayName: Зона галлюцинации
+	TownNPCDialogueName: Зона галлюцинации
+}
+
+VegetableBiome: {
+	DisplayName: Смрадные сады
+	TownNPCDialogueName: Смрадные сады
+}
+
+ChristmasDungeonBiome: {
+	DisplayName: Мастерская Крампуса
+	TownNPCDialogueName: Мастерская Крампуса
+}
+
+TarPitsBiome: {
+	DisplayName: Смоляные ямы
+	TownNPCDialogueName: Смоляные ямы
+}
+
+ZombieOceanBiome: {
+	DisplayName: Прогнившие глубины
+	TownNPCDialogueName: Прогнившие глубины
+}
+
+SpookyBiomeUgGlowshroom: {
+	DisplayName: Пещеры светогрибов
+	TownNPCDialogueName: Пещеры светогрибов
+}
+
+SporeEventBiome: {
+	DisplayName: Споровой смерч
+	TownNPCDialogueName: Споровой смерч
+}
+
+SpiderWarBiome: {
+	DisplayName: Паучья война
+	TownNPCDialogueName: Паучья война
+}
+
+RaveyardVisualBiome: {
+	TownNPCDialogueName: Raveyard Visual Biome
+	DisplayName: Raveyard Visual Biome
+}
