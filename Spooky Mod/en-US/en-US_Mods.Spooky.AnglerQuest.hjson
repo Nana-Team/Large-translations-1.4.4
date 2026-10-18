@@ -47,3 +47,8 @@ SphiderFish: {
 	Description: I've heard that there's a large grotto with a bunch of really dumb spiders that have all sorts of adaptations! The others don't believe me when I told them there's one that swims in the water. Get one for me so I can scare them with it!
 	CatchLocation: Caught in the Spider grotto
 }
+
+PinkSeaBunny: {
+	Description: Someone told me that there's a rare coloration of sea bunny and some people would pay a pretty penny to have one. What?! You think I have time to find it? It looks like you do though.
+	CatchLocation: Caught in the Bleached Shipyard
+}

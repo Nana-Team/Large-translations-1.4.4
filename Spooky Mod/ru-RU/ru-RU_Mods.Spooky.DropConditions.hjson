@@ -1,3 +1,3 @@
-PostOrroboroCondition: Drops after Orro & Boro have been defeated
-PostMocoCondition: Drops after Moco has been defeated
-SpiderWarTooltip: Drop rate varies by Wave
+PostOrroboroCondition: Выпадает после победы над Урро и Боро
+PostMocoCondition: Выпадает после победы над Моко
+SpiderWarTooltip: "{$Bestiary_ItemDropConditions.WaveBasedDrop}"

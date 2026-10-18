@@ -68,6 +68,11 @@ OldWoodDresser: {
 	MapEntry: "{$Items.OldWoodDresserItem.DisplayName}"
 }
 
+RotWoodDresser: {
+	ContainerName: Rotted Wood Dresser
+	MapEntry: Dresser
+}
+
 UpperCatacombChest: {
 	MapEntry0: Сундук Катакомб
 	MapEntry1: Запертый сундук Катакомб
@@ -76,6 +81,31 @@ UpperCatacombChest: {
 LowerCatacombChest: {
 	MapEntry0: Сундук Нижних катакомб
 	MapEntry1: Запертый сундук Нижних катакомб
+}
+
+SpiritPotstiary: {
+	ShipyardShellPotName: Shell Pot
+	ShipyardShellPotDescription: An old shell, filled with goodies.
+	ShipyardCratePotName: Rotten Crate
+	ShipyardCratePotDescription: An old crate containing basic supplies.
+	CatacombPotUpperName: Upper Catacombs Pot
+	CatacombPotUpperDescription: A decorative pot, contains treasure.
+	CatacombPotLowerName: Lower Catacombs Pot
+	CatacombPotLowerDescription: A decorative pot, contains treasure.
+	ChristmasPotName: Christmas Present
+	ChristmasPotDescription: Contains some rare potions and other goods.
+	TarPitsPotName: Tar Pits Pot
+	TarPitsPotDescription: Ancient pottery, contains mostly common items.
+	OceanPotName: Bone Pile
+	OceanPotDescription: Remains of... something. Can be dug up for treasure.
+	FarmsPotName: Fetid Flower Pot
+	FarmsPotDescription: Meant to grow plants, but contains loot for some reason.
+	NoseTemplePotName: Schnoz Pot
+	NoseTemplePotDescription: Made by the nose cult to look like their idol.
+	SpiderCavePotName: Cooking Pot
+	SpiderCavePotDescription: Used to prepare meals by people long ago.
+	SpookyBiomePotName: Spooky Pot
+	SpookyBiomePotDescription: Pots that resemble halloween candy baskets.
 }
 
 //blooms
@@ -143,3 +173,10 @@ BirchChest.MapEntry: Old Birch Chest
 BroccoliSapling.MapEntry: Broccoli Sapling
 TubeWormSapling.MapEntry: Tube Worm Polyp
 TarCactusChest.MapEntry: Tar Cactus Chest
+MangroveTree.MapEntry: Mangrove Tree
+MangroveSapling.MapEntry: Mangrove Sapling
+CoralTree.MapEntry: Giant Coral
+QueenShell.MapEntry: Giant Conch Shell
+GiantPirateChest.MapEntry: Pirate's Treasure
+RotWoodChest.MapEntry: Rotted Wood Chest
+ShipyardPylon.MapEntry: Shipyard Pylon

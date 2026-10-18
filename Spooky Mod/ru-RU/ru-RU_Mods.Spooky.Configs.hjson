@@ -17,14 +17,15 @@ SpookyConfig: {
 		Label: Draggable UIs
 		Tooltip:
 			'''
-			Keeping this option on will allow you to hold left click and drag certain UIs added by spooky mod
-			Keeping this option off will lock each spooky mod UI in place and disables you from moving them
-			Useful if you want to re-locate the UIs to a specific position and then lock them there
+			Toggle for certain spooky mod UIs being moveable by holding left click and dragging them elsewhere
+			Enabling this will allow you to drag them, and disabling this will lock them in place wherever they are
+			Note: this does not apply to all UIs added by spooky mod, just ones relating to player things
+			(Such as the bloom buffs UI, various accessory UIs, and such)
 			'''
 	}
 
 	DialogueSpeed: {
-		Label: Dialogue Speed
+		Label: Dialogue Fill-In Speed
 		Tooltip:
 			'''
 			Changes the speed at which spooky mod special NPC dialogue fills in
@@ -36,7 +37,7 @@ SpookyConfig: {
 		Label: Dialogue Focuses On Talking NPC
 		Tooltip:
 			'''
-			Allows you to determine if spooky mod's special dialogue pans your camera on the NPC you are talking to
+			Toggle for spooky mod's special dialogue panning your camera on the NPC you are talking to
 			Enabling this will pan you camera to the NPC, and disabling this will not pan your camera to the NPC
 			'''
 	}
@@ -50,8 +51,8 @@ SpookyServerConfig: {
 		Tooltip:
 			'''
 			Spooky mod, by default, makes terraria's halloween seasonal event always active as a quality of life feature
-			Keep this option on if you want terraria's halloween seasonal content always active while playing
-			Keep this option off if you want terraria's halloween event to only occur when it normally should
+			Keeping this option allows the halloween seasonal content to always be active
+			Keeping this option off will just make the halloween seasonal event only occur when it normally should
 			(Like during the month of October, or when you make it to wave 15 of the pumpkin moon before daytime)
 			'''
 	}
@@ -60,9 +61,9 @@ SpookyServerConfig: {
 		Label: Moco Temple Ambushes Require All Players
 		Tooltip:
 			'''
-			Allows you to force all players into a nose temple combat room if any player activates it
-			If turned off, then the combat rooms in the temple of moco will work normally and won't account for other players
-			If turned on, then every single player inside the temple of moco will immediately be teleported into the room
+			Allows you to force all players who are in the nose temple into any combat room if any player activates it
+			If turned on, then every single player inside the nose temple will be instantly teleported into the room
+			If turned off, then the combat rooms will work normally and won't account for other players
 			'''
 	}
 }
@@ -77,7 +78,7 @@ SpookyWorldgenConfig: {
 			Changes the location of where the spooky forest is placed during world generation
 			Keeping this on will make it placed at your spawn, which is the default option
 			Turning this off will make the spooky forest generate away from your spawn, on the dungeon side of the world
-			Turning this off can be helpful if you are using other mods that add world generation at or nearby spawn
+			This can be helpful if you are using other mods that add world generation at or nearby spawn
 			(This option is only applied when making new worlds, and will have no effect on existing worlds)
 			'''
 	}

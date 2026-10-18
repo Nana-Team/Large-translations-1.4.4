@@ -147,3 +147,18 @@ MiscAchievementDahlia: {
 	FriendlyName: On Fleek!
 	Description: Encounter and kill diva dahlia in the lower catacombs.
 }
+
+MiscAchievementSpookyBestiary: {
+	FriendlyName: The Complete Spookbumps Series
+	Description: Collect every single spooky mod creature in the bestiary.
+}
+
+MiscAchievementDebuffs: {
+	FriendlyName: How Did We Get Here?
+	Description: Inflict 10 negative effects from spooky gear on a single unfortunate enemy.
+}
+
+MiscAchievementBiomeChest: {
+	FriendlyName: Tomb Raiding
+	Description: Open one of the special biome chests in the deeper catacombs.
+}

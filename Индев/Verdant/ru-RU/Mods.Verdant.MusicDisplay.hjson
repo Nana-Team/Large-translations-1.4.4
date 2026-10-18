@@ -1,0 +1,26 @@
+ModName: Verdant
+
+VibrantHorizon: {
+	DisplayName: Цветение: Vibrant Horizon
+	Author: от Heltonyan
+}
+
+TearRain: {
+	DisplayName: Подземное цветение: Tear Rain
+	Author: от GabeHasWon
+}
+
+ApotheosisLullaby: {
+	DisplayName: Апофеоз: Apotheosis Lullaby
+	Author: от GabeHasWon и Liz
+}
+
+PetalsFall: {
+	DisplayName: Дождь в цветении: Petals Fall
+	Author: "{$Mods.Verdant.MusicDisplay.ApotheosisLullaby.Author}"
+}
+
+TearRainEvent: {
+	DisplayName: Слёзный дождь: Of Petrichor
+	Author: от mzxie
+}

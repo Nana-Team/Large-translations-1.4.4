@@ -14,7 +14,7 @@ GoldrushArmor: All of your attacks inflict midas, causing enemies to drop more m
 TarCactusArmor: Retaliate by flinging cactus thorns when you take damage
 YuletideArmor:
 	'''
-	Double tap Down to combust and scatter damaging embers
+	Double tap {0} to combust and scatter damaging embers
 	This ability has a 20 second cooldown before it can be used again
 	'''
 SharkBoneArmor:
@@ -30,7 +30,7 @@ GourdArmor:
 RootArmor: Your ranged projectiles have a chance to heal you
 SpiderArmor:
 	'''
-	Double tap Down to enter spider stealth for 10 seconds
+	Double tap {0} to enter spider stealth for 10 seconds
 	While in spider stealth your damage reduction is increased by 12%
 	This ability has a 2 minute cooldown before you can use it again
 	'''
@@ -43,12 +43,12 @@ EyeArmor:
 FlowerArmor:
 	'''
 	Greatly increases your life regeneration
-	Double tap Down to summon clumps of pollen to attack your enemies
-	This ability has a 30 second cooldown before it can be used again
+	Double tap {0} to summon clumps of pollen to attack your enemies
+	This ability has a 15 second cooldown before it can be used again
 	'''
 SporeShroomArmor:
 	'''
-	Double tap Down to grow a spore shroom that damages enemies around it
+	Double tap {0} to grow a spore shroom that damages enemies around it
 	Spore shrooms can be bounced off of to restore flight time a bit
 	You can only have up to 3 spore shrooms active at once
 	'''

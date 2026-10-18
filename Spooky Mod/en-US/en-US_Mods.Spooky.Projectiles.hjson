@@ -138,7 +138,7 @@ ThornBallSpike.DisplayName: Thorn Spike
 DaffodilFly.DisplayName: Large Fly
 ShroomFlailProj.DisplayName: Fungal Flail
 ShroomHopperPet.DisplayName: Shroom Hopper
-FlyPet.DisplayName: Cornelious
+FlyPet.DisplayName: Frank
 FemurFractureSwung.DisplayName: Femur Fracturer
 FemurFractureProj.DisplayName: Femur Fracturer
 FemurFractureSkull.DisplayName: Fracturer Skull
@@ -440,7 +440,7 @@ SpookmasSwordStar.DisplayName: Christmas Star
 SharkronExplosion.DisplayName: Sharkron Explosion
 SharkronFireball.DisplayName: Sharkron Fireball
 SpookFishronGunFire.DisplayName: Spooky Flames
-SpookFishronFlailProj.DisplayName: Spicy Flairon
+SpookFishronFlailProj.DisplayName: Flaming Flairon
 SpookFishronFlailBubble.DisplayName: Spicy Bubble
 SinisterSnailPet.DisplayName: Sinister Snail
 SpookFishronMinion.DisplayName: Spooky Pigron
@@ -542,7 +542,7 @@ HelicoprionSawProj.DisplayName: Helicoprion Saw
 TitanoboaWhipProj.DisplayName: Titanoboa Whip
 SabertoothScytheProj.DisplayName: Sabertooth Scythe
 SabertoothScytheFlung.DisplayName: Sabertooth Scythe
-TarCannonProj.DisplayName: Opalised Cannon
+TarCannonProj.DisplayName: Opalized Cannon
 TarCannonBlob.DisplayName: Tar Blob
 TarCannonSlime.DisplayName: Tar Slime
 TarBombProj.DisplayName: Tar Bomba
@@ -662,8 +662,8 @@ SlingshotBaseProj.DisplayName: Slingshot Base Proj
 BouncyBallProj.DisplayName: Bouncy Ball
 SpiritSlingshotGhost.DisplayName: Soul
 SpiritSlingshotGhostBolt.DisplayName: Soul Bolt
-OpalSlingshotProj.DisplayName: Opalised Slinger
-OpalSlingshotBone.DisplayName: Opalised Bone
+OpalSlingshotProj.DisplayName: Opalized Slinger
+OpalSlingshotBone.DisplayName: Opalized Bone
 TarFlingerProj.DisplayName: Tar Flinger
 TarFlingerBlob.DisplayName: Tar Blob
 CactusClubProj.DisplayName: Cactus Club
@@ -746,3 +746,35 @@ HomingDaffodil.DisplayName: Flower
 DaffodilPollen.DisplayName: Pollen Puff
 Corpsebloom.DisplayName: Corpsebloom
 DutchmanPipeHitProj.DisplayName: ""
+FireflyPet.DisplayName: Firefly
+CrabPet.DisplayName: Vampire Crab
+GlyphomancerBolt.DisplayName: ""
+GlyphomancerHand.DisplayName: Magic Hand
+SpookFishronWhipProj.DisplayName: Spicy Eel
+SpookFishronWhipBubble.DisplayName: Spicy Bubble
+SpookFishronWhipBubbleExplosion.DisplayName: Explosion
+SpookFishronYoyoProj.DisplayName: Spit Roast
+SpookFishronYoyoShark.DisplayName: Spooky Sharkron
+GourdPetGreen.DisplayName: Oscar
+GourdPetLime.DisplayName: Stevenson
+GourdPetOrange1.DisplayName: Ben
+GourdPetOrange2.DisplayName: Gerald
+GourdPetRed.DisplayName: Pedro
+GourdPetWhite.DisplayName: Pickle
+GourdPetYellow.DisplayName: Augustus
+BleachedTunaBubble.DisplayName: Bubble
+PirateChestProj.DisplayName: ""
+PirateHookProj.DisplayName: Garghantuan Hook
+PirateHookScythe.DisplayName: Ghost Scythe
+PirateBlunderbussProj.DisplayName: Ghost Busster
+PirateBlunderbussBullet.DisplayName: Ghost Bolt
+PirateShipWheelProj.DisplayName: Hellship's Helm
+PirateShipWheelVortex.DisplayName: Whirlpool
+InkFishBody.DisplayName: Ink Serpent
+InkFishHead.DisplayName: Ink Serpent
+InkFishTail.DisplayName: Ink Serpent
+QueenConchSludge.DisplayName: Ecto Sludge
+QueenConchBubble.DisplayName: Ghastly Bubble
+HermitCrabSnip.DisplayName: Hermit Crab
+HermitCrabGroundEffect.DisplayName: ""
+QueenConchShellFall.DisplayName: Queen Conch Shell Fall

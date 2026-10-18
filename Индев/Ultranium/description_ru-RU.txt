@@ -1,0 +1,56 @@
+Ultranium is a somewhat large content mod to expand upon and improve vanilla gameplay. It focuses on adding more content, such as weapons, armor, bosses, ect into the game to make playing through the game more enjoyable.
+
+-=The mod adds=-
+
+-over 200 items, such as weapons and armor
+-A total of 8 brand new new bosses spread through out the game
+-a bunch of post moonlord content, with a total of 4 post moonlord bosses
+-a new post moonlord event, the Abyssal Armageddon
+-the shadow biome, generated upon world creation
+-the dark depths biome, a giant pit biome with caverns found in the shadow biome (this cannot be explored until all of the mechs have been defeated)
+-Boss checklist/boss log support
+
+When playing with this mod, you MUST create a new world as the shadow biome and other world generation are required to progress in the mod
+
+Report any bugs or major balancing issues to the following Discord: https://discord.gg/rtq3jRDsrA
+
+Thanks to all of the developers, testers, and contributers for their help, it's very appreciated!
+
+-Developers-
+
+DylanDoe21 - Main coder
+Pois1x (ex developer) - lots of sprites, and some code 
+RenRllySad - some code
+Loops - Musician
+Luxcapacitator/Tom cruise missile - Musician
+RockWizard5- Musician
+Andreyghost - sprites
+YuH - 1.4.4 port
+
+-Beta testers-
+
+-Obsoleek
+-Hat boy
+-AIDAN_C_G
+-Heas
+-Noved 
+-piers
+-thatonetruedog
+
+-contributers/spriters-
+
+-Wiigirl
+-Xenos
+-maskano
+-R8dio
+-triangle
+-DejuiceTD
+-ma3allim
+
+
+
+
+
+
+
+          

@@ -481,7 +481,7 @@ FlyCharm: {
 		'''
 		Summons a swarm of flies around you over time, up to 10 total
 		Each active fly will give you one extra point of defense
-		When you get hit, the flies will die and respawn after thirty seconds
+		When you get hit, the flies will vanish instantly
 		'''
 }
 
@@ -678,7 +678,7 @@ StrangeCyst: {
 }
 
 FlowerBody: {
-	DisplayName: Thorn Stem Shirt
+	DisplayName: Flower Stem Shirt
 	Tooltip:
 		'''
 		15% increased damage and critical strike chance
@@ -906,7 +906,7 @@ PandoraAmalgam: {
 		'''
 		Grants the effects of every pandora's box accessory
 		Spawns blobs of ectoplasm when you restore mana that deal more damage the more you restore
-		Press the Accessory hotkey to release sound that damages you and enemies
+		Press the Accessory hotkey to release sound that damages enemies and pushes them away
 		You will spawn hands every few seconds that will home in on you and heal you when hit
 		Occasionally fire out a cuff at a nearby enemy, enemies attatched to it will take 25% more damage
 		'''
@@ -1164,7 +1164,6 @@ SmileDogPicture: {
 	Tooltip:
 		'''
 		Summons a smiling puppy to follow you and maul nearby enemies
-		Every 3 minutes, the dog will attack you for 10 seconds before returning to normal
 		'That dog is messed up'
 		'''
 }
@@ -1307,6 +1306,11 @@ ChristmasOutfitHeadRed: {
 	Tooltip: ""
 }
 
+ChristmasOutfitLegs: {
+	DisplayName: Krampus Helper Tights
+	Tooltip: ""
+}
+
 DaffodilMask: {
 	DisplayName: Daffodil Mask
 	Tooltip: ""
@@ -1347,6 +1351,11 @@ MocoMask: {
 	Tooltip: ""
 }
 
+MoyaiMask: {
+	DisplayName: Moyai Mask
+	Tooltip: ""
+}
+
 NoseCultistHood: {
 	DisplayName: Nose Cultist Hood
 	Tooltip: Disguise as a cultist when worn with the cultist robe
@@ -1375,6 +1384,21 @@ PartySkeletonSkull: {
 DandyHead: {
 	DisplayName: Dandy's Mask
 	Tooltip: "'Great for impersonating spooky mod devs!'"
+}
+
+PirateBody: {
+	DisplayName: Old Pirate's Coat
+	Tooltip: ""
+}
+
+PirateHead: {
+	DisplayName: Old Pirate's Hat
+	Tooltip: ""
+}
+
+PirateLegs: {
+	DisplayName: Old Pirate's Pants
+	Tooltip: ""
 }
 
 RotGourdMask: {
@@ -1410,6 +1434,11 @@ ThreeDimensionalGlasses: {
 TortillaHead: {
 	DisplayName: Tortilla's Mask
 	Tooltip: "'Great for impersonating spooky mod devs!'"
+}
+
+UrchinHead: {
+	DisplayName: Sea Urchin Mask
+	Tooltip: ""
 }
 
 WaasephiHead: {
@@ -1449,6 +1478,16 @@ GrottoCrate: {
 
 GrottoCrate2: {
 	DisplayName: Root Crate
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ShipyardCrate: {
+	DisplayName: Rotten Crate
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ShipyardCrate2: {
+	DisplayName: Decayed Crate
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -1497,6 +1536,11 @@ OrroEel: {
 	Tooltip: "'Caught in Valley of Eyes'"
 }
 
+PinkSeaBunny: {
+	DisplayName: Shiny Sea Bunny
+	Tooltip: "'Caught in Boggy Shipyard'"
+}
+
 PumpkinBobber: {
 	DisplayName: Pumpkin Bobber
 	Tooltip: Increases fishing power by 10
@@ -1504,6 +1548,20 @@ PumpkinBobber: {
 
 FishingSpiderRod: {
 	DisplayName: Fishing Spider Rod
+	Tooltip: ""
+}
+
+FleshSac: {
+	DisplayName: Sac of Flesh
+	Tooltip:
+		'''
+		Contains nasty organic stuff
+		{$CommonItemTooltip.RightClickToOpen}
+		'''
+}
+
+GhostFish: {
+	DisplayName: Ghost Knifefish
 	Tooltip: ""
 }
 
@@ -1542,6 +1600,11 @@ ZomboidFish: {
 	Tooltip: "'Caught in Spooky Forest'"
 }
 
+BlackBerries: {
+	DisplayName: Black Berries
+	Tooltip: ""
+}
+
 BlackLicorice: {
 	DisplayName: Black Licorice
 	Tooltip:
@@ -1549,6 +1612,11 @@ BlackLicorice: {
 		Minor deterioration to all stats
 		'Why would you eat this?'
 		'''
+}
+
+BlackRadish: {
+	DisplayName: Black Radish
+	Tooltip: ""
 }
 
 CandyCorn: {
@@ -1567,6 +1635,16 @@ CaramelApple: {
 		Minor improvements to all stats
 		'Don't know how the apple got caramel on it'
 		'''
+}
+
+Cranberry: {
+	DisplayName: Cranberry
+	Tooltip: ""
+}
+
+Durian: {
+	DisplayName: Durian
+	Tooltip: ""
 }
 
 EyeChocolate: {
@@ -1603,6 +1681,15 @@ GoofyPretzel: {
 		'''
 		Minor improvements to all stats
 		'It looks disturbed, hope it isn't alive'
+		'''
+}
+
+Lean: {
+	DisplayName: Lean
+	Tooltip:
+		'''
+		Gives you a completely random buff
+		'Who knows what's in this...'
 		'''
 }
 
@@ -2243,6 +2330,11 @@ ChalupoPepper: {
 	Tooltip: Summons chalupo and chalupa
 }
 
+CrabClaw: {
+	DisplayName: Purple Crab Claw
+	Tooltip: Summons a pet vampire crab
+}
+
 DissolvedBone: {
 	DisplayName: Slightly Dissolved Bone
 	Tooltip:
@@ -2255,6 +2347,11 @@ DissolvedBone: {
 ExpiredCheese: {
 	DisplayName: Expired Cheese
 	Tooltip: Summons a pet albino rat
+}
+
+FireflyLight: {
+	DisplayName: Firefly Flashlight
+	Tooltip: Summons a baby firefly to light the way
 }
 
 FriendlyShroom: {
@@ -2270,6 +2367,36 @@ FuzzBall: {
 GhostPetItem: {
 	DisplayName: Spooky Ghost
 	Tooltip: Summons a little ghost to provide light
+}
+
+GourdPetSeedGreen: {
+	DisplayName: Green Sprouting Seed
+	Tooltip: Summons Oscar
+}
+
+GourdPetSeedLime: {
+	DisplayName: Lime Sprouting Seed
+	Tooltip: Summons Stevenson
+}
+
+GourdPetSeedOrange: {
+	DisplayName: Orange Sprouting Seed
+	Tooltip: Summons Ben & Gerald
+}
+
+GourdPetSeedRed: {
+	DisplayName: Red Sprouting Seed
+	Tooltip: Summons Pedro
+}
+
+GourdPetSeedWhite: {
+	DisplayName: White Sprouting Seed
+	Tooltip: Summons Pickle
+}
+
+GourdPetSeedYellow: {
+	DisplayName: Yellow Sprouting Seed
+	Tooltip: Summons Augustus
 }
 
 Honeycomb: {
@@ -2376,7 +2503,7 @@ SmallDaffodil: {
 	DisplayName: Daffodil Sprout
 	Tooltip:
 		'''
-		Summons Cornelious
+		Summons Frank the fly
 		'It smells very yummy!'
 		'''
 }
@@ -2627,6 +2754,81 @@ SummonItem4: {
 		'''
 }
 
+RotWoodBody: {
+	DisplayName: Rotted Wood Chestplate
+	Tooltip: ""
+}
+
+RotWoodHead: {
+	DisplayName: Rotted Wood Helmet
+	Tooltip: ""
+}
+
+RotWoodLegs: {
+	DisplayName: Rotted Wood Leggings
+	Tooltip: ""
+}
+
+BleachedTuna: {
+	DisplayName: Bleached Tuna
+	Tooltip: Rapidly belches out short range bubbles
+}
+
+CursedConch: {
+	DisplayName: Cursed Conch
+	Tooltip:
+		'''
+		If you listen closely, you won't hear anything
+		Uses a third of your health to teleport you to the opposite side of the world
+		However, its curse may occasionally teleport you to undesirable positions
+		If the position on the other side of the world cannot be teleported to, nothing will happen
+		You must also have enough health remaining to use this
+		'''
+}
+
+PirateBlunderbuss: {
+	DisplayName: Ghost Busster
+	Tooltip:
+		'''
+		Fires out a massive spread of bullets with a short range
+		Converts all ammo into ghostly bolts that pierce enemies
+		'''
+}
+
+PirateHook: {
+	DisplayName: Garghantuan Hook
+	Tooltip: Spawns short lived phantom hooks
+}
+
+PirateInkPen: {
+	DisplayName: Dead Man's Pen
+	Tooltip: Summons serpent illustrations to fight with you
+}
+
+PiratePotion: {
+	DisplayName: Scallywag Potion
+	Tooltip: Causes enemies to rarely drop gold coins on hit
+}
+
+PirateShipWheel: {
+	DisplayName: Hellship's Helm
+	Tooltip:
+		'''
+		Channel a slow whirlpool that can pull enemies towards it
+		Over time it will grow, increasing its speed and enemy pulling strength and range
+		'''
+}
+
+RotWoodHammer: {
+	DisplayName: Rotted Wood Hammer
+	Tooltip: ""
+}
+
+RotWoodSword: {
+	DisplayName: Rotted Wood Sword
+	Tooltip: ""
+}
+
 BottomlessPebbleBag: {
 	Tooltip: ""
 	DisplayName: Bottomless Pebble Bag
@@ -2819,7 +3021,7 @@ SpiderBody: {
 	Tooltip:
 		'''
 		3% increased critical strike chance
-		Taking a large amount of damage will give you a short speed boost
+		Taking damage will give you a short speed boost
 		'''
 }
 
@@ -3012,8 +3214,7 @@ PheromoneWhip: {
 	Tooltip:
 		'''
 		Your summons will focus struck enemies
-		Hitting enemies will inflict them with the spider pheromones debuff
-		This makes them take 20% more damage and 10% critical strike chance from spider minions
+		Causes enemies take 20% more damage and 10% critical strike chance from spider minions
 		'''
 }
 
@@ -3322,7 +3523,7 @@ CandyBag: {
 
 CreepyCandle: {
 	DisplayName: Creepy Candle
-	Tooltip: Magic projectiles will sometimes ignite enemies
+	Tooltip: Magic attacks will sometimes ignite enemies
 }
 
 EggCarton: {
@@ -3499,12 +3700,32 @@ SpookFishronTome: {
 	Tooltip: Cast giant slow-moving greek fire tornados
 }
 
+SpookFishronWhip: {
+	DisplayName: Spicy Eel
+	Tooltip:
+		'''
+		10 summon tag damage
+		Your summons will focus stuck enemies
+		Hitting enemies will set them ablaze with greek fire
+		Blazing enemies create explosive lingering bubbles when hit by minions
+		'''
+}
+
 SpookFishronWings: {
 	DisplayName: Spook Fishron Wings
 	Tooltip:
 		'''
 		Allows flight and slow fall
 		Allows quick travel in water 
+		'''
+}
+
+SpookFishronYoyo: {
+	DisplayName: Spit Roast
+	Tooltip:
+		'''
+		Creates a massive flame vortex around it
+		Has a shorter range, but will fling small sharkrons at nearby enemies
 		'''
 }
 
@@ -3644,8 +3865,7 @@ PeptoStomach: {
 	Tooltip:
 		'''
 		Hitting enemies will sometimes give them a stomach ache which weakens them
-		Enemies that have this debuff will explode into damaging pink bubbles on death
-		These pink bubbles can also sometimes inflict stomach ache onto enemies
+		Enemies that have this debuff will explode into damaging pink bubbles after 10 seconds
 		'''
 }
 
@@ -3944,7 +4164,7 @@ SentientPaladinsHammer: {
 	Tooltip:
 		'''
 		Throw a two-faced hammer that will chase a nearby enemy
-		Upon reaching the targeted enemy, it will strike it 3 times before returning to you
+		Upon reaching the targetted enemy, it will strike it 3 times before returning to you
 		'They won't stop yapping'
 		'''
 }
@@ -4074,7 +4294,7 @@ BrainJar: {
 	Tooltip:
 		'''
 		Summons brainy the brain to hover around you
-		Every minute brainy will explode all of your minions, dealing a ton of damage
+		Every 30 seconds brainy will explode all of your minions, dealing a ton of damage
 		Each explosions damage will scale further based on each individual minion's damage
 		Brainy does not take up any minion slots
 		'''
@@ -4725,8 +4945,8 @@ CemeteryGrassSeeds: {
 	DisplayName: Cemetery Grass Seeds
 	Tooltip:
 		'''
-		Plants grass on Swamp Soil
-		Plants moss on Catacomb Bricks
+		Plants grass on Swamp Soil and Catacomb Bricks
+		Plants moss on Black Sand and Black Sandstone
 		'''
 }
 
@@ -5893,6 +6113,15 @@ KrampusPylonItem: {
 		'''
 }
 
+ShipyardPylonItem: {
+	DisplayName: Boggy Shipyard Pylon
+	Tooltip:
+		'''
+		Teleport to another pylon when 2 villagers are nearby
+		You can only place one per type and in the matching biome
+		'''
+}
+
 SpiderCavePylonItem: {
 	DisplayName: Spider Grotto Pylon
 	Tooltip:
@@ -5982,6 +6211,166 @@ SpookySpiritRelicItem: {
 
 StitchSpiderRelicItem: {
 	DisplayName: Stitches Relic
+	Tooltip: ""
+}
+
+RotWoodBathtubItem: {
+	DisplayName: Rotted Wood Bathtub
+	Tooltip: ""
+}
+
+RotWoodBedItem: {
+	DisplayName: Rotted Wood Bed
+	Tooltip: ""
+}
+
+RotWoodBookcaseItem: {
+	DisplayName: Rotted Wood Bookcase
+	Tooltip: ""
+}
+
+RotWoodCandelabraItem: {
+	DisplayName: Rotted Wood Candelabra
+	Tooltip: ""
+}
+
+RotWoodCandleItem: {
+	DisplayName: Rotted Wood Candle
+	Tooltip: ""
+}
+
+RotWoodChairItem: {
+	DisplayName: Rotted Wood Chair
+	Tooltip: ""
+}
+
+RotWoodChandelierItem: {
+	DisplayName: Rotted Wood Chandelier
+	Tooltip: ""
+}
+
+RotWoodChestItem: {
+	DisplayName: Rotted Wood Chest
+	Tooltip: ""
+}
+
+RotWoodClockItem: {
+	DisplayName: Rotted Wood Clock
+	Tooltip: ""
+}
+
+RotWoodDoorItem: {
+	DisplayName: Rotted Wood Door
+	Tooltip: ""
+}
+
+RotWoodDresserItem: {
+	DisplayName: Rotted Wood Dresser
+	Tooltip: ""
+}
+
+RotWoodLampItem: {
+	DisplayName: Rotted Wood Lamp
+	Tooltip: ""
+}
+
+RotWoodLanternItem: {
+	DisplayName: Rotted Wood Lantern
+	Tooltip: ""
+}
+
+RotWoodPianoItem: {
+	DisplayName: Rotted Wood Piano
+	Tooltip: ""
+}
+
+RotWoodSinkItem: {
+	DisplayName: Rotted Wood Sink
+	Tooltip: ""
+}
+
+RotWoodSofaItem: {
+	DisplayName: Rotted Wood Sofa
+	Tooltip: ""
+}
+
+RotWoodTableItem: {
+	DisplayName: Rotted Wood Table
+	Tooltip: ""
+}
+
+RotWoodToiletItem: {
+	DisplayName: Rotted Wood Toilet
+	Tooltip: ""
+}
+
+RotWoodWorkBenchItem: {
+	DisplayName: Rotted Wood Work Bench
+	Tooltip: ""
+}
+
+ShipyardCampfireItem: {
+	DisplayName: Boggy Shipyard Campfire
+	Tooltip: ""
+}
+
+ShipyardTorchItem: {
+	DisplayName: Boggy Shipyard Torch
+	Tooltip: ""
+}
+
+MangroveSaplingItem: {
+	DisplayName: Mangrove Seedling
+	Tooltip: Plants mangrove saplings
+}
+
+BlackSandItem: {
+	DisplayName: Black Sand
+	Tooltip: ""
+}
+
+BlackSandstoneItem: {
+	DisplayName: Black Sandstone
+	Tooltip: ""
+}
+
+BlackSandstoneSlabItem: {
+	DisplayName: Black Sandstone Slab
+	Tooltip: ""
+}
+
+BlackSandstoneSlabWallItem: {
+	DisplayName: Black Sandstone Slab Wall
+	Tooltip: ""
+}
+
+BlackSandstoneWallItem: {
+	DisplayName: Black Sandstone Wall
+	Tooltip: ""
+}
+
+BlackSandWallItem: {
+	DisplayName: Black Sand Wall
+	Tooltip: ""
+}
+
+RotWoodItem: {
+	DisplayName: Rotted Wood
+	Tooltip: ""
+}
+
+RotWoodWallItem: {
+	DisplayName: Rotted Wood Wall
+	Tooltip: ""
+}
+
+TintedGlassItem: {
+	DisplayName: Tinted Glass
+	Tooltip: ""
+}
+
+TintedGlassWallItem: {
+	DisplayName: Tinted Glass Wall
 	Tooltip: ""
 }
 
@@ -6648,18 +7037,8 @@ GourdGreenCarvedItem: {
 	Tooltip: ""
 }
 
-GourdGreenCarvedLitItem: {
-	DisplayName: Green Gourd 'O Lantern
-	Tooltip: ""
-}
-
 GourdLimeCarvedItem: {
 	DisplayName: Lime Carved Gourd
-	Tooltip: ""
-}
-
-GourdLimeCarvedLitItem: {
-	DisplayName: Lime Gourd 'O Lantern
 	Tooltip: ""
 }
 
@@ -6668,18 +7047,8 @@ GourdLimeOrangeCarvedItem: {
 	Tooltip: ""
 }
 
-GourdLimeOrangeCarvedLitItem: {
-	DisplayName: Lime-Orange Gourd 'O Lantern
-	Tooltip: ""
-}
-
 GourdOrangeCarvedItem: {
 	DisplayName: Orange Carved Gourd
-	Tooltip: ""
-}
-
-GourdOrangeCarvedLitItem: {
-	DisplayName: Orange Gourd 'O Lantern
 	Tooltip: ""
 }
 
@@ -6688,18 +7057,8 @@ GourdRedCarvedItem: {
 	Tooltip: ""
 }
 
-GourdRedCarvedLitItem: {
-	DisplayName: Red Gourd 'O Lantern
-	Tooltip: ""
-}
-
 GourdRottenCarvedItem: {
 	DisplayName: Rotten Carved Gourd
-	Tooltip: ""
-}
-
-GourdRottenCarvedLitItem: {
-	DisplayName: Rotten Gourd 'O Lantern
 	Tooltip: ""
 }
 
@@ -6708,28 +7067,13 @@ GourdWhiteCarvedItem: {
 	Tooltip: ""
 }
 
-GourdWhiteCarvedLitItem: {
-	DisplayName: White Gourd 'O Lantern
-	Tooltip: ""
-}
-
 GourdYellowCarvedItem: {
 	DisplayName: Yellow Carved Gourd
 	Tooltip: ""
 }
 
-GourdYellowCarvedLitItem: {
-	DisplayName: Yellow Gourd 'O Lantern
-	Tooltip: ""
-}
-
 GourdYellowGreenCarvedItem: {
 	DisplayName: Yellow-Green Carved Gourd
-	Tooltip: ""
-}
-
-GourdYellowGreenCarvedLitItem: {
-	DisplayName: Yellow-Green Gourd 'O Lantern
 	Tooltip: ""
 }
 
@@ -7083,6 +7427,11 @@ WaterFountainRaveItem: {
 	Tooltip: ""
 }
 
+WaterFountainShipyardItem: {
+	DisplayName: Shipyard Water Fountain
+	Tooltip: ""
+}
+
 WaterFountainSpookFishronItem: {
 	DisplayName: Spook Fishron Water Fountain
 	Tooltip: ""
@@ -7221,6 +7570,15 @@ OldHunterQuestReset: {
 	Tooltip:
 		'''
 		Resets all old hunters quest progress
+		Testing Item
+		'''
+}
+
+GourdGenerator: {
+	DisplayName: Gourd Generator
+	Tooltip:
+		'''
+		Generates a giant living gourd
 		Testing Item
 		'''
 }

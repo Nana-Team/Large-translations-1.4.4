@@ -105,6 +105,8 @@ Skeletoid2.DisplayName: Скелетоид
 Skeletoid3.DisplayName: Скелетоид
 Skeletoid4.DisplayName: Скелетоид
 SkeletoidBig.DisplayName: Большой Джон
+BoneWorm1.DisplayName: Long Skeletoid
+BoneWorm2.DisplayName: Long Skeletoid
 BoneStackerBase.DisplayName: Плита Катакомб
 BoneStacker1.DisplayName: Костяная плита
 BoneStacker2.DisplayName: Костяная плита
@@ -537,6 +539,41 @@ TeddyBearGiant.DisplayName: Cornelius
 TeddyBearSnow.DisplayName: Snow Bear
 ToyRobot.DisplayName: Toy Robot
 ToyRobotTank.DisplayName: Toy Tankbot
+//shipyard
+SeaBunny.DisplayName: Sea Bunny
+SeaSheep.DisplayName: Sea Sheep
+SeaDragon1.DisplayName: Sea Dragon
+SeaDragon2.DisplayName: Sea Dragon
+SeaDragon3.DisplayName: Sea Dragon
+SeaDragon4.DisplayName: Sea Dragon
+GhostJelly1.DisplayName: Ghost Jelly
+GhostJelly2.DisplayName: Ghost Jelly
+GhostJelly3.DisplayName: Ghost Jelly
+GhostJelly4.DisplayName: Ghost Jelly
+Frogfish1.DisplayName: Frogfish
+Frogfish2.DisplayName: Frogfish
+BarreleyeFish.DisplayName: Barreleye Fish
+QueenConchSpawn.DisplayName: ""
+SeaSlugBody.DisplayName: Sea Slug
+SeaSlugHead.DisplayName: Sea Slug
+SeaSlugTail.DisplayName: Sea Slug
+TrumpetfishBody.DisplayName: Trumpetfish
+TrumpetfishHead.DisplayName: Trumpetfish
+TrumpetfishTail.DisplayName: Trumpetfish
+GiantAnglerfish.DisplayName: Giant Anglerfish
+GiantSnail.DisplayName: Giant Snail
+Nudibranch1.DisplayName: Nudibranch
+Nudibranch2.DisplayName: Nudibranch
+Nudibranch3.DisplayName: Nudibranch
+Isopod.DisplayName: Isopod
+Parrotfish.DisplayName: Parrotfish
+ParrotfishBaby.DisplayName: Baby Parrotfish
+YetiCrab.DisplayName: Yeti Crab
+Batfish.DisplayName: Batfish
+HermitCrab.DisplayName: Hermit Crab
+QueenConch.DisplayName: Queen Conch
+QueenConchIntro.DisplayName: ""
+PirateChestVisuals.DisplayName: ""
 
 //tameable
 Turkey: {

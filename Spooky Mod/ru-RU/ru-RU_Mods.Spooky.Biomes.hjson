@@ -99,6 +99,11 @@ SpiderWarBiome: {
 }
 
 RaveyardVisualBiome: {
-	TownNPCDialogueName: Raveyard Visual Biome
-	DisplayName: Raveyard Visual Biome
+	TownNPCDialogueName: Посмертная туса
+	DisplayName: Посмертная туса
+}
+
+ShipyardBiome: {
+	DisplayName: Топкое плотбище
+	TownNPCDialogueName: Топкое плотбище
 }

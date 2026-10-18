@@ -6,20 +6,8 @@ BloomBuffs: {
 }
 
 LittleEyeBounties: {
-	Bounty1Condition: Bounty Mission: Find this monster in the Spooky Forest and defeat it
-	Bounty2Condition: Bounty Mission: Find this monster in the Swampy Cemetery and defeat it
-	Bounty3Condition: Bounty Mission: Find this monster in the Spider Grotto and defeat it
-	Bounty4Condition: Bounty Mission: Find this monster in the Valley of Eyes and defeat it
-	Bounty5Condition: Bounty Mission: Find the Giant Egg in the Valley of Eyes and open it
-	BountyAccept: Click to accept this bounty and receive an item to attract said monster
-	BountyWarning: You will not be able to accept another bounty until you finish this one!
 	Bounty5Locked: Defeat all three mechanical bosses to unlock the conditions for this bounty mission
-	Bounty5Accept: Click to accept this bounty and receive an item to open the giant egg
-	Bounty5Warning: Good Luck!
 	BountyAccepted: You cannot select another bounty until you complete your current one
-	BountyCompleted: You have completed this bounty!
-	BountyCompletedItem: Click this button to get the item to summon this monster if you'd like to rematch it
-	BountyNewItem: Click this button to get another item to spawn this monster in case you've lost it
 }
 
 LittleEyeDialogueChoice: {
@@ -56,10 +44,10 @@ RottenDepthsTerminal: {
 
 EggEvent: {
 	EggEventBarProgress: Осталось прожить:
+	EggEventBarDisplayName: Яичное вторжение
 }
 
 PandoraBox: {
-	EggEventBarDisplayName: Яичное нашествие
 	PandoraBoxBarDisplayName: Ящик Пандоры
 	PandoraBoxBarProgress: "Текущая волна: "
 }

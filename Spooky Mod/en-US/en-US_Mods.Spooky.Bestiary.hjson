@@ -17,6 +17,8 @@ BoneStackerBase: A slab of brick with a face on it. It carries many bone slabs o
 BoneStacker1: Slabs of bone that can stack on top of each other. When their base is gone, they can use small legs under their bone shell to walk on the ground.
 BoneStacker2: When the base of their stack is destroyed, They can sometimes free themselves and attack foes directly as a last resort.
 BoneStacker3: These bone slabs have a not so secret weapon, their thorns. Their thorns are sharp, and can cause bleeding.
+BoneWorm1: It is unknown how its body became so elongated. Its beefy frame prevents it from being knocked around, allowing them to slowly plow through the catacomb halls.
+BoneWorm2: Their large bodies support the growth of various plants intertwined in their bones. Their extremely long and stiff bodies make them very good at being tanks.
 GiantPutty: Giant slime cubes that wander through the catacombs. These putty slimes are larger than usual, and now have the ability to smell their targets.
 RollingSkull1: Gigantic skulls that mindlessly roll around the catacombs, crushing and destroying anything in their path.
 RollingSkull2: No one knows how these skulls found their way into the catacombs. They can steamroll just about anything, and are capable of chasing intruders at high speeds.
@@ -27,6 +29,7 @@ Skeletoid2: Skeletoids can use the plants that overgrow them to their advantage.
 Skeletoid3: Skeletoids have a sense of fashion sometimes. This one has made the vines that overgrow it into a unique hair style, but it's probably just a phase.
 Skeletoid4: These skeletoids have a protective barrier of thorns and vines around them, making them a nasty foe if they sneak up on you. Close combat is not recommended.
 SkeletoidBig: Big john was once a very big and strong man who died at some point. But despite this, he is still big john to this day. Good for him.
+ZomboidGlyphomancer: Somehow, it grew itself a gigantic arm thinking it could cast bigger spells with a bigger hand. It seems like this has sort of payed off, with the exception of its real arms being gone and face likely being mutilated.
 ZomboidNecromancer: These zomboids spend their time locked away in the catacombs learning necromancy. They can conjure spirits by harnessing the souls from undead creatures around them.
 ZomboidPyromancer: Sometimes, even the most dedicated zomboid mages do not know how to use magic correctly. Judging by their burnt cloak, this is not the first time their spells exploded in their face.
 ZomboidSuspiciomancer: An unusually gigantic cloak with a group of mischievous zombinos hiding under it, disguised as one of the various zomboid mages. It is unknown why they travel together in such goofy ways.
@@ -301,7 +304,7 @@ ToyRobotTank: These bigger robots are armed with a harmful laser beamer that the
 //spider war
 ArchdukeSpider: The arch-duke who led the spiders in their conquest of the grotto. Now in his old age, he isn't capable of much anymore, but is still respected enough to cause an intense reaction from the spiders.
 OgreKing: Long ago when these giant spiders searched to expand their habitat, they stumbled upon a rare underground grotto which they would claim as their new home. They can quickly create sticky webs to trap its targets, then letting other spiders go in for the kill.
-EmperorMortar: These large orb weaver emporers are strong and sturdy, being sent in the frontlines during their devastating battle to take over the grotto. The explosive web bombs and homing missiles they launch from their shells are powerful and can destroy entire houses easily.
+EmperorMortar: These large orb weaver emperors are strong and sturdy, being sent in the frontlines during their devastating battle to take over the grotto. The explosive web bombs and homing missiles they launch from their shells are powerful and can destroy entire houses easily.
 CorklidQueen: In order for the spiders to successfully take over the grotto as their own, these spiders hid in the ground to serve as spies, then when necessary emerge and wreak havoc. They can also create explosive missiles in their shell, which they can shoot out using pressure.
 CamelColonel: These spiders are very slow and steady, using their poweful vision and tail cannons to take down foes from extreme distances. Unfortunately, those who thought they could escape the frontlines were quickly melted away by the super-corrosive venom shot by these quiet snipers.
 EmpressJoro: Their bodies and wing-like protrusions help them glide through the air with ease. Their powerful legs can carry resources to other spiders during their conquests, and even deploy smaller spiders to aid in combat to serve as distractions.
@@ -311,7 +314,7 @@ JoroBaby: These suspiciously bomb-shaped spiders can create explosions with some
 BeetleMite1: These small mites are generally lazy and will stay still, but dislike their personal space being intruded.
 BeetleMite2: Their eyebrows make them look grumpy, and that's because they usually are. Leave them alone and you won't be bitten like crazy.
 BerryMite1: They can float around by inflating a sac in their abdomen. They can do so with no worries as the spiders hide away when the mushroom spores are too intense.
-BerryMite2: Even though they can hover, they also haven't adapeted to learn how to control themselves so they just float around aimlessly.
+BerryMite2: Even though they can hover, they also haven't adapted to learn how to control themselves so they just float around aimlessly.
 BerryMite3: The sac inside of their body can be filled by inhaling spores which combined with their light bodies, gives them the ability to float around like a balloon.
 DeerMite: With large antlers and streamlined bodies, they can charge around wildly and stab with their antlers. However, their eye sight is poor and they often crash into surfaces and get stuck.
 DustMite1: They come out when the mushrooms emit spores, as this is what they primarily feed on. They can freely hunt as the spores become too toxic for the spiders to handle.
@@ -328,6 +331,26 @@ EvilMite: It is rare that mites are able to gather a ton of blood, but when they
 PotatoGator: This potato creature can use its root-like legs to move through the ground, and can launch itself out at unsuspecting creatures it wants to eat. Its mouth is filled with nothing but potato mush, so it usually tries to swallow its prey whole, no matter how large.
 ChristmasTreeMimic: When krampus had to step up to take care of christmas responsibilities, he got a tree to feel more festive. Due to his demonic nature, the evil power seeped into the tree. It stays still most of the time until someone or something annoys it, after which it will rampage everywhere.
 TarPig: This species of hog used to be plentiful in the desert caverns due to its favorite food, cactuses, being plentiful. Now that they are extinct, these giant tar slimes use their skeletal remains as a shield to protect themselves so they can float and relax in pools of tar peacefully.
-Chudshroom: These notoriously grumpy species do not like anyone going near them and will become agitated when anything invades its space. Their mushroom caps were a very rare and valueble item that led to them being over-hunted, perhaps why they have a very solitary and defensive nature.
+Chudshroom: These notoriously grumpy species do not like anyone going near them and will become agitated when anything invades its space. Their mushroom caps were a very rare and valuable item that led to them being over-hunted, perhaps why they have a very solitary and defensive nature.
+//shipyard
+BarreleyeFish: These ghost fish have large glowing bulbs in their transparent heads that resemble eyes. They lack higher intelligence and just slowly drift around in the air.
+Batfish: Grounded species that used to feed off of the ocean floor ages ago. Now they jump around in the air, with much less friction due to the lack of water.
+Frogfish1: Large frogfish lay in wait on the floor for something to show interest in their bright bodies, to then immediately ambush whatever comes near.
+Frogfish2: With bodies covered in bioluminescent patterns, they can use this to lure prey and deter predators from eating them. They are also coated in poisonous slime.
+GhostJelly: Glowing jellyfish that, even after death, remain venomous and dangerous. As ghosts they can float through the air, so you can't even avoid them out of water!
+GiantAnglerfish: In life and after death, they can use their light to attract prey. These anglerfish have grown to an extreme size, which makes their sharp teeth a whole lot worse.
+GiantSnail: These aquatic snails are shy and easily startled, and spend most of the time hiding in their shells. Sometimes, bigger animals require longer beauty sleep!
+HermitCrab: Despite being ghosts, their instinctual need to find a shell remains. They have a very heated rivalry with queen conchs, who frequently possess and evict them from their own shells.
+Isopod: Scuttling about, these isopods were one of the longest lasting species in the shipyard. They frequently feed off the moss that grows on the sand.
+Nudibranch: One of the most varied species in the shipyard, nudibranchs can come in a wide variety of bright colors.
+Parrotfish: Even in the afterlife, these fish remain extremely protective of their young. Attacking them or their babies will be met with immediate hostility.
+ParrotfishBaby: These offspring follow their parents constantly, learning how to survive from them.
+QueenConch: Gigantic molluscs that frequently evict hermit crabs out of their shell to live in. they are covered in slimey ectoplasm they can spray everywhere as a self-defense mechanism.
+SeaBunny: Peaceful little sea slugs that resemble bunnies, regarded as one of the cutest aquatic animals.
+SeaDragon: Nocturnal seahorses with very boney looking bodies that allowed them to float in water without having to move. They come in a variety of different colors.
+SeaSheep: Peaceful little sea slugs that resemble sheep, their bodies are shaped like bumpy green coral to protect themselves from predators.
+SeaSlug: Sea slugs can some in a wide, and sometimes long varieties. These ones are long and have unique looking fins that allow them to glide with ease.
+Trumpetfish: One of the few species in the shipyard with higher intelligence. They are territorial and will approach intruders with caution before attacking, but are smart enough to retreat if harmed.
+YetiCrab: Despite their large size, these crabs usually ate moss, algae, and microscopic organisms in the water before the shipyard dried up.
 //tameable
 Turkey: Not exactly the smartest birds, they wander about and peck at the ground to find food. They prefer the spooky forest because rotten seeds, their favorite snack, is plentiful there. They don't mind eating seeds dropped by people either.

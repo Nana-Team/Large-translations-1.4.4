@@ -1,0 +1,136 @@
+A general content mod, I add whatever I feel like adding. I try to make content in the mod feel unique.
+Currently the mod has:
+-9 Bosses with plenty of drops
+-A new structure/Biome the sky fortress!
+-Rhuthinium and Lune ore
+-some other items scattered throughout
+
+Discord: https://discord.gg/sdUz3yWKqF
+Source Code: https://github.com/qwerty3-14/QwertyMod
+
+Several spriters have helped in making this mod!
+-Havoc
+-Liquidated Assets
+-SUS
+-Darkpuppey
+-CassyDaBean
+-GamingWithZack
+-ShockedHorizon5
+-FailureOfMankind
+-Raz
+-Kerdo
+-Phobostar
+-Donmor
+-Olive
+-Kweequ
+
+Extra thanks
+-Turquiose (for writing custom themes)
+-musicman (polar exterminator theme)
+-direwolf420 (for some bug fixes and git management tips)
+-Kweequ (for some custom sound effects)
+
+
+Changelog
+1.0.11
+-Fixed mod not working on latest tmodloader version
+
+1.0.10
+-Invader Battleship can no longer summon invader behemoths
+-OLORD and all its projectile now glow in the dark
+-fixed super sky shot's sell value
+-Guide to critter companionship will now prevent vitalum headress from sucking the life out of critters
+
+1.0.9
+-Fixed a lot of effects activating twice when hitting with projectiles
+-changed how penguin generator stacked
+
+1.0.8
+-fixed bloody medalion doubling ALL damage instead of just magic damage
+-doppleganger will now cleanse itself of imperfections while equiped
+
+-Allowed many accessories that could not previously stack with thier tinkers or doppleganger to now stack
+    -Bloody medalion is now stackable (gives even more damage and a higher life cost)
+    -Amulet of Patience is now stackable
+    -Swordsman bage's effect is now stackable (increases duration of the buff it gives)
+    -Skyward Hilt's effect is now stackable
+    -Imperious Sheath is now stackable (meter builds up faster)
+    -All rune scrolls are now stackable
+    -Penguin Generator is now stackable
+
+1.0.7
+-fixed Polar exterminator treasure bag not dropping penguin launcher
+-added config options to turn off Imperious and OLORD screen shake
+
+1.0.6
+-Invader caster minion tweaks
+    -Spheres shot from the casters are capped at zapping 4 times before disapearing
+        -this means perfect accuracy with the sphere attack should result in equal dps to its close ranged attack
+    -Range on the caster's close range attack increased from 240 to 300
+    -damage increased 64->70
+-fixed vitalum core dropping from duke fishron bags instead of Plantera bags
+-fixed chrome shotgun draw offset
+-fixed gale armor setbonus description
+-fixed a lot of spelling errors
+
+1.0.5
+-Most invader sound effect have been changed (Thanks Kweequ)
+-Invader battleship's theme has been updated (Thanks Kweequ)
+
+-Fixed Nanodart probes and gun arrows gaining damage on bounce
+-Fixed nanodart probes sliding on intead of bouncing off tiles (when combined with previous bug nano darts could build up astronomical damage)
+-Fixed Gun glowmasks being offset
+-Invader battleship is now immune to confusion
+
+
+1.0.4
+-Fixed skyward hilt effect and swordsman badge effect working on ALL attacks
+-nerfed skyward hilt damage and swordsman badge crit chance 25% -> 20%, 
+    these accesories were made way back in 1.3 in an attempt to make swords not suck now that a lot of sword don't suck these can be tuned down
+-Imperious' phantom blades now despawn when Imperious dies or despawns
+
+1.0.3
+-There is only one Imperious, any attempt within the mod to have multiples of Imperious active has been thwarted
+-Fixed a bug where data on the fortress' invasion status wasn't being sent.
+
+1.0.2
+-fixed Invader battleship not dropping the invasion caller
+-fixed the fortress' invasion status not syncing in multiplayer
+
+-Invader Battleship's health reduced by 30%
+-Invader Battleship's damage reduced by 14%
+
+1.0.1
+-Fixed bug where if Invader battleship transition to phase 3 outside of sky fortress it'd get stuck
+-Bladed arrow is now dropped directly from Imperious instead of bladed arrow shaft
+-Removed Aqueuos from the Bladed Arrow recipe, so people who obtained a bladed arrow shaft before this update can convert it into a bladed arrow.
+
+1.0.0
+I've been working on this mod since Fall of 2018, I want to move on with other projectiles
+I will continue to keep the mod up to date with tmodloader and fix occasional bugs but have no plans of adding more content in the future
+I will still be open to community contributions such as resprites and mod translations
+
+New content
+-Added 3 new weapons, these drop directly from Invader Battleship
+-Invader battleship now has its own battle theme (Thanks Kweequ)
+-Music box for the invader battleship's theme (Thanks Kweequ)
+-Added Trophies for Noehtnap, Rune Ghost, Invader Battleship, and OLORD (Thanks Kweequ)
+-Added Boss masks for Ancient Machine, Noehtnap, Imperious, Invader Battleship, and OLORD (Thanks Kweequ)
+
+
+Bug Fixes
+-Fixed restless sun projectiles inflicting infinite iFrames
+-Fixed sentries not being able to benifit from damage bonuses
+
+Overhauls, polish, and balance changes
+-Sliding penguins can no longer damage penguin NPCs
+-Penguin generator is capped at 1 penguin pair per second, if a penguin is proced when on cooldown the damage will be added to the next penguin pair
+-Penguin generator proc chance 1/10 -> 1/15
+-Higher priest staff damage 140 -> 175
+-divine banishment use time 30 -> 22
+-Imperious' swings have acceleration
+-Imperious will wait half a second after the phantom ring attack before starting to swing
+-Added descriptions to mod commands that didn't have them
+
+
+

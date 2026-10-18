@@ -1,0 +1,138 @@
+Pages: {
+	Shipyard: {
+		Name: Топкое плотбище
+		Description: Controls aspects of the Shipyard ecotone's generation.
+
+		Members: {
+			CaveWaterChance: {
+				DisplayName: "[i:126] Cave Water Chance"
+				Tooltip: The chance for water to flood per-tile in caves.
+			}
+
+			MossOvalChance: {
+				DisplayName: "[i:4349] Moss Chance"
+				Tooltip: The chance for moss spots to appear.
+			}
+
+			MossOvalSizeMin: {
+				DisplayName: "[i:4349] Moss Size Minimum"
+				Tooltip: The minimum size, in tiles, for moss to spawn.
+			}
+
+			MossOvalSizeRange: {
+				DisplayName: "[i:4349] Moss Size Range"
+				Tooltip: The added randomized range, in tiles, for the size of moss to spawn.
+			}
+
+			StructureChance: {
+				DisplayName: "[i:Spooky/RotWoodItem] Structure Chance"
+				Tooltip: The chance for structures to spawn on the surface.
+			}
+
+			BigStructureChance: {
+				DisplayName: "[i:Spooky/BlackSandItem] Big Structure Chance"
+				Tooltip: The chance for structures on the surface to be big.
+			}
+
+			FenceChance: {
+				DisplayName: "[i:Spooky/SpookyWoodFenceItem] Fence Chance"
+				Tooltip: The chance for small fence groups to spawn on the surface.
+			}
+
+			GraveChance: {
+				DisplayName: "[i:321] Grave Chance"
+				Tooltip: The chance for graves to be placed on those fences.
+			}
+
+			GiantChestChance: {
+				DisplayName: "[i:Spooky/RotWoodChestItem] Giant Chest Chance"
+				Tooltip: The chance for chests to be placed underground.
+			}
+
+			CoralTreeChance: {
+				DisplayName: "[i:275] Coral Tree Chance"
+				Tooltip: The chance for coral trees to grow in water.
+			}
+
+			MangroveTreeChance: {
+				DisplayName: "[i:Spooky/RotWoodItem] Mangrove Tree Chance"
+				Tooltip: The chance for mangrove trees to grow on grass.
+			}
+
+			ShellChance: {
+				DisplayName: "[i:2625] Shell Chance"
+				Tooltip: The chance for shells to be placed.
+			}
+
+			AnchorChance: {
+				DisplayName: "[i:2424] Anchor Chance"
+				Tooltip: The chance for anchors to be placed.
+			}
+
+			VineChance: {
+				DisplayName: "[i:210] Vine Chance"
+				Tooltip: The chance for vines to be placed per ceiling tile.
+			}
+
+			StalactiteChance: {
+				DisplayName: "[i:Spooky/BlackSandstoneItem] Stalactite Chance"
+				Tooltip: The chance for stalactites to be placed per ceiling tile.
+			}
+
+			GiantCoralChance: {
+				DisplayName: "[i:275] Giant Coral Chance"
+				Tooltip: The chance for giant coral ambient tiles to be placed.
+			}
+
+			CoralChance: {
+				DisplayName: "[i:275] Coral Chance"
+				Tooltip: The chance for small coral ambient tiles to be placed.
+			}
+
+			StarfishChance: {
+				DisplayName: "[i:2626] Starfish Chance"
+				Tooltip: The chance for starfish ambient tiles to be placed.
+			}
+
+			SandPileChance: {
+				DisplayName: "[i:169] Sand Pile Chance"
+				Tooltip: The chance for sand pile ambient tiles to be placed.
+			}
+
+			RockPileChance: {
+				DisplayName: "[i:3] Rock Pile Chance"
+				Tooltip: The chance for rock pile ambient tiles to be placed.
+			}
+
+			PebbleChance: {
+				DisplayName: "[i:3] Pebble Chance"
+				Tooltip: The chance for pebbles to be placed.
+			}
+
+			SeaOatChance: {
+				DisplayName: "[i:283] Sea Oat Chance"
+				Tooltip: The chance for sea oats to be placed.
+			}
+
+			PotChance: {
+				DisplayName: "[i:3] Pot Chance"
+				Tooltip: The chance for pots to be placed.
+			}
+
+			ShelfCoralSmallChance: {
+				DisplayName: "[i:275] Shelf Coral Chance"
+				Tooltip: The chance for small shelf coral ambient tiles to be placed.
+			}
+
+			ShelfCoralBigChance: {
+				DisplayName: "[i:275] Shelf Coral Big Chance"
+				Tooltip: The chance for big shelf coral ambient tiles to be placed.
+			}
+
+			OverSpawn: {
+				DisplayName: "[i:50] Over Spawn"
+				Tooltip: Whether the shipyard should generate over spawn.
+			}
+		}
+	}
+}

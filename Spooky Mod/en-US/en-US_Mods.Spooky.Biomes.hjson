@@ -102,3 +102,8 @@ RaveyardVisualBiome: {
 	TownNPCDialogueName: Raveyard Visual Biome
 	DisplayName: Raveyard Visual Biome
 }
+
+ShipyardBiome: {
+	DisplayName: Boggy Shipyard
+	TownNPCDialogueName: Boggy Shipyard
+}

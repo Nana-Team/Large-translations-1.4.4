@@ -1,0 +1,29 @@
+GardenerAchievement: {
+	FriendlyName: Садовник
+	Description: Выполните половину заданий Апофеоза.
+}
+
+GreenThumbAchievement: {
+	FriendlyName: Ещё зелёный
+	Description: Выполните первое задание Апофеоза.
+}
+
+MarigoldAchievement: {
+	FriendlyName: Золотой бархатец
+	Description: Вырастите бархатец на изобильной листве.
+}
+
+ReachingApotheosisAchievement: {
+	FriendlyName: Достигая апофеоза
+	Description: Выполните все задания Апофеоза.
+}
+
+MudsquidAchievement: {
+	FriendlyName: Из грязи в грязи
+	Description: Пройдите через 1 000 тайлов в форме грязекальмара.
+}
+
+ShowcaseAchievement: {
+	FriendlyName: Показушник
+	Description: Покажите предмет Апофеозу.
+}

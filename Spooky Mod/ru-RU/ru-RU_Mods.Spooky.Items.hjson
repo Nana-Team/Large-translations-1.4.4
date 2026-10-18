@@ -480,7 +480,7 @@ FlyCharm: {
 		'''
 		Вокруг вас будет постепенно собираться рой из мух, вплоть до 10 особей
 		Каждая муха увеличивает вашу защиту на 1 ед.
-		Все мухи умрут при получении вами урона и начнут появляться снова только через 30 секунд
+		Все мухи моментально умрут при получении вами урона
 		'''
 }
 
@@ -1156,7 +1156,6 @@ SmileDogPicture: {
 	Tooltip:
 		'''
 		Призывает улыбающегося щенка, который преследует вас и разрывает на части ближайших врагов
-		Каждые 3 минуты собака будет атаковать вас в течении 10 секунд, после чего вернётся в нормальное состояние
 		«Выглядит эта собака не очень»
 		'''
 }
@@ -1299,6 +1298,11 @@ ChristmasOutfitHeadRed: {
 	Tooltip: ""
 }
 
+ChristmasOutfitLegs: {
+	DisplayName: Колготки помощника Крампуса
+	Tooltip: ""
+}
+
 DaffodilMask: {
 	DisplayName: Маска Нарцисс
 	Tooltip: ""
@@ -1339,6 +1343,11 @@ MocoMask: {
 	Tooltip: ""
 }
 
+MoyaiMask: {
+	DisplayName: Маска моаи
+	Tooltip: ""
+}
+
 NoseCultistHood: {
 	DisplayName: Капюшон носокультиста
 	Tooltip: Маскирует вас под культиста при ношении с мантией
@@ -1367,6 +1376,21 @@ PartySkeletonSkull: {
 DandyHead: {
 	DisplayName: Маска Dandy
 	Tooltip: «Отлично подходит для подражания внешности разработчиков Spooky!»
+}
+
+PirateBody: {
+	DisplayName: Плащ старого пирата
+	Tooltip: ""
+}
+
+PirateHead: {
+	DisplayName: Шляпа старого пирата
+	Tooltip: ""
+}
+
+PirateLegs: {
+	DisplayName: Штаны старого пирата
+	Tooltip: ""
 }
 
 RotGourdMask: {
@@ -1402,6 +1426,11 @@ ThreeDimensionalGlasses: {
 TortillaHead: {
 	DisplayName: Маска Tortilla
 	Tooltip: «Отлично подходит для подражания внешности разработчиков Spooky!»
+}
+
+UrchinHead: {
+	DisplayName: Маска морского ежа
+	Tooltip: ""
 }
 
 WaasephiHead: {
@@ -1441,6 +1470,16 @@ GrottoCrate: {
 
 GrottoCrate2: {
 	DisplayName: Ящик из корней
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ShipyardCrate: {
+	DisplayName: Прогнивший ящик
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ShipyardCrate2: {
+	DisplayName: Разложившийся ящик
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
@@ -1489,6 +1528,11 @@ OrroEel: {
 	Tooltip: «Водится в глазастой долине»
 }
 
+PinkSeaBunny: {
+	DisplayName: Shiny Sea Bunny
+	Tooltip: «Водится на топком плотбище»
+}
+
 PumpkinBobber: {
 	DisplayName: Тыквенный поплавок
 	Tooltip: Увеличивает навык рыбной ловли на 10 ед.
@@ -1496,6 +1540,20 @@ PumpkinBobber: {
 
 FishingSpiderRod: {
 	DisplayName: Удочка паука-рыболова
+	Tooltip: ""
+}
+
+FleshSac: {
+	DisplayName: Мешочек плоти
+	Tooltip:
+		'''
+		Содержит противные органические материалы
+		{$CommonItemTooltip.RightClickToOpen}
+		'''
+}
+
+GhostFish: {
+	DisplayName: Призрачная ножетелка
 	Tooltip: ""
 }
 
@@ -1534,6 +1592,11 @@ ZomboidFish: {
 	Tooltip: «Водится в жутком лесу»
 }
 
+BlackBerries: {
+	DisplayName: Черника
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
 BlackLicorice: {
 	DisplayName: Чёрная лакрица
 	Tooltip:
@@ -1541,6 +1604,11 @@ BlackLicorice: {
 		Немного снижает все характеристики
 		«Почему это вообще едят?»
 		'''
+}
+
+BlackRadish: {
+	DisplayName: Чёрная редька
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 CandyCorn: {
@@ -1559,6 +1627,16 @@ CaramelApple: {
 		{$BuffDescription.WellFed}
 		«Без понятия, откуда на этом яблоке появилась карамель»
 		'''
+}
+
+Cranberry: {
+	DisplayName: Брусника
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+Durian: {
+	DisplayName: Дуриан
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 EyeChocolate: {
@@ -1595,6 +1673,15 @@ GoofyPretzel: {
 		'''
 		{$BuffDescription.WellFed}
 		«Выглядит неправильно. Надеюсь, оно не живое»
+		'''
+}
+
+Lean: {
+	DisplayName: Лин
+	Tooltip:
+		'''
+		Даёт совершенно случайный бафф
+		«Никто не знает из чего он...»
 		'''
 }
 
@@ -2028,8 +2115,8 @@ EelSushi: {
 	DisplayName: Good Sushi
 	Tooltip:
 		'''
-		10 summon tag damage
-		Your summons will focus stuck enemies
+		10 ед. урона от метки призывателя
+		{$CommonItemTooltip.Whips}
 		Channel to control a giant eel that follows your cursor
 		'''
 }
@@ -2235,6 +2322,11 @@ ChalupoPepper: {
 	Tooltip: Призывает Чалупо и Чалупу
 }
 
+CrabClaw: {
+	DisplayName: Purple Crab Claw
+	Tooltip: Summons a pet vampire crab
+}
+
 DissolvedBone: {
 	DisplayName: Немного растворённая кость
 	Tooltip:
@@ -2247,6 +2339,11 @@ DissolvedBone: {
 ExpiredCheese: {
 	DisplayName: Expired Cheese
 	Tooltip: Summons a pet albino rat
+}
+
+FireflyLight: {
+	DisplayName: Firefly Flashlight
+	Tooltip: Summons a baby firefly to light the way
 }
 
 FriendlyShroom: {
@@ -2262,6 +2359,36 @@ FuzzBall: {
 GhostPetItem: {
 	DisplayName: Spooky Ghost
 	Tooltip: Summons a little ghost to provide light
+}
+
+GourdPetSeedGreen: {
+	DisplayName: Green Sprouting Seed
+	Tooltip: Summons Oscar
+}
+
+GourdPetSeedLime: {
+	DisplayName: Lime Sprouting Seed
+	Tooltip: Summons Stevenson
+}
+
+GourdPetSeedOrange: {
+	DisplayName: Orange Sprouting Seed
+	Tooltip: Summons Ben & Gerald
+}
+
+GourdPetSeedRed: {
+	DisplayName: Red Sprouting Seed
+	Tooltip: Summons Pedro
+}
+
+GourdPetSeedWhite: {
+	DisplayName: White Sprouting Seed
+	Tooltip: Summons Pickle
+}
+
+GourdPetSeedYellow: {
+	DisplayName: Yellow Sprouting Seed
+	Tooltip: Summons Augustus
 }
 
 Honeycomb: {
@@ -2364,7 +2491,7 @@ SmallDaffodil: {
 	DisplayName: Росток нарцисса
 	Tooltip:
 		'''
-		Призывает Корнелиуса
+		Призывает муху Франка
 		«Очень вкусно пахнет!»
 		'''
 }
@@ -2613,6 +2740,81 @@ SummonItem4: {
 		Успокаивает раздражённый глаз
 		Приманивает существо в глазастой долине, когда находится в инвентаре
 		'''
+}
+
+RotWoodBody: {
+	DisplayName: Нагрудник из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodHead: {
+	DisplayName: Шлем из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodLegs: {
+	DisplayName: Поножи из прогнившего дерева
+	Tooltip: ""
+}
+
+BleachedTuna: {
+	DisplayName: Bleached Tuna
+	Tooltip: Rapidly belches out short range bubbles
+}
+
+CursedConch: {
+	DisplayName: Cursed Conch
+	Tooltip:
+		'''
+		If you listen closely, you won't hear anything
+		Uses a third of your health to teleport you to the opposite side of the world
+		However, its curse may occasionally teleport you to undesirable positions
+		If the position on the other side of the world cannot be teleported to, nothing will happen
+		You must also have enough health remaining to use this
+		'''
+}
+
+PirateBlunderbuss: {
+	DisplayName: Ghost Busster
+	Tooltip:
+		'''
+		Fires out a massive spread of bullets with a short range
+		Converts all ammo into ghostly bolts that pierce enemies
+		'''
+}
+
+PirateHook: {
+	DisplayName: Garghantuan Hook
+	Tooltip: Spawns short lived phantom hooks
+}
+
+PirateInkPen: {
+	DisplayName: Dead Man's Pen
+	Tooltip: Summons serpent illustrations to fight with you
+}
+
+PiratePotion: {
+	DisplayName: Scallywag Potion
+	Tooltip: Causes enemies to rarely drop gold coins on hit
+}
+
+PirateShipWheel: {
+	DisplayName: Hellship's Helm
+	Tooltip:
+		'''
+		Channel a slow whirlpool that can pull enemies towards it
+		Over time it will grow, increasing its speed and enemy pulling strength and range
+		'''
+}
+
+RotWoodHammer: {
+	DisplayName: Молот из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodSword: {
+	DisplayName: Меч из прогнившего дерева
+	Tooltip: ""
 }
 
 BottomlessPebbleBag: {
@@ -2996,8 +3198,7 @@ PheromoneWhip: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.Whips}
-		Попадание по врагу оставит на нём след феромонов
-		Паукообразные миньоны получают бонус в 20% урона и 10% шанса критического удара против врагов, покрытых феромонами
+		Атаки паукообразных миньонов по отмеченным врагам наносят на 20% больше урона и получают 10% шанс критического удара
 		'''
 }
 
@@ -3306,7 +3507,7 @@ CandyBag: {
 
 CreepyCandle: {
 	DisplayName: Страшная свеча
-	Tooltip: Снаряды магического оружия иногда будут поджигать поражённых врагов
+	Tooltip: Магические атаки иногда будут поджигать поражённых врагов
 }
 
 EggCarton: {
@@ -3475,9 +3676,29 @@ SpookFishronTome: {
 	Tooltip: Выпускает огромные и медленные огненные торнадо
 }
 
+SpookFishronWhip: {
+	DisplayName: Spicy Eel
+	Tooltip:
+		'''
+		10 ед. урона от метки призывателя
+		{$CommonItemTooltip.Whips}
+		Hitting enemies will set them ablaze with greek fire
+		Blazing enemies create explosive lingering bubbles when hit by minions
+		'''
+}
+
 SpookFishronWings: {
 	DisplayName: Крылья Испугрона
 	Tooltip: "{$ItemTooltip.FishronWings}"
+}
+
+SpookFishronYoyo: {
+	DisplayName: Spit Roast
+	Tooltip:
+		'''
+		Creates a massive flame vortex around it
+		Has a shorter range, but will fling small sharkrons at nearby enemies
+		'''
 }
 
 ToiletPaper: {
@@ -3616,8 +3837,7 @@ PeptoStomach: {
 	Tooltip:
 		'''
 		Попадания по врагам иногда будут вызывать у них боль в животе, ослабляющую их
-		Враги с болью в животе при смерти взрываются розовыми пузырями, наносящими урон
-		Розовые пузыри также могут вызвать боль в животе у поражённых врагов
+		Враги с болью в животе через 10 секунд взрываются розовыми пузырями, наносящими урон
 		'''
 }
 
@@ -4045,7 +4265,7 @@ BrainJar: {
 	Tooltip:
 		'''
 		Summons brainy the brain to hover around you
-		Every minute brainy will explode all of your minions, dealing a ton of damage
+		Every 30 seconds brainy will explode all of your minions, dealing a ton of damage
 		Each explosions damage will scale further based on each individual minion's damage
 		Brainy does not take up any minion slots
 		'''
@@ -4208,7 +4428,6 @@ SnotBullet: {
 SnotMedication: {
 	DisplayName: Противоаллергические таблетки
 	Tooltip: Заменяет дебаффы «{$BuffName.OgreSpit}», «{$BuffName.Poisoned}» и «{$BuffName.Venom}» на положительные баффы
-		
 }
 
 SnotRocket: {
@@ -4337,7 +4556,7 @@ TomatoSeed: {
 
 VegetableSeed: {
 	DisplayName: Генно-модифицированные семена
-		Tooltip:
+	Tooltip:
 		'''
 		Позволяет вырастить одно из возможных овощных цветений
 		Необходимо сажать на ровной поверхности из плодородной почвы
@@ -4692,8 +4911,8 @@ CemeteryGrassSeeds: {
 	DisplayName: Семена травы кладбища
 	Tooltip:
 		'''
-		Сажает траву на болотистой грязи
-		Сажает мох на кирпичах Катакомб
+		Сажает траву на болотистой грязи и кирпичах катакомб
+		Сажает мох на чёрном песке и чёрном песчанике
 		'''
 }
 
@@ -5124,7 +5343,7 @@ OceanSandWallItem: {
 
 BroccoliSaplingItem: {
 	DisplayName: Саженец брокколи
-	Tooltip: Сажает саженцы брокколи
+	Tooltip: Сажает саженец брокколи
 }
 
 RadioactiveBulbItem: {
@@ -5856,6 +6075,11 @@ KrampusPylonItem: {
 		'''
 }
 
+ShipyardPylonItem: {
+	DisplayName: Пилон топкого плотбища
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
 SpiderCavePylonItem: {
 	DisplayName: Пилон паучьего грота
 	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
@@ -5933,6 +6157,166 @@ SpookySpiritRelicItem: {
 
 StitchSpiderRelicItem: {
 	DisplayName: Реликвия сшивателя
+	Tooltip: ""
+}
+
+RotWoodBathtubItem: {
+	DisplayName: Ванна из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodBedItem: {
+	DisplayName: Кровать из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodBookcaseItem: {
+	DisplayName: Книжный шкаф из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodCandelabraItem: {
+	DisplayName: Подсвечник из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodCandleItem: {
+	DisplayName: Свеча из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodChairItem: {
+	DisplayName: Стул из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodChandelierItem: {
+	DisplayName: Люстра из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodChestItem: {
+	DisplayName: Сундук из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodClockItem: {
+	DisplayName: Напольные часы из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodDoorItem: {
+	DisplayName: Дверь из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodDresserItem: {
+	DisplayName: Комод из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodLampItem: {
+	DisplayName: Напольная лампа из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodLanternItem: {
+	DisplayName: Фонарь из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodPianoItem: {
+	DisplayName: Пианино из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodSinkItem: {
+	DisplayName: Раковина из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodSofaItem: {
+	DisplayName: Диван из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodTableItem: {
+	DisplayName: Стол из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodToiletItem: {
+	DisplayName: Унитаз из прогнившего дерева
+	Tooltip: ""
+}
+
+RotWoodWorkBenchItem: {
+	DisplayName: Верстак из прогнившего дерева
+	Tooltip: ""
+}
+
+ShipyardCampfireItem: {
+	DisplayName: Костёр топкого плотбища
+	Tooltip: ""
+}
+
+ShipyardTorchItem: {
+	DisplayName: Факел топкого плотбища
+	Tooltip: ""
+}
+
+MangroveSaplingItem: {
+	DisplayName: Саженец мангровы
+	Tooltip: Сажает саженец мангровы
+}
+
+BlackSandItem: {
+	DisplayName: Чёрный песок
+	Tooltip: ""
+}
+
+BlackSandstoneItem: {
+	DisplayName: Чёрный песчаник
+	Tooltip: ""
+}
+
+BlackSandstoneSlabItem: {
+	DisplayName: Чёрная песчаниковая плита
+	Tooltip: ""
+}
+
+BlackSandstoneSlabWallItem: {
+	DisplayName: Стена из чёрной песчаниковой плиты
+	Tooltip: ""
+}
+
+BlackSandstoneWallItem: {
+	DisplayName: Стена из чёрного песчаника
+	Tooltip: ""
+}
+
+BlackSandWallItem: {
+	DisplayName: Стена из чёрного песка
+	Tooltip: ""
+}
+
+RotWoodItem: {
+	DisplayName: Прогнившая древесина
+	Tooltip: ""
+}
+
+RotWoodWallItem: {
+	DisplayName: Стена из прогнившего дерева
+	Tooltip: ""
+}
+
+TintedGlassItem: {
+	DisplayName: Тонированное стекло
+	Tooltip: ""
+}
+
+TintedGlassWallItem: {
+	DisplayName: Стена из тонированного стекла
 	Tooltip: ""
 }
 
@@ -6599,18 +6983,8 @@ GourdGreenCarvedItem: {
 	Tooltip: ""
 }
 
-GourdGreenCarvedLitItem: {
-	DisplayName: Фонарь из зелёной тыквы
-	Tooltip: ""
-}
-
 GourdLimeCarvedItem: {
 	DisplayName: Салатовая вырезанная тыква
-	Tooltip: ""
-}
-
-GourdLimeCarvedLitItem: {
-	DisplayName: Фонарь из салатовой тыквы
 	Tooltip: ""
 }
 
@@ -6619,18 +6993,8 @@ GourdLimeOrangeCarvedItem: {
 	Tooltip: ""
 }
 
-GourdLimeOrangeCarvedLitItem: {
-	DisplayName: Фонарь из салатово-оранжевой тыквы
-	Tooltip: ""
-}
-
 GourdOrangeCarvedItem: {
 	DisplayName: Оранжевая вырезанная тыква
-	Tooltip: ""
-}
-
-GourdOrangeCarvedLitItem: {
-	DisplayName: Фонарь из оранжевой тыквы
 	Tooltip: ""
 }
 
@@ -6639,18 +7003,8 @@ GourdRedCarvedItem: {
 	Tooltip: ""
 }
 
-GourdRedCarvedLitItem: {
-	DisplayName: Фонарь из красной тыквы
-	Tooltip: ""
-}
-
 GourdRottenCarvedItem: {
 	DisplayName: Протухшая вырезанная тыква
-	Tooltip: ""
-}
-
-GourdRottenCarvedLitItem: {
-	DisplayName: Фонарь из протухшей тыквы
 	Tooltip: ""
 }
 
@@ -6659,18 +7013,8 @@ GourdWhiteCarvedItem: {
 	Tooltip: ""
 }
 
-GourdWhiteCarvedLitItem: {
-	DisplayName: Фонарь из белой тыквы
-	Tooltip: ""
-}
-
 GourdYellowCarvedItem: {
 	DisplayName: Жёлтая вырезанная тыква
-	Tooltip: ""
-}
-
-GourdYellowCarvedLitItem: {
-	DisplayName: Фонарь из жёлтой тыквы
 	Tooltip: ""
 }
 
@@ -6678,12 +7022,6 @@ GourdYellowGreenCarvedItem: {
 	DisplayName: Жёлто-зелёная вырезанная тыква
 	Tooltip: ""
 }
-
-GourdYellowGreenCarvedLitItem: {
-	DisplayName: Фонарь из жёлто-зелёной тыквы
-	Tooltip: ""
-}
-
 
 GlowshroomWallItem: {
 	DisplayName: Стена из светогриба
@@ -7035,6 +7373,11 @@ WaterFountainRaveItem: {
 	Tooltip: ""
 }
 
+WaterFountainShipyardItem: {
+	DisplayName: Фонтан воды топкого плотбища
+	Tooltip: ""
+}
+
 WaterFountainSpookFishronItem: {
 	DisplayName: Фонтан воды Герцога Испугрона
 	Tooltip: ""
@@ -7173,6 +7516,15 @@ OldHunterQuestReset: {
 	Tooltip:
 		'''
 		Полностью сбрасывает прогресс всех заданий Старого охотника
+		Тестовый предмет
+		'''
+}
+
+GourdGenerator: {
+	DisplayName: Тыквогенератор
+	Tooltip:
+		'''
+		Генерирует большую тыку
 		Тестовый предмет
 		'''
 }
