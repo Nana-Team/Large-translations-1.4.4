@@ -51,3 +51,16 @@ PandoraBox: {
 	PandoraBoxBarDisplayName: Pandora's Box
 	PandoraBoxBarProgress: "Current Wave: "
 }
+
+SpiderWar: {
+	SpiderWarBarDisplayName: Spider War
+	SpiderWarWave: Wave
+	SpiderWarFinalWave: Final Wave
+	SpiderWarKills: Kills
+}
+
+HunterScepter: {
+	MeleeDisplayMode: Warrior
+	RangedDisplayMode: Ranger
+	MagicDisplayMode: Mage
+}

@@ -1,4 +1,5 @@
 OldWoodArmor: 1 defense
+RotWoodArmor: 2 defense
 WizardGangsterArmor:
 	'''
 	Grants 2% increased magic damage for each gold coin you have

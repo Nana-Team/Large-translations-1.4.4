@@ -51,3 +51,16 @@ PandoraBox: {
 	PandoraBoxBarDisplayName: Ящик Пандоры
 	PandoraBoxBarProgress: "Текущая волна: "
 }
+
+SpiderWar: {
+	SpiderWarBarDisplayName: Паучья война
+	SpiderWarWave: Волна
+	SpiderWarFinalWave: Финальная волна
+	SpiderWarKills: Убийств
+}
+
+HunterScepter: {
+	MeleeDisplayMode: Воин
+	RangedDisplayMode: Стрелок
+	MagicDisplayMode: Маг
+}
