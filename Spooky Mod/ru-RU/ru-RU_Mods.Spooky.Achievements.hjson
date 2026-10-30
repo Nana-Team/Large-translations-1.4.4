@@ -15,7 +15,7 @@ BossAchievementMoco: {
 
 BossAchievementDaffodil: {
 	FriendlyName: Под корень
-	Description: Одержать победу над Нарцисс — ленивым цветочным стражем с глубин Катакомб.
+	Description: Одержать победу над Нарцисс — ленивым цветочным стражем из глубин Катакомб.
 }
 
 BossAchievementOldHunter: {
@@ -45,120 +45,120 @@ BossAchievementBigBone: {
 
 EventAchievementEggEvent: {
 	FriendlyName: Яйцо всмятку
-	Description: Survive the egg incursion's onslaught of fleshy abominations.
+	Description: Переживите нападения чудовищ из плоти, порождённых Яичным нашествием.
 }
 
 EventAchievementPandoraBox: {
-	FriendlyName: You Moron...
-	Description: Open pandora's box and defeat all of the mischevious spirits trapped inside.
+	FriendlyName: Ты Идиот...
+	Description: Откройте ящик Пандоры и победите всех вредных духов, запертых в нём.
 }
 
 MiscAchievementTurkeyTamed: {
 	FriendlyName: Первое благодарение
-	Description: Tame a wild turkey using rotten seeds from the spooky forest. It is very friendly!
+	Description: Приручите дикую индюшку используя протухшие семена из жуткого леса. Она очень дружелюбна!
 }
 
 MiscAchievementGourdCarve: {
 	FriendlyName: Светильник Гнилька
-	Description: Carve one of the nasty moldy gourds in the spooky forest. Even though it still smells putrid, at least it has the halloween spirit!
+	Description: Вырежете одну из противных заплесневелых тыкв, которые растут в жутком лесу. Может, от неё и несёт гнильём, но теперь она в духе Хэллоуина!
 }
 
 MiscAchievementKrampusHired: {
-	FriendlyName: You're Hired!
-	Description: Meet krampus and get hired to deliver his presents to townsfolk.
+	FriendlyName: Вы приняты!
+	Description: Встретьте крампуса и согласитесь доставить его подарки горожанам.
 }
 
 MiscAchievementSentientItem: {
 	FriendlyName: Оно живое!
-	Description: Combine a sentient heart and a weapon at little eye's cauldron to give it the gift of life.
+	Description: Совместите разумное сердце и оружие в котле Глазик, чтобы даровть последнему жизнь.
 }
 
 MiscAchievementNoseCultist: {
-	FriendlyName: An Impostor Among Us
-	Description: Use a cultist's robes to blend in among the fanatics in the temple of moco.
+	FriendlyName: Амонгус среди нас (да-да, не точный перевод, зато забавно. Можете убрать с этим комментарием)
+	Description: Используйте робу культиста чтобы смешаться с фанатиками в храме Моко.
 }
 
 MiscAchievementBigDunkEat: {
-	FriendlyName: Breakfast With The Dead
-	Description: Say hello to the undead fish in the depths, and see how he responds!
+	FriendlyName: Завтрак с мертвецами
+	Description: Скажите "привет" мёртвой рыбе из глубин и услышьте её ответ!
 }
 
 MiscAchievementBigDunk: {
-	FriendlyName: Tummy Troubles
-	Description: Feed the sea mine to Big Dunk, sending him to re-extinction.
+	FriendlyName: Проблемы с животом
+	Description: Скормите морскую мину Здоровяку Дунку, заставив его вновь вымереть.
 }
 
 MiscAchievementLittleEyeQuest: {
-	FriendlyName: Eye Sore
-	Description: Complete little eye's mission for an omelette.
+	FriendlyName: Бельмо на глазу
+	Description: Завершите омлетную миссию Глазика.
 }
 
 EventAchievementSpore: {
-	FriendlyName: Choking Fumes
-	Description: Visit the spider grotto during a spore storm, where mushrooms emit trippy spores and mites come out to hunt.
+	FriendlyName: Удушливые испарения
+	Description: Посетите паучий грот во время спорошторма, когда грибы испускают психоделические споры и клещи выходят на охоту.
 }
 
 MiscAchievementBloomHarvest: {
-	FriendlyName: Bountiful Harvest
-	Description: Harvest a fully grown bloom plant.
+	FriendlyName: Щедрый урожай
+	Description: Соберите полностью выросшее цветущее растение.
 }
 
 EventAchievementSpiderWar: {
-	FriendlyName: Purple Heart
-	Description: Stand your ground valiantly against the powerhouses of the spider army.
+	FriendlyName: Фиолетовое сердце
+	Description: Отважно держите оборону против могучих сил паучьей армии.
 }
 
 EventAchievementSpiderWarEnd: {
-	FriendlyName: Tide Turning Titan
-	Description: Cause the surrender of the arachnid military by killing 20 enemies in the final wave.
+	FriendlyName: Титан, обращающий волны вспять
+	Description: Заставьте военные силы пауков сдаться, убив 20 врагов в финальной волне.
 }
 
 EventAchievementRaveyard: {
-	FriendlyName: Dance 'till You Drop Dead
-	Description: Attend one of the many raves that can happen in the swampy cemetery at night.
+	FriendlyName: Танцуй до упаду
+	Description: Поучаствуйте в одной из тус, которые могут происходить ночью на заболоченном кладбище.
 }
 
 MiscAchievementBloomSeeds: {
-	FriendlyName: Horticulturalist
-	Description: Become a true farmer by planting one of every different type of bloom seed.
+	FriendlyName: Садовод
+	Description: Станьте настоящим фермером, посадив хотя бы по одному цветущему семени каждого ивда.
 }
 
 MiscAchievementContrabandAcc: {
-	FriendlyName: Hyperrealistic Achievement
-	Description: Combine a set of the suspicious skeleton's contraband together into a powerful object.
+	FriendlyName: Сверхрелистичное достижение
+	Description: Совместите части контрабанды подозрительного скелета в могущественный объект.
 }
 
 MiscAchievementDumbZomboid: {
-	FriendlyName: How Did You Get Here?
-	Description: Encounter the lost zomboid wandering around your world.
+	FriendlyName: Как ты сюда попал?
+	Description: Встретьте потерянного зомбоида, бродящего по вашему миру.
 }
 
 MiscAchievementOldHunterQuest: {
-	FriendlyName: Let Daylight Into Vermin
-	Description: Complete all of the old hunter's bounty hunts for rare, strange creatures.
+	FriendlyName: Пролить свет на вредителей
+	Description: Завершите все заказы старого охотника на редких, странных созданий.
 }
 
 MiscAchievementKrampusQuest: {
-	FriendlyName: G.O.A.T.
-	Description: Help krampus find a way to save christmas in his own special way.
+	FriendlyName: Главный козёл (могу ещё предложить Х.О.Р.О.Ш. (но не передаёт игру слов) или Закозлил)
+	Description: Помогите крампусу найти свой собственный особый путь спясения рождества.
 }
 
 MiscAchievementDahlia: {
-	FriendlyName: On Fleek!
-	Description: Encounter and kill diva dahlia in the lower catacombs.
+	FriendlyName: Безупречно!
+	Description: Встретьте и убейте Диву-георгиню в нижних катакомбах.
 }
 
 MiscAchievementSpookyBestiary: {
-	FriendlyName: The Complete Spookbumps Series
-	Description: Collect every single spooky mod creature in the bestiary.
+	FriendlyName: Завершение жуткочных серий
+	Description: Запишите каждое существо из Spooky мода в бестиарий.
 }
 
 MiscAchievementDebuffs: {
-	FriendlyName: How Did We Get Here?
-	Description: Inflict 10 negative effects from spooky gear on a single unfortunate enemy.
+	FriendlyName: Как мы сюда попали?
+	Description: Наложите 10 негативных эффектов из Spooky мода на одного неудачливого врага.
 }
 
 MiscAchievementBiomeChest: {
-	FriendlyName: Tomb Raiding
-	Description: Open one of the special biome chests in the deeper catacombs.
+	FriendlyName: Расхищение гробниц
+	Description: Откройте один из специалных сундуков в нижних катакомбах.
 }
