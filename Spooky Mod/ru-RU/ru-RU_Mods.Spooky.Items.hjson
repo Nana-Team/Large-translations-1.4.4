@@ -475,7 +475,7 @@ FlowerPotShoe: {
 }
 
 FlyCharm: {
-	DisplayName: Очарование мухов
+	DisplayName: Амулет мух
 	Tooltip:
 		'''
 		Вокруг вас будет постепенно собираться рой из мух, вплоть до 10 особей
@@ -654,7 +654,7 @@ OldHunterSoul: {
 }
 
 RottenSeed: {
-	DisplayName: Протухшее семя
+	DisplayName: Протухшее семечко
 	Tooltip:
 		'''
 		Призывает Тухлую тыкву при использовании в жутком лесу
@@ -940,7 +940,7 @@ PandoraCuffs: {
 }
 
 PandoraRosary: {
-	DisplayName: Призрачный розарий
+	DisplayName: Призрачные чётки
 	Tooltip:
 		'''
 		Каждые 5 секунд вокруг вас будут появляются призрачные руки, вплоть до 5 штук
@@ -1012,7 +1012,7 @@ RustedBullet: {
 
 SpiritHorsemanBody: {
 	DisplayName: Латы призрачного всадника
-	Tooltip: Увеличивает урон на 13%
+	Tooltip: Увеличивает урон на 15%
 }
 
 SpiritHorsemanHead: {
@@ -1315,7 +1315,7 @@ DylanDoeHead: {
 
 FlowerPotHead: {
 	DisplayName: Наголовный цветочный горшок
-	Tooltip: «Это выглядит не так круто, как ты думаешь»
+	Tooltip: «Вообще-то, он нужен не для этого»
 }
 
 HatHead: {
@@ -2127,38 +2127,38 @@ FishboneChunk: {
 }
 
 MineDynamite: {
-	DisplayName: Box of Dynamites
+	DisplayName: Ящик с динамитом
 	Tooltip:
 		'''
-		A box of old dynamite sticks
-		Component used to make a bomb
+		Ящик со старыми динамитными шашками
+		Один из элементов для создания бомбы
 		'''
 }
 
 MineMetalPlates: {
-	DisplayName: Metal Plates
+	DisplayName: Металлические пластины
 	Tooltip:
 		'''
-		Very sturdy, but flexible
-		Component used to make a bomb
+		Очень прочные, но гибкие
+		Один из элементов для создания бомбы
 		'''
 }
 
 MinePressureSensor: {
-	DisplayName: Pressure Sensors
+	DisplayName: Датчик давления
 	Tooltip:
 		'''
-		Capable of sensing any change in pressure
-		Component used to make a bomb
+		Улавливает любые изменения давления
+		Один из элементов для создания бомбы
 		'''
 }
 
 MineTimer: {
-	DisplayName: Mechanical Timer
+	DisplayName: Механический таймер
 	Tooltip:
 		'''
-		A timer that sends a singal when complete
-		Component used to make a bomb
+		Посылает сигнал по истечению заданного времени
+		Один из элементов для создания бомбы
 		'''
 }
 
@@ -2167,8 +2167,8 @@ Mine: {
 	Tooltip:
 		'''
 		Большая мина с прикреплённой запиской. На ней написано:
-		[c/686868:Это крайняя мера, но, вероятно, это наш единственный шанс...]
-		[c/686868:Найдите образец 01-Д, заманите его к себе, а затем бросьте эту бомбу ему в пасть]
+		[c/686868:Это крайняя мера, но, вероятно, наш единственный шанс...]
+		[c/686868:Найдите образец 01-Д, приманите его к себе, а затем бросьте эту бомбу ему в пасть]
 		[c/686868:-Джон]
 		'''
 }
@@ -2362,33 +2362,33 @@ GhostPetItem: {
 }
 
 GourdPetSeedGreen: {
-	DisplayName: Green Sprouting Seed
-	Tooltip: Summons Oscar
+	DisplayName: Зелёное проросшее семечко
+	Tooltip: Призывает Оскара
 }
 
 GourdPetSeedLime: {
-	DisplayName: Lime Sprouting Seed
-	Tooltip: Summons Stevenson
+	DisplayName: Салатовое проросшее семечко
+	Tooltip: Призывает Стивенсона
 }
 
 GourdPetSeedOrange: {
-	DisplayName: Orange Sprouting Seed
-	Tooltip: Summons Ben & Gerald
+	DisplayName: Оранжевое проросшее семечко
+	Tooltip: Призывает Бена и Геральда
 }
 
 GourdPetSeedRed: {
-	DisplayName: Red Sprouting Seed
-	Tooltip: Summons Pedro
+	DisplayName: Красное проросшее семечко
+	Tooltip: Призывает Педро
 }
 
 GourdPetSeedWhite: {
-	DisplayName: White Sprouting Seed
-	Tooltip: Summons Pickle
+	DisplayName: Белое проросшее семечко
+	Tooltip: Призывает Пикла
 }
 
 GourdPetSeedYellow: {
-	DisplayName: Yellow Sprouting Seed
-	Tooltip: Summons Augustus
+	DisplayName: Жёлтое проросшее семечко
+	Tooltip: Призывает Огастуса
 }
 
 Honeycomb: {
@@ -2882,16 +2882,16 @@ BigBoneSlingshot: {
 }
 
 BigDunkSlingshot: {
-	DisplayName: Zomboid Slingshot
-	Tooltip: Fires out zomboid juice along with the ammo you are using
+	DisplayName: Зомбоидная рогатка
+	Tooltip: Запускает зомбоидную жидкость вместе с используемым вами боеприпасом
 }
 
 EyeSlingshot: {
-	DisplayName: Dualeye Slingshot
+	DisplayName: Двуглазая рогатка
 	Tooltip:
 		'''
-		Only uses one ammo and fires out 2 projectiles at once
-		Converts Mossy Pebbles into mini orro-boros
+		Запускает два снаряда, расходуя при этом только один боеприпас
+		Превращает замшелые камушки в маленьких Урро и Боро
 		'''
 }
 
@@ -2904,7 +2904,7 @@ HighVelocitySlingshot: {
 	DisplayName: Арбалетная рогатка
 	Tooltip:
 		'''
-		Тяжёлая рогатка, требующая времени на натяжение, но выпускающая снаряды с огромной скоростью
+		Тяжёлая рогатка, требующая время на натяжение, но запускающая снаряды с огромной скоростью
 		Выпущенные снаряды пронзают до двух врагов
 		'''
 }
@@ -2957,7 +2957,7 @@ TarFlinger: {
 	Tooltip: Converts Mossy Pebbles into tar that damages and slows all nearby enemies
 }
 
-SlingshotAmmoTooltip: Used as ammo with slingshots
+SlingshotAmmoTooltip: Используется в качестве боеприпасов для рогатки
 
 MortarBody: {
 	DisplayName: Ракетомётный панцирь
@@ -3997,7 +3997,7 @@ SentientChumCaster: {
 	Tooltip:
 		'''
 		Забрасывает два поплавка за раз
-		Может выловить чудовищ из озера крови
+		Может вылавливать чудовищ из озера крови
 		«Она рычит на вас»
 		'''
 }
@@ -4911,7 +4911,7 @@ CemeteryGrassSeeds: {
 	DisplayName: Семена травы кладбища
 	Tooltip:
 		'''
-		Сажает траву на болотистой грязи и кирпичах катакомб
+		Сажает траву на болотистой грязи и кирпичах Катакомб
 		Сажает мох на чёрном песке и чёрном песчанике
 		'''
 }
@@ -5877,7 +5877,7 @@ ShadowEyePaintingItem: {
 }
 
 IconPainting1Item: {
-	DisplayName: Картина «Лицо тыквы»
+	DisplayName: Картина «Тыквенное лицо»
 	Tooltip: «DylanDoe21»
 }
 
@@ -6316,7 +6316,7 @@ TintedGlassItem: {
 }
 
 TintedGlassWallItem: {
-	DisplayName: Стена из тонированного стекла
+	DisplayName: Тонированная стеклянная стена
 	Tooltip: ""
 }
 
@@ -6446,7 +6446,7 @@ SporeMonolithItem: {
 }
 
 BirchWoodItem: {
-	DisplayName: Старая берёза
+	DisplayName: Старая берёзовая древесина
 	Tooltip: ""
 }
 
@@ -6859,7 +6859,7 @@ TinyMushroomCageItem: {
 }
 
 GourdBlockGreenItem: {
-	DisplayName: Зелёная тыква
+	DisplayName: Блок зелёной тыквы
 	Tooltip: ""
 }
 
@@ -6874,7 +6874,7 @@ GourdBlockGreenWallItem: {
 }
 
 GourdBlockLimeItem: {
-	DisplayName: Салатовая тыква
+	DisplayName: Блок салатовой тыквы
 	Tooltip: ""
 }
 
@@ -6889,7 +6889,7 @@ GourdBlockLimeWallItem: {
 }
 
 GourdBlockLimeOrangeItem: {
-	DisplayName: Салатово-оранжевая тыква
+	DisplayName: Блок салатово-оранжевой тыквы
 	Tooltip: ""
 }
 
@@ -6904,7 +6904,7 @@ GourdBlockLimeOrangeWallItem: {
 }
 
 GourdBlockOrangeItem: {
-	DisplayName: Оранжевая тыква
+	DisplayName: Блок оранжевой тыквы
 	Tooltip: ""
 }
 
@@ -6919,7 +6919,7 @@ GourdBlockOrangeWallItem: {
 }
 
 GourdBlockRedItem: {
-	DisplayName: Красная тыква
+	DisplayName: Блок красной тыквы
 	Tooltip: ""
 }
 
@@ -6934,7 +6934,7 @@ GourdBlockRedWallItem: {
 }
 
 GourdBlockWhiteItem: {
-	DisplayName: Белая тыква
+	DisplayName: Блок белой тыквы
 	Tooltip: ""
 }
 
@@ -6949,7 +6949,7 @@ GourdBlockWhiteWallItem: {
 }
 
 GourdBlockYellowGreenItem: {
-	DisplayName: Жёлто-зелёная тыква
+	DisplayName: Блок жёлто-зелёной тыквы
 	Tooltip: ""
 }
 
@@ -6964,7 +6964,7 @@ GourdBlockYellowGreenWallItem: {
 }
 
 GourdBlockYellowItem: {
-	DisplayName: Жёлтая тыква
+	DisplayName: Блок жёлтой тыквы
 	Tooltip: ""
 }
 
@@ -6979,47 +6979,47 @@ GourdBlockYellowWallItem: {
 }
 
 GourdGreenCarvedItem: {
-	DisplayName: Зелёная вырезанная тыква
+	DisplayName: Вырезанная зелёная тыква
 	Tooltip: ""
 }
 
 GourdLimeCarvedItem: {
-	DisplayName: Салатовая вырезанная тыква
+	DisplayName: Вырезанная салатовая тыква
 	Tooltip: ""
 }
 
 GourdLimeOrangeCarvedItem: {
-	DisplayName: Салатово-оранжевая вырезанная тыква
+	DisplayName: Вырезанная салатово-оранжевая тыква
 	Tooltip: ""
 }
 
 GourdOrangeCarvedItem: {
-	DisplayName: Оранжевая вырезанная тыква
+	DisplayName: Вырезанная оранжевая тыква
 	Tooltip: ""
 }
 
 GourdRedCarvedItem: {
-	DisplayName: Красная вырезанная тыква
+	DisplayName: Вырезанная красная тыква
 	Tooltip: ""
 }
 
 GourdRottenCarvedItem: {
-	DisplayName: Протухшая вырезанная тыква
+	DisplayName: Вырезанная протухшая тыква
 	Tooltip: ""
 }
 
 GourdWhiteCarvedItem: {
-	DisplayName: Белая вырезанная тыква
+	DisplayName: Вырезанная белая тыква
 	Tooltip: ""
 }
 
 GourdYellowCarvedItem: {
-	DisplayName: Жёлтая вырезанная тыква
+	DisplayName: Вырезанная жёлтая тыква
 	Tooltip: ""
 }
 
 GourdYellowGreenCarvedItem: {
-	DisplayName: Жёлто-зелёная вырезанная тыква
+	DisplayName: Вырезанная жёлто-зелёная тыква
 	Tooltip: ""
 }
 

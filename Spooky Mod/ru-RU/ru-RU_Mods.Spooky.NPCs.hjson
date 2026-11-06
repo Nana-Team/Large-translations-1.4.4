@@ -2,7 +2,7 @@ RotGourd: {
 	DisplayName: Тухлая тыква
 
 	BossChecklistIntegration: {
-		SpawnInfo: Используйте [i:Spooky/RottenSeed] в жутком лесу. Семя можно получить при разрушении заплесневевших тыкв в этом же биоме.
+		SpawnInfo: Используйте [i:Spooky/RottenSeed] в жутком лесу. Семечко можно получить при разрушении протухших тыкв в этом же биоме.
 		DespawnMessage: Тухлая тыква надавала всем в тыкву...
 	}
 }
@@ -48,7 +48,7 @@ OrroHead: {
 
 	BossChecklistIntegration: {
 		EntryName: Урро и Боро
-		SpawnInfo: Используйте [i:Spooky/Concoction] на огромном яйце в глазастой долине после победы над Яичным вторжением.
+		SpawnInfo: Используйте [i:Spooky/Concoction] на огромном яйце в глазастой долине после победы над Яичным натиском.
 		DespawnMessage: Урро и Боро
 	}
 }
@@ -550,9 +550,9 @@ GhostJelly1.DisplayName: Ghost Jelly
 GhostJelly2.DisplayName: Ghost Jelly
 GhostJelly3.DisplayName: Ghost Jelly
 GhostJelly4.DisplayName: Ghost Jelly
-Frogfish1.DisplayName: Frogfish
-Frogfish2.DisplayName: Frogfish
-BarreleyeFish.DisplayName: Barreleye Fish
+Frogfish1.DisplayName: Морской чёрт
+Frogfish2.DisplayName: Морской чёрт
+BarreleyeFish.DisplayName: Бочкоглаз
 QueenConchSpawn.DisplayName: ""
 SeaSlugBody.DisplayName: Sea Slug
 SeaSlugHead.DisplayName: Sea Slug
@@ -569,7 +569,7 @@ Isopod.DisplayName: Isopod
 Parrotfish.DisplayName: Parrotfish
 ParrotfishBaby.DisplayName: Baby Parrotfish
 YetiCrab.DisplayName: Yeti Crab
-Batfish.DisplayName: Batfish
+Batfish.DisplayName: Рыба-нетопырь
 HermitCrab.DisplayName: Hermit Crab
 QueenConch.DisplayName: Queen Conch
 QueenConchIntro.DisplayName: ""

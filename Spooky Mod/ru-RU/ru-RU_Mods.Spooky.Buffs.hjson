@@ -756,33 +756,33 @@ SpookFishronWhipDebuff: {
 }
 
 GourdPetGreenBuff: {
-	DisplayName: Oscar
-	Description: The gourd lights your way!
+	DisplayName: Оскар
+	Description: Ваш путь освещает тыква!
 }
 
 GourdPetLimeBuff: {
-	DisplayName: Stevenson
-	Description: The gourd lights your way!
+	DisplayName: Стивенсон
+	Description: Ваш путь освещает тыква!
 }
 
 GourdPetOrangeBuff: {
-	DisplayName: Ben & Gerald
-	Description: The gourds light your way!
+	DisplayName: Бен и Геральд
+	Description: Ваш путь освещают тыквы!
 }
 
 GourdPetRedBuff: {
-	DisplayName: Pedro
-	Description: The gourd lights your way!
+	DisplayName: Педро
+	Description: Ваш путь освещает тыква!
 }
 
 GourdPetWhiteBuff: {
-	DisplayName: Pickle
-	Description: The gourd lights your way!
+	DisplayName: Пикл
+	Description: Ваш путь освещает тыква!
 }
 
 GourdPetYellowBuff: {
-	DisplayName: Augustus
-	Description: The gourd lights your way!
+	DisplayName: Огастус
+	Description: Ваш путь освещает тыква!
 }
 
 PiratePotionBuff: {

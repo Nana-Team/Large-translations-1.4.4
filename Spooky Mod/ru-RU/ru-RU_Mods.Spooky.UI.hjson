@@ -1,13 +1,13 @@
 BloomBuffs: {
 	DivaStacks: Максимум фруктов:
 	Revives: Осталось жизней:
-	DefenseBonus: Defense Bonus:
+	DefenseBonus: Бонусная защита:
 	RightClick: (Нажмите ПКМ, чтобы удалить)
 }
 
 LittleEyeBounties: {
-	Bounty5Locked: Defeat all three mechanical bosses to unlock the conditions for this bounty mission
-	BountyAccepted: You cannot select another bounty until you complete your current one
+	Bounty5Locked: Убейте всех трёх механических боссов, чтобы открыть это задание
+	BountyAccepted: Вы не можете взять новое задание, пока не закончили текущее
 }
 
 LittleEyeDialogueChoice: {
@@ -44,7 +44,7 @@ RottenDepthsTerminal: {
 
 EggEvent: {
 	EggEventBarProgress: Осталось прожить:
-	EggEventBarDisplayName: Яичное вторжение
+	EggEventBarDisplayName: Яичный натиск
 }
 
 PandoraBox: {

@@ -164,11 +164,9 @@ TubeWorm.MapEntry: Tube Worm
 LabSafe.MapEntry: Rusty Safe
 EyeTreeShort.MapEntry: Eye Stalk
 LittleSpiderJar.MapEntry: Little Spider Jar
-GrottoTree1.MapEntry: Grotto Tree
-GrottoTree2.MapEntry: Grotto Tree
-GrottoTree3.MapEntry: Grotto Tree
 GrottoTreeSapling.MapEntry: Sapling
-SporeShroomTreeSapling.MapEntry: Sapling
+SporeShroomTreeSapling.MapEntry: Spore Shroom Sapling
+SporeShroomTree.MapEntry: Giant Spore Shroom
 BirchChest.MapEntry: Old Birch Chest
 BroccoliSapling.MapEntry: Broccoli Sapling
 TubeWormSapling.MapEntry: Tube Worm Polyp
@@ -180,3 +178,5 @@ QueenShell.MapEntry: Giant Conch Shell
 GiantPirateChest.MapEntry: Pirate's Treasure
 RotWoodChest.MapEntry: Rotted Wood Chest
 ShipyardPylon.MapEntry: Shipyard Pylon
+WaxcapTreeSapling.MapEntry: Waxcap Sapling
+WaxcapTree.MapEntry: Giant Waxcap

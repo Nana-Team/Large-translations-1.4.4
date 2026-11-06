@@ -89,8 +89,8 @@ SpookyBiomeUgGlowshroom: {
 }
 
 SporeEventBiome: {
-	DisplayName: Споровой смерч
-	TownNPCDialogueName: Споровой смерч
+	DisplayName: Спорошторм
+	TownNPCDialogueName: Спорошторм
 }
 
 SpiderWarBiome: {

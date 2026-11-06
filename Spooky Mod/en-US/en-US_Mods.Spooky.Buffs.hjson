@@ -794,3 +794,8 @@ InkFishBuff: {
 	DisplayName: Ink Serpent
 	Description: The serpent illustrations will fight for you
 }
+
+TinyPumpPuttyBuff: {
+	DisplayName: Tiny Pumpkin Putty
+	Description: The pumpkin putties will smush your enemies!
+}

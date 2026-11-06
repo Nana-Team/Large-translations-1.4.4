@@ -4,7 +4,7 @@ PandoraBox: {
 }
 
 EggEvent: {
-	EntryName: Яичное вторжение
+	EntryName: Яичный натиск
 	SpawnInfo: Use the [i:Spooky/Concoction] to pour acid on the giant egg in the valley of eyes if you haven't completed the event yet. Use a [i:Spooky/StrangeCyst] nearby the giant egg if you have completed the event already.
 }
 
@@ -14,6 +14,6 @@ SpiderWar: {
 }
 
 SporeEvent: {
-	EntryName: Споровый смерч
+	EntryName: Спорошторм
 	SpawnInfo: Occurs randomly in the spider grotto during hardmode, or can be started by using a [i:Spooky/SporeEventStarter] in the spider grotto.
 }

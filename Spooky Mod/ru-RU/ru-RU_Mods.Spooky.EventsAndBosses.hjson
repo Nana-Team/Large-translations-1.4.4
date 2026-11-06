@@ -12,11 +12,11 @@ EggEventOver: The egg's barrier has been broken!
 EggEventOverBeaten: The egg incursion has ended
 RaveyardStart: A rave has started in the cemetery!
 RaveyardEnd: The rave in the cemetery has ended
-EMFReaderNoGhost: No paranormal energy nearby!
-EMFReaderGhost: Paranormal energy detected!
-EMFReaderRaveyard: Skeletal activity detected!
-EMFReaderSpookySpirit: Powerful paranormal energy detected!
-EMFReaderPandoraBox: Chaotic paranormal energy detected!
-EMFReaderSpiritExists: Extreme paranormal activity occuring!
+EMFReaderNoGhost: Паранормальная энергия не обнаружена!
+EMFReaderGhost: Обнаружена паранормальная энергия!
+EMFReaderRaveyard: Обнаружена активность скелетов!
+EMFReaderSpookySpirit: Обнаружена огромная паранормальная энергия!
+EMFReaderPandoraBox: Обнаружена хаотическая паранормальная энергия!
+EMFReaderSpiritExists: Происходит огромная паранормальная активность!
 SporeEventStart: A spore storm is happening in the grotto!
 SporeEventEnd: The spore storm in the grotto has calmed down
